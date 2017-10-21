@@ -1,0 +1,2061 @@
+American Educational Research Association
+
+The Culture of Sexual Harassment in Secondary Schools
+Author(s): Valerie E. Lee, Robert G. Croninger, Eleanor Linn, Xianglei Chen
+Source: American Educational Research Journal, Vol. 33, No. 2 (Summer, 1996), pp. 383-417
+Published by: American Educational Research Association
+Stable URL: http://www.jstor.org/stable/1163290
+Accessed: 05/03/2009 12:53
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=aera.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit organization founded in 1995 to build trusted digital archives for scholarship. We work with the
+scholarly community to preserve their work and the materials they rely upon, and to build a common research platform that
+promotes the discovery and use of these resources. For more information about JSTOR, please contact support@jstor.org.
+
+American Educational Research Association is collaborating with JSTOR to digitize, preserve and extend
+access to American Educational Research Journal.
+
+http://www.jstor.org
+
+AmericanEducationalResearchJournal
+Summer1996, Vol.33, No. 2, pp. 383-417
+
+The Culture of Sexual Harassment in
+Secondary Schools
+Valerie E. Lee
+Robert G. Croninger
+EleanorLinn
+Xianglei Chen
+University of Michigan
+"This
+study investigatesthefrequency, severity,and consequencesof sexual
+harassmentin Americansecondaryschools,using 1993 surveydatafrom a
+nationally representativesample of 1,203 8th to 11th gradersin 79public
+schools.Wefoundthat83%ofgirlsand 60%of boysreceiveunwantedsexual
+attention in school. Exceptfor gender, social backgroundis unrelated to
+eithertheprobabilityor the severityof sexual harassment.However,factors
+characterizingthe contextof harassmentare stronglyassociatedwith both
+occurrenceand severity:the harassmentexperiencesoffriends,perceptions
+of the school environmentfor harassment,and whetherthe student has
+himself/herselfharassed others. Our resultsled us to question the simple
+model,as overhalf of thesestudentsreportedbothharassperpetrator-victim
+ing and being harassedby theirclassmates.Consideringthe many theories
+posed to explainsexual harassment,we recommenda culturallybasedtheory
+as .mostconsistentwith our resultsand mosthelpfulfor schoolsin designing
+appropriateresponses.Weprovideseveralpolicy recommendations
+for secondary schools to addressthis importantand widespreadphenomenon.
+VALERIE
+E. LEEis an Associate Professor in the School of Education, University
+of Michigan, Ann Arbor, MI 48109. Her specializations are sociology of education,
+quantitative methods in social science research, and educational policy.
+
+ROBERT
+G. CRONINGER
+is a PhD Candidate in Educational Studies, School of
+Education, University of Michigan, Ann Arbor, MI 48109. His specializations are
+sociology of education, quantitative methods, and educational equity.
+ELEANOR
+LINNis a Senior Associate Director in the Programs for Educational
+Opportunity, School of Education, University of Michigan, Ann Arbor, MI 48109. Her
+specializations are sexual harassment in schools, equity in mathematics and science,
+and parent involvement in education.
+XIANGLEI
+CHENis a Research Associate with MPRAssociates, Berkeley, CA. Her
+specializations are educational equity, minority and immigrant education, and
+quantitative research methods.
+
+Lee, Croninger, Linn, & Chen
+
+The
+
+AmericanAssociationof UniversityWomen (AAUW)1993 report
+about the prevalence of sexual harassmentin our nation'ssecondary
+schools provoked much public controversy."Wasthis problem really as
+prevalentin schools as the AAUWclaimed?""Whyhad this issue generated
+so little public attentionbefore?""Weren'tmost incidents pretty minor?"
+"Wasn'tthis just normal adolescent behavior under a new name?""Was
+callingattentionto this issue justanotherfeministploy to gain attentionfor
+the unmet needs of girls?""Wasit a coalitionof feministsand reactionaries
+advocatingfor repressionof expression?"Tryingto understandthe startling
+pictureof adolescentbehaviorpresentedin the AAUWreport,commentators
+faulted the survey's definition of sexual harassment'or its methods of
+analysis.Otherschose to explicateit with anecdotalinformation.This study
+represents an effort to expand and illuminatethe results of the AAUW
+survey. Because school-based sexual harassmenthas received so little
+serious empiricalscrutiny,we begin by reviewingthe historicaland theoreticalcontexts in which sexual harassmentin schools is embedded.
+Background
+The Historical Context
+In the workplace. Although the verb to harass came into English centuries
+ago from Old High German and Old French, the term sexual harassment did
+not enter the lexicon until the 1970s, when feminist activists sought a way
+to address the unwanted sexual attention that women faced in the workforce.
+From the beginning, the concept included a wide range of offensive
+behaviors-from sexual innuendo to rape-that women said impeded their
+job performance and made them vulnerable to retaliation. The U. S. Equal
+Employment Opportunities Commission (EEOC) developed a legal definition of sexual harassment in 1980 that elaborated two main types: (1) the
+more coercive quid pro quo (i.e., pressure for sexual favors as a condition
+of employment) and (2) the more common hostile environment, which
+could be verbal or physical in nature. Defined as a form of sex discrimina-
+
+tion, sexual harassmentwas thereforeillegal.
+In schools.Even before the EEOCdefinitionbecame law, Yale University studentsfiled an unsuccessfulsexual harassmentsuit underTitle IX of
+the EducationAmendmentsof 1972, which prohibitssex discriminationin
+education.The initialfocus in institutionsof higher educationwas on the
+behaviorof school employees toward students(Alexanderv. Yale, 1980),
+but subsequentattentionhas expanded the focus to include studentinteractions (Jaschik,1991) and the harassmentof faculty (Dey, Sax, Kom, &
+Ramirez,1996). Research on the prevalence, nature, and psychological
+consequencesof sexualharassmentof universitystudentshas expandedour
+understandingof such issues in educationalsettings(Brodky& Fine, 1992;
+Hall & Sandler,1982, 1988; Paludi, 1990; Paludi & Barickman,1991;Till,
+1980).
+384
+
+Sexual Harassmentin SecondarySchools
+Concernover sexual harassmentin elementaryand secondaryschools
+followed, beginning with Title IX and the opening of traditionallymale
+programsin vocationalhigh schools to females.Althoughsexual harassment
+was not mentionedin the originalguidelinesfor complianceand implementation of Title IX (McCune& Matthews,1976), high school girls registered
+numerouscomplaintsof harassmentwith national,state, and local officials
+(Linn,Stein,Young, & Davis (1992).
+Estimatingthe scope of harassmentin schools. Earlysurveysprovided
+limited informationabout the incidence and nature of high-school-based
+sexual harassment,although their nonscientificsamples allowed no estimates of prevalence.A Massachusettssurvey reportedthat: (a) students'
+harassmentby peers was more common than by teachers,(b) girls were
+much more likely than boys to be harassed,especiallyso for more severe
+formsof unwantedphysicalattention;(c) sexualharassmentwas as common
+in comprehensivehigh schools as in vocational schools; and (d) sexual
+harassmentwas as common in fully co-educationalschools as in schools
+enrolling low proportions of female students (Stein, 1981). In another
+survey, a majorityof female high school juniorsand seniors reportedthat
+they had been sexually harassedin school (Strauss,1988).
+Two recentsurveys,designedand supportedby advocacygroups,were
+aimed at garneringnew public attentionand sympathyfor the not-so-new
+problem in U. S. high schools: (a) the NationalOrganizationof Women
+(NOW)LegalDefense and EducationFundand the WellesleyCollegeCenter
+for Researchon Women developed a questionnairepublishedin Seventeen
+andanalyzedby Stein,Marshall,
+Magazine("What's
+Happeningto You?"1992)
+and Tropp (1993), and (b) the AAUWdeveloped a survey and published
+resultsin HostileHallways(AAUW,1993).Fourfindingsemergedfromthese
+more scientificallyvalid estimates:(1) sexual harassmentis very pervasive
+in secondaryschools; (2) studentsconsidersexual harassmentunwelcome
+and problematic;(3) the behavioroccurs in public places, and (4) students
+have difficultyreceiving help, even though a majorityin both surveys
+reportedtryingto talk to someone about the harassingbehavior.Resultsof
+each surveywere releasedat press conferencesand promotedwith briefing
+materials,poignant stories from young women, and television talk-show
+appearances.Nonetheless,the magnitudeand seriousnessof sexual harassment reported by the surveys were challenged by some educators and
+policymakers.
+The public debate and politicalscrutinyengendered by these studies
+surely represent progress. Public attention to the issue (and gendered
+responsesto it) intensifiedwith AnitaHill's1992testimonybeforethe Senate
+JudiciaryCommittee'shearings on the confirmationof Supreme-Courtnominee ClarenceThomas(Morrison,1992).In the wake of the hearings,the
+public began to ask such questionsas, "Whywas welcomeness partof the
+definition?""Whatharmdoes sexual harassmentactuallycause?""Ifsexual
+harassmentis so common, why don't more people complain?""Does the
+385
+
+Lee, Croninger, Linn, & Chen
+
+hostileenvironmentprovisionbelong in a good definition?"
+These issues are
+as relevant in schools as in workplaces, and, in schools (as well as
+workplaces), sexual harassmentis receiving more serious recognitionby
+parentsand educators(Stein & Sjostrom,1994).
+Theoretical Explanations for Sexual Harassment
+Underlying much of the discussion of sexual harassment (its causes and
+appropriate responses to it) are five main theoretical formulations: biological, developmental, pathological, abuse of power, and cultural. Tangri, Burt,
+and Johnson (1982) posited three formulations-the biological and two
+forms of abuse of power. Our discussion of theory expands on the Tangri
+et al. (1982) work. We begin with theories we find less helpful and advance
+to those that offer more theoretical support for our empirical work.
+Biological theory. This theory is based on physical differences between
+the sexes. Hormonal and body size differences make males more aggressive
+than females. This formulation assumes males as perpetrators, and females
+as victims, of sexual harassment. Though males should be taught selfcontrol, lapses must be taken in stride: "Boys will be boys." Through this
+lens, the best preventative measures would be protection, and often confinement, of females. Although punishing male perpetrators might be useful to
+society (as a deterrent), it would be rather ineffective in changing the
+behavior of individuals. Counter-indicatorsof this theory are actual instances
+of females sexually harassing males, a seeming increase in the rate of sexual
+harassment over time, and the influence of expectations on "proper"male
+and female behavior (i.e., behaviors are not immutable).
+Developmental theory. This conceptualization assumes that people learn
+to communicate feelings through social interactions. Young people have
+special difficulty communicating strong positive and negative feelings related to sexual attraction. Inability to express such feelings in socially
+appropriate ways leads to (wittingly or unwittingly) engaging in harassing
+behaviors. As adolescent girls are more socially skilled than boys, they
+engage in fewer harassing behaviors. As young people mature, such
+behaviors diminish, though some never learn "proper" sexual behavior.
+Advocates of this theory point to some success for programs that build selfawareness, empathy, and communication skills (Beauvais, 1986). Counterindicators include the prevalence of harassment in the adult workforce
+(Collins & Blodgett, 1981; Klein Associates, 1988; Sandroff, 1992; U. S. Merit
+Systems Protection Board, 1981, 1987), its originalidentificationas a workforce
+problem, and the fact that some people who appear to be quite well
+socialized (i.e., a U. S. Senator, a Supreme CourtJustice) have been publicly
+accused of harassing behaviors.
+Pathology theory. Sexual harassment is a severely antisocial form of
+behavior-in the pathological view, much like sexual abuse and domestic
+violence. Trauma created by being victimized causes individuals to lose the
+ability to empathize, and they find themselves perpetrating similar hurtful
+386
+
+Sexual Harassment in Secondary Schools
+
+behaviorson others.Grouptherapyand sublimationthroughsocial activism
+would be seen as the most promisingformsof rehabilitation.But change is
+costly and time consuming.The prevalenceof sexual harassmentcounterindicatesthis theory, except in the case of extremeperpetrators.Although
+this formulationis not uncommonin the generalpopulation,it is not taken
+seriously by either cliniciansor researchers.The AmericanPsychological
+Associationdoes not classifysexual harassmentas a mental disorder.
+Abuseofpowertheories.Givenmore credibilityin the researchliterature
+is the largertheoreticalcontext of abuse of power in which sexual harassment may be embedded.The threedifferentconceptualizationswe describe
+share a common view of sexual harassment:a mechanismby which males
+gain dominanceover females. Underthe firstview, sexual harassmentis a
+formof exclusionaryintimidation,whereinpeople who usuallytreatothers
+with kindness may resortto harassmentwhen changingconditionspose a
+threatto theirsocietalprivilege.A perpetrator's
+motivation,consciousor not,
+is to intimidatevictimsinto givingup a newly acquiredpositionof privilege.
+Just as lynchingserved to intimidateAfricanAmericansfromclaimingtheir
+rights,underthis theory,sexual harassmentwould serveto keep women "in
+their place."Perpetratorsare encouragedto realizethat the workforcehas
+changed and thatgender roles are differentfromwhat they were a generation ago. Counteringthis formulationis the fact thatsexual harassmenthas
+not subsided in schools and workplaces after many years of improved
+gender integration.
+Abuseof organizationalpower is a second conceptualizationof sexual
+harassmentunderthe abuse of power theory.Here, individualsare seen as
+having differingamounts of power in organizations,depending on roles.
+Supervisorshave power over employees, principalsover teachers,teachers
+over students. Because males typically occupy higher authorityroles in
+organizations,they are in positions to abuse that authority.Femalebosses
+could be equallyprone to such abuse underthis conceptualization(Kanter,
+1977). This theory holds that those in power must be made aware of the
+responsibilitiesaccompanyingtheir power and of the separationbetween
+private and professional roles. This formulationwould not explain the
+prevalenceof peer harassmentin schools.
+The privilegingof males over females in the society undergirdsa third
+subtheory,abuse of societalpower, where societal male dominancewould
+be the key determinantin sexuallyharassingbehaviors.Proponentsof this
+theory point to the sexual harassmentof female doctors by male patients,
+adultfemale teachersby adolescentmale students,middle-classwomen on
+the streetby male constructionworkers,and Whitefemalestudentsby male
+studentsof color as examplesof the primacyof the gender hierarchyin the
+relationshipof the sexes (e.g., MacKinnon,1979; 1993). A recent study of
+women universityfacultysupportsthe societalpower abuse theory(Dey et
+al., 1996). For proponents,nothingshort of the total reformof society will
+help alleviate the problem. Undercuttingthis theoreticalexplanationare
+387
+
+Lee, Croninger, Linn, & Chen
+
+modest but visible successes in reducing the climate of harassmentin
+organizations(at least, over relativelyshort periods of time), as well as
+differencesamong subculturesin their sexually harassingbehaviors.
+Culturaltheories.Comparedto the theories describedabove, a more
+fruitful constellation of explanations may be characterizedas culturally
+related theories of sexual harassment.These theories deserve a fuller
+exposition than we provide here. Besides differingfrom one another,they
+overlapwith the theories alreadydiscussed.Moreover,they appear in the
+literatureintermingledwith theoreticalexplanationsof human interactions
+other thansexual harassment.The commonthreadsharedby these theories
+is a focus on the culture immediatelysurroundingincidents of sexual
+harassment (in our case, the school), rather than centering on either
+individualsor the largersociety.2We offerbriefexplanationsof fourseparate
+cultural theories, each implying a different organizationalresponse to
+harassment.Whilethe sourceswe cite here provedhelpfulin stimulatingour
+thinking,the conceptualizationof these theories as they relate to sexual
+harassmentin schools is largely our own. We draw on psychological,
+sociological, and.feministtheory.
+In a Freudianculturalapproach,the existence of sexual harassmentis
+seen as a failure of the culture to repress or functionallysublimatethe
+potentially destructive forces of Eros and Thanatos in individuals. As
+controlling these forces constitutes the very purpose of society, sexual
+harassmentis a sign of social breakdownand a majorthreatto the social
+order.Vociferousdenial of its existence, althoughpotentiallyineffectivein
+stopping sexual harassment,is an understandable(and common) response
+to it. This theory may explain why so many well-intendedpeople call for
+furtherrepressionof adolescentsexual and aggressiveactivity(i.e., "Justsay
+no!"or "Showgood manners!").
+Anotherresponseby proponentsis to invent
+new customs and rituals that help males and females sublimate these
+destructivedrives (Freud,1949a, 1949b;Marcuse,1955).
+Anotherculturaltheory to explain the phenomenon of sexual harassment in schools, the structuralapproach,centerson school normsconcerning sexuality and aggression.These culturaltheoristsadvocate structural
+change as a way of influencingthe behaviorof individuals(Bidwell, 1965;
+Deal, 1982).Proponentsmay directattentionto overt and formalprograms,
+such as the school's disciplinecode (e.g., Gittens,1993;U.S.Departmentof
+Education,1981).The same theorywould also have proponentslooking at
+less overtstructuralfeaturesof schools--the mannerin which complaintsare
+actuallyhandled,toleranceof rituals,heroes, and informalbehaviors--that
+contradictthe organization's
+formaldisapprovalof sexualharassment(Larson,
+1983;Linn,1991;Myers,1987/1992).Opponentsof the structuralapproach
+would consider such responses superficialand insufficientfor changing
+complex patternsof values and belief in individuals.
+A critical theory approachis closely related to the societal abuse of
+power theory,except that a criticaltheoryapproachfocuses on the culture
+388
+
+Sexual Harassment in Secondary Schools
+
+of schools. Both theoriessituatesexual harassmentwithin the violence and
+sexual aggression in the larger society, particularlyas manipulatedby
+advertisingand capitalistconsumption.Proponentswould see perpetuation
+of social oppression throughlegitimizedforms of aggressionas a hidden
+agenda of socializationin schools. Sexual harassment,according to this
+formulation,is an expressionof studentand staffalienation,caused by the
+violence done to them in an oppressive environment.
+the best
+Barringthe possibilityof a substantialculturaltransformation,
+schools can do is to provide a more humane environmentwhere issues of
+oppressionwould be open for discussion,studentswould be more involved
+in setting the school's agenda, and decisions would relatemore closely to
+the real lives of studentsand staff(Apple, 1982;Aronowitz& Giroux,1991;
+McLaren,1994;Wexler,1987).Uncoveringthe silence thatsurroundssexual
+harassmentis a crucialfirststep (Arnot& Weiner, 1987;Rich, 1979;Weiss
+& Fine, 1993). Detractorseither disagree with the basic premise of this
+formulation,or they see schools' hidden agenda as almost impossible to
+change (in that schools reflectthe largersociety they serve).
+An ethicalviewof culturedrawsheavilyon the notionthatorganizations
+like schools derivemuch of theirlegitimacyfromlong-termethicalor moral
+bonds thatbindtheirmembers(Bryk,1988;Cusick&Wheeler,1988;Dewey,
+1966; Goodlad, 1984; Grant,1988; Gutmann,1987; Lightfoot,1983; Sizer,
+1984, 1992). Recent research has documented the importanceof shared
+values in the abilityof secondaryschools to functionas communities(Bryk
+& Driscoll, 1988; Bryk, Lee, & Holland, 1993; Coleman& Hoffer, 1987).
+Communalorganizationhas been empiricallylinkedwith positiveoutcomes
+for students and teachers, in the form of commitment(of teachers) and
+engagement (of students).This organizationalform is facilitatedby small
+school size and is a move away from the bureaucraticformwhich characterizes the moderncomprehensivehigh school (Lee, Bryk,& Smith,1993).
+Those who supporta culturaltheoryorganizedaroundethicalor moral
+concerns would see sexual harassmentas a sign of the failureof existing
+organizationsto instillethicalcoherenceand integrityin theirmembers.One
+remedy,under this view, would rest in the organization'sincreasingattention to its ethical mission and to the interconnectednessof members by
+overtlyaddressingissues of moraland ethicalbehaviorin schools. Although
+detractorssee this view as encroachingon the rightsof parentsto define
+their children'svalues and carryout their moral upbringing,proponents
+would counterthattheirview of the basictenets of educationfor democracy
+arereflectedin these ideas(Coleman&Hoffer,1987;Dewey, 1966;Gutmann,
+1987; Lightfoot,1983). The debate about the proper role of ethics and
+moralityin the school curriculum,which restson two ratherdifferentviews
+of democracy,has a long and distinguishedhistory.3
+ResearchQuestions
+We locate our studyof sexualharassmentin schoolswithinthe historicaland
+389
+
+Lee, Croninger, Linn, & Chen
+
+theoreticalgroundingsjust described.Beyond descriptiveinformation,little
+researchattentionon this topic has heretoforebeen focused on secondary
+schools, the locus of our investigation.Emergingdefinitionsof harassment
+are increasinglytakingvictims'attitudesinto account.In this spirit,we use
+students'own judgmentsto operationalizethe constructof sexual harassment-through their own reportsof multipleschool-basedexperiences of
+sexual attention(verbaland physical)that they characterizedas unwanted
+and/or upsetting.
+Two differencesdistinguishourstudyfromextantresearchon thistopic.
+First,thoughvirtuallyall researchon this topic is descriptive,our studyuses
+a multivariateapproachwithin a causal modeling framework.Second, we
+have attemptedto locate ourwork withina theoreticalcontextthatprovides
+a sociological or culturalorientation.This context differssharplyfrom the
+focus on individualsthathas providedotherharassmentstudieswith a more
+psychologicalcharacter.The empiricalevidence we present,togetherwith
+the theoryin which it is embedded,has importantimplicationsfor how we
+think our society should address the problem of sexual harassmentin
+schools. Empirically,we use a social context approach to identify and
+quantifythe unique associationsof students'demographiccharacteristics
+and the culture of their school-based associations with the incidence,
+severity,and consequences of sexual harassment.To accomplishthis task,
+we organizedour study aroundthree researchquestions:
+* Question1:Incidenceofharassment.Who is harassed?Herewe identify
+the demographiccharacteristicsof students and features of their school
+social context that are associatedwith having experienced sexual harassment in a school setting.
+* Question2: Severityof harassment.Forthose adolescentswho reported
+having been sexually harassed,which demographicand contextualfactors
+differentiatethe severityof the harassment?
+We define severityin termsof
+the reported frequency of the harassmentexperience and how troubled
+studentswere by its occurrence(s).
+* Question3: Consequencesof harassment.For students who reported
+having been harassed,are there some undesirableoutcomes which result
+fromthat experience?We consideredseveraltypes of consequenceswhich
+mightinterferewith students'school progress-academic problems,psychological problems,and avoidancebehaviors.
+
+Method
+Sample and Data
+AAUWsample. We drew the data for this study from a recent national survey
+on sexual harassment experienced by U. S. students in public secondary
+schools. The purposes of the survey, conducted by the AAUW Educational
+Foundation in 1993, were to provide a profile of the problem of sexual
+harassment in U. S. schools and to assess the impact of sexual harassment
+390
+
+Sexual Harassment in Secondary Schools
+
+on young people in school. LouisHarrisand Associateswere commissioned
+to select the sample, design the survey instrument,and collect the data.
+Following a stratifiedtwo-stage sampling structure,a sample of public
+secondaryschools acrossthe nationwas randomlyselected,and then,within
+each sampled school, all studentswithin a single randomlyselected class
+were surveyed. This procedure resulted in a sample of 1,632 surveyed
+students in Grades 8 through 11, attending79 public schools across the
+U. S. Within-schoolsample sizes were quite variable,but they averaged21
+students.Due to the stratifiedsamplingstructure,the surveyprovidesdesign
+weights for students. Thus, the findings based on this sample may be
+generalizedto U. S. public school studentsin Grades8 through 11.4
+Focusing on harassmentin a school setting, the AAUWsurvey items
+restrictedthe requested informationto school-relatedharassmentduring
+school-relatedtimes. At the outset of the questionnaire,sexual harassment
+was defined as unwanted and unwelcome sexual behaviorthat interferes
+with one's life (see Note 1 for the exact wording). Studentswere queried
+about their experiences with 14 differentforms of sexual harassment.The
+wording of each form and the frequencyof reportedoccurrenceof each
+form are presented in AppendixA. Aroundeach form, respondentswere
+asked such questionsas, "Howwould you feel if someone harassedyou?"
+"Haveyou been harassedduringyour school life?" "Whoharassedyou?"
+"Wheredid you experience harassment?"
+"Whatwere some consequences
+of being harassed?"
+Data filters. As we aimed to identify students who experienced unwanted sexual attention and behaviors during their school life, it was
+importantto verify that the experiences described by students actually
+satisfiedour definitionof harassmentand reflectedthe purposeof the study.
+Thus,we employedthreedatafiltersto select our studysamplefromthe full
+AAUWsample. Studentswho reportedhaving experiencedat least one of
+the 14 formsof harassmentalso had to have: (1) identifieda school-related
+locationfor the harassment,(2) reporteda school-relatedperson associated
+with their experience, and (3) indicated that the experience upset or
+bothered them.5Although filters (1) and (2) were meant to reflect our
+researchfocus on harassmentin a school setting, filter (3) was meant to
+restrictthe reportedharassmentexperiencesto those that fit the definition
+of an unwanted or unwelcome sexual occurrence.
+Final sample. Based on these criteria,we identified425 respondents
+who, although indicatingthat they had experienced at least one form of
+harassment,did not strictlyfit our definition.Amongthem,229 (14%)did not
+indicatea school-relatedharasser,248 (15%)did not identifya school-related
+location associated with their experience, and 175 (11%) replied that
+harassmentdid not bother or upset them. As this group'sexperienceswith
+sexual harassmentwere ambiguous,we dropped the 425 cases from the
+sample. Comparingdemographiccharacteristicsof the excluded group to
+the retainedsample, we found that the formerwas somewhatmore likely
+391
+
+Lee, Croninger, Linn, & Chen
+to be male, African American, and to have lower GPAs than the 1,203
+retained cases. We reanalyzed our data to determine whether the exclusion
+of the group affected the results reported here by running analyses on the
+full sample, which included a dummy-variable for the excluded cases and
+a set of interaction terms with demographic controls. We found that they did
+not (i.e., neither the exclusion dummy nor the interaction terms were
+statistically significant). Though further analysis of this group might be
+fruitful in its own right, in the interest of pursuing the stated research
+questions, we present no further investigation of them. Four students who
+did not indicate whether they had experienced harassment were also
+excluded.
+The remaining 1,203 students fell into two discrete categories: those
+who had and had not experienced sexual harassment in a school setting.
+Although this represented a substantial reduction of the original AAUW
+sample (26%), the resulting sample accurately reflects the definition of
+sexual harassment laid out earlier. Among the full sample of 1,203 students,
+889 (74%) reported being harassed. We employed the full sample to
+investigate our first research question ("Who is harassed?"),but we limited
+our analyses of the second and third research questions ("Whatfactors are
+related to the severity of harassment?""Whatare consequences of harassment?") to the 889 students who reported experiencing harassment.
+Measures
+Dependent measures. Our three dependent measures correspond to the
+three research questions. The first is a dummy-coded variable measuring
+whether students had been harassed during their school life
+(1 = yes, 0 = no). This measure was constructed based on student responses
+to the various forms of harassment provided by the survey. If respondents
+reported having experienced at least one (but maybe more) forms of
+harassment reported in Appendix A, we coded them 1; those responding
+"never" to all 14 forms of harassment were coded 0. This dummy-coded
+variable served as the outcome variable for analyses addressing our first
+research question: "Who is harassed?" Details of the construction and
+psychometric properties of this and all other variables used in this study are
+provided in Appendix B.
+Another measure taps the severity of sexual harassment, for those
+students who experienced it. We used a two-step process to construct this
+measure: (1) We multiplied the frequency of responses to each of the 14
+harassment forms by the degree of "upsetness" they reported for each form
+(if it were to happen to them), and (2) we summed these products across
+the 14 forms. Transformationand rescaling resulted in a normally distributed
+z-score variable, where a higher score represents a more severe harassment
+experience. This outcome addressed the second research question--"Which
+factors are associated with the severity of harassment?"
+Another set of dependent measures consists of three negative conse392
+
+Sexual Harassment in Secondary Schools
+
+quences students experienced as a result of sexual harassment:academic
+problems,psychologicalproblems,and avoidancebehaviors.The academic
+problems measure included five behaviorsthat directlyaffect a student's
+school performance:talking less in class, paying less attention in class,
+findingit hardto study,gettinga lower gradeon a test or paper,and getting
+a lower grade in a class. The psychologicalproblemsmeasure,reflecting
+stress and anxiety as a result of harassment,included reports of having
+troublesleeping and/or eating.The measureof avoidancebehaviorstapped
+a wide rangeof strategiesadoptedto avoid individualsor places associated
+with harassmentexperiences:not wanting to go to school, staying home
+from school or cuttingclass, no longer attendingan extracurricular
+activity,
+droppinga group of friends,droppinga course, alteringthe route home,
+changingseats in class, thinkingaboutchangingschools, stayingaway from
+specific places at school, and avoiding the person doing the harassing.
+Independentmeasures.The study focuses on two sets of independent
+measures:(1) demographiccharacteristics
+of studentsand (2) the contextof
+sexual harassmentin school. Demographicsinclude gender, age, race/
+ethnicity,academicperformanceas measuredby student'sGPA,and parents' education (a proxy for family socioeconomic status or SES).Demoof
+graphicsare importantin analysesthatfocus on the social characteristics
+those who experience sexual harassment.
+Anotherset of measurescapturesthe context of sexual harassment,of
+which we tapped four dimensions:(1) students'perceptionof harassment
+in their schools; (2) harassmentexperiences of friends (specifically,the
+number of forms of harassmentfriends have experienced); (3) whether
+students were harassedby a school-relatedadult--principal,teacher, or
+other school employee; and (4) whether students themselves were ever
+involved in harassingothers in school. Given our preferencefor cultural
+theories of sexual harassmentand the sociological approach implied by
+these theories,measuresthat define the context and climateof harassment
+pervadingthe schools are especially importantin the study.
+Analytic Approach
+The Hostile Hallways report (AAUW, 1993) employed descriptive methods
+to assess the extent of sexual harassment in U. S. public secondary schools.
+While a descriptive profile is important, our study may be distinguished from
+the AAUW report both by our different approach to data analysis and by the
+somewhat reduced sample. Our research questions suggest our aim to assess
+the problem of sexual harassment in secondary schools quite
+broadly.
+Besides identifying the demographic and contextual factors associated with
+secondary school students' experiences of sexual harassment, we are also
+interested in differentiating those whose experiences are more or less severe
+and in identifying the consequences which accrue according to the
+severity
+of the experience. The nature of our inquiry thus requires a multivariate
+analytic approach.
+393
+
+Lee, Croninger, Linn, & Chen
+
+Descriptiveanalyses. Multivariateanalyses addressing each research
+question are preceded by descriptiveanalyses.We first compare students
+who have and have not experiencedharassmenton the demographicand
+context factorsdescribedabove. Group differenceswere tested in contingency table or t-testformats,as appropriate.A descriptiveanalysisfor the
+severity of harassmentinvestigatedseveritylevel for studentswith varied
+Suchcomparisonsprovidea pictureof
+social and contextualcharacteristics.
+how studentsfrom differentgroups experience harassment.
+Multivariateanalyses. The need for multivariateanalysisis driven by
+associationsamong the demographicand contextualvariablesin the study.
+We need to determine the relative magnitudes of associations of each
+demographicand contextualfactorto students'harassmentexperiences,net
+of other associations. Our first research question, with a dichotomous
+outcome(harassedv. not harassed),requiresa logisticregressionmodel that
+includes personalfactors(age, gender, race, parentaleducation,GPA)and
+contextualfactors.This logisticregressionmodel examinedhow the effects
+of particularvariableschanged as other factorswere introduced.
+To identifyfactorsthat contributeto the severityof sexual harassment
+(for students who were harassed), we employed a 4-step hierarchical
+ordinaryleast squaresregression(OLS)model. The entryorderof variables
+was similarto the "Whois harassed?"
+model. Likethe logisticregression,this
+analysis is meant to quantifythe unique importanceof individualfactors
+associatedwith the severityof the harassmentexperience.
+Our investigationof the third researchquestion again included only
+students who reported having been harassed, exploring negative consequences in the form of academicproblems,psychologicalproblems,and
+avoidance behaviors.To accommodatethe extreme positive skew of the
+distributionsof the three consequence measures,we created a series of
+dummyvariablesfor each (describedin AppendixB). As we were interested
+in the association of consequences with the severity of harassment,we
+categorizedseverity,comparingstudentswith a low score (1 SD below the
+mean) and a high score (1 SD above the mean). We again used logistic
+methods to estimatethe probabilityof students'experiencingthese consequences as a function of the severityof their harassmentexperience and
+their gender.
+Caveats
+Uncertaincausal direction.The surveydataused for this studywere crosssectional--that is, collected at a single timepoint.However, our analyses
+implya causalorder,in thatsome variablesareclassifiedas independentand
+others as dependent.Though this analysisstructureis hard to questionfor
+demographiccharacteristics(gender, SES,race, ethnicity,and even grades
+describe enduring qualities), we are less certain in our classificationof
+measuresof "thecontextof harassment"
+as independentor exogenous. Our
+models suggest that associatingwith friendswho were harassed,engaging
+394
+
+Sexual Harassmentin SecondarySchools
+in harassment oneself, or attending schools where harassment was common
+could cause harassment to occur. That these factors may be associated is not
+at question; we admit, however, that the causal order implied by such
+models could be reversed. Quite simply, we cannot untangle the complicated question of causal order with these data.
+Analysis limited by sampling method. A second caveat is methodological
+and relates to how the data were collected. The data structure,with a sample
+of students surveyed within randomly sampled schools, would seem ideal
+for a stronger test of our hypothesis about the "social context of harassment"
+than we conduct here. Examination of the data collection procedures used
+by Louis Harris reveals that within-school student samples were composed
+of the entire membership of a single class (AAUW, 1993). While the Harris
+organization compensated for this sampling scheme by creating design
+weights, which allow results to be generalized to students in the nation's
+public schools in Grades 8 through 11, it is clear that we cannot generalize
+to students within schools. We have employed these weights and generalize
+our results to public school students in the nation. But we may not employ
+the statistical methodology most appropriate for a school effects study
+implied by our research questions (hierarchical linear modeling or HLM
+[Bryk & Raudenbush, 1992]). Thus, we are careful to differentiate our
+generalizations to social context rather than school context. Unfortunately,
+analyses which focus on schools as sociological units (definitely, our
+preference) are simply not possible with these data.
+Results
+Hypothesized Relationships
+A major purpose of this study is to evaluate the relative importance of
+personal and contextual factors associated with both the occurrence and
+severity of adolescents' harassment experiences. Personal characteristics
+included measures of social and academic status. Factors describing the
+context of harassment included students' perceptions of the prevalence of
+sexual harassment in their current school, among their friends, and their own
+involvement in harassing behaviors.
+We hypothesized that some personal status characteristicswere associated with harassment experiences (i.e., gender). We also predicted that the
+social context in which students operate would have an independent effect
+on harassment experiences--that is, the more harassment that occurs in an
+individual's environment, the greater the risk that the individual would
+experience it. We reasoned that the prevalence of harassment in any school
+and the harassment experiences of friends would be associated with both
+the occurrence and severity of harassment experiences. Students who had
+harassed others would also be at greater risk of being harassed than students
+who had not harassed others.
+The hypotheses we pose about personal characteristicsand the context
+
+395
+
+Lee, Croninger, Linn, & Chen
+
+of harassmentare not based on others'empiricalevidence,because the type
+of analysesin this studyare new. Rather,they rest on the theoriesof sexual
+theoriesaboutabuse of power and
+harassmentdescribedearlier,particularly
+culture,and moregeneraltheoriesof social deviance.We expandthe notion
+of social hegemony in these theoriesto includerace, social class, and status
+associatedwith academicachievementand locate sexual harassmentas a
+deviantbehavior.Power-basedtheories commonlyreporta negative associationbetween victimizationand social advantage.The modest amountof
+availableevidence suggests thatsexual harassmentis deviantbehaviorof a
+somewhat differentsort, centered mostly on the basic power differential
+between the sexes. This suggests that one personal characteristic,gender,
+may predominate.Hypotheses about the effects of contextualfactorsare
+consistentwith the culturaltheories presentedat the outset.
+Likelihood of Being Sexually Harassed
+Descriptive results. Table 1 displays results of a series of bivariate comparisons between students who said that they had experienced harassment
+(74%) and those who said that they had never been harassed (26%). Girls
+
+were considerablymorelikelythanboys to have been harassed(83 v. 60%).
+Older students and those in higher grades (obviously related) were more
+likely to experience harassment, not surprising given that the survey asked
+students to report harassment over their entire school life. Demographic
+factors other than gender and age-race/ethnicity, school performance (as
+measured by grades or GPA), and parents' education--did not statistically
+distinguish between those who had and had not been harassed. Thus, the
+occurrence of sexual harassment is uncircumscribed by traditional social
+boundaries, except for gender.
+Contextual factors are more strongly associated with the experience of
+harassment than demographics. Students perceiving high levels of harassment in their schools are very likely to have been harassed themselves
+(effect size [ES]= .80 SD).6 Students who report that their friends had more
+harassment experiences are also very likely to have themselves experienced
+harassment (ES = 1.20 SD). Harassed students are also very much more likely
+to say that they themselves have harassed someone at least once during their
+
+school life (72 v. 18%,ES=1.08SD). These very large effects led us to
+conclude that the likelihoodof being harassedis not only a matterof who
+you are; rather,that likelihood is powerfully shaped by the amount of
+harassmentthat surroundsyou, includingyour own harassingbehaviors-that is, the social context in which you are located.
+Multivariatelogisticresults.We expandedon the bivariaterelationships
+in Table 1 with a multivariatelogistic regression,the resultsof which are
+displayedin Table2. We enteredvariableshierarchically,
+beginningwith age
+and gender (Model 1), and then otherstudentdemographicfactors(Models
+2 and 3). The full model also adds contextualfactors(Model4). Coefficients
+are in a log-odds metric.Because older studentswere also more likely to
+396
+
+Sexual Harassmentin SecondarySchools
+Table1
+Descriptive Informationon VariablesUsed in Sexual HarassmentStudy
+Have you ever been sexuallyharassed?
+No
+
+Yes
+
+(N = 314)
+
+(N = 889)a
+
+26.5
+
+73.5
+
+16.6
+39.8
+
+83.4 ***
+60.2
+
+25.7
+25.7
+34.5
+
+74.3
+74.3
+65.5
+
+32.8
+
+67.2 **
+
+31.4
+23.1
+19.2
+14.92
+3.00
+14.39
+
+68.6
+76.9
+80.8
+15.23 **
+3.04
+14.28
+
+82.0
+28.0
+-0.92
+-0.65
+
+18.0 ***
+72.0
+0.28 ***
+0.15 ***
+
+Percentage (%)
+Demographiccharacteristics
+Student'sgender
+%Female
+%Male
+Student'srace
+"%
+Others
+"%
+Black
+% Hispanic
+Student'sgrade
+% 8th grade
+
+%9th grade
+"%
+10th grade
+"%
+11lthgrade
+Student'sage
+Student'sGPA
+Yearsof parentaleducation
+Contextof harassment
+Have you ever harassed others?
+% No
+"%
+Yes
+Harassmentexperiences of friendsb
+Student'sperception of harassmentat schoolb
+**p <.01; **p <5.001.
+
+size was unweighted,and analyseswere weighted.
+"aSample
+bVariableswere standardized, M = 0, SD = 1.
+
+have friends who had experienced harassment, attend schools in which
+more harassment was occurring, and to have engaged in harassing behavior
+themselves, the association between age and having been harassed dropped
+to nonsignificance once these contextual factors were controlled.
+Four factors show strong effects on whether or not a student experienced harassment (p < .001), the largest of which is whether the student
+himself/herself has harassed someone else (coefficient of 2.73). Gender also
+has a very large effect (1.82), indicating that girls are much more likely than
+boys to be harassed, regardless of demographic status, surroundings, the
+experiences of friends, or their own behavior. Although considerably smaller
+in magnitude, the measure of school harassment culture (.41) is still highly
+significant in statistical terms, as is the measure tapping the harassment
+experiences of friends (.34). Although gender has a powerful independent
+
+397
+
+Lee, Croninger, Linn, & Chen
+
+Table2
+
+of BeingHarassedOne
+LogisticRegressionforProbability
+or MoreTimes
+Log-Oddscoefficientsa
+(N = 1,025)b
+Independentvariables
+
+Model 1
+
+Model 2
+
+Model 3
+
+-2.41*
+-3.04*** -2.60*
+Intercept
+Student'sage
+0.23*** 0.22*** 0.22***
+Female student
+1.35*** 1.34*** 1.36***
+Student'srace
+Black
+0.14
+0.11
+Hispanic
+-0.34
+-0.36
+Yearsof parentaleducation
+-0.02
+-0.02
+Student'sGPA
+-0.07
+Harassmentexperiences of friends
+Student'sperception of harassmentat school
+Have you ever harassed others?
+
+Model4c
+-1.51
+-0.86
+1.82***
+-0.30
+-0.68
+-0.01
+0.13
+0.34***
+0.41***
+2.73***
+
+*p<-.05;**p .01;***p5 .001.
+
+"aCoefficients
+are in a log-oddsmetric,being harassedvs. not being harassed. Positive
+coefficientsincreasethe odds of being harassed;negativecoefficientsdecreasethe odds.
+bSamplesize reduceddue to nonresponseon some independentvariables.
+for log-likelihoodis 628.92for the finalmodel. The model accuratelypredicts
+cChi-square
+65%of those not harassedand 95%of those harassedat least once.
+
+effecton the probabilityof being harassed,we foundno indicationof gender
+interactionswith other variablesin the full model (Model 4). Neitherrace,
+
+ethnicity, parents' education, nor academic standing are associated with the
+
+likelihood of being sexually harassed.
+
+Victims and Perpetrators
+The results in Table 2 raise a complex but fundamental set of questions:
+among adolescents, who is a victim of harassment, who is a perpetrator, and
+who is altogether free of the harassment experience in school? While girls
+are more likely to be victims of sexual harassment, our results suggest that
+there is no relationship between other indicators of social status and
+victimization. However, the likelihood of experiencing harassment is strongly
+associated with students' own harassing behavior. On one hand, all the
+students in our sample who said that they had been harassed could be called
+victims, because they had received unwanted sexual attention. Nonetheless,
+nearly three quarters of those who had been victims also said that they had
+been a perpetrator at least once in their school life.
+To explore further the relationship between being harassed and harassing behavior, we divided the sample into four groups: those who had never
+been either a recipient or an instigator of sexual harassment, those who had
+
+398
+
+Sexual Harassment in Secondary Schools
+been harassed but had harassed no one themselves (victims only), those
+who had never been harassed but had harassed others (perpetrators only),
+and those who had been harassed and harassed others (both victim and
+perpetrator). We considered occurrences of being harassed and being a
+harasser separately, summing across the 14 forms for all students (0 = never,
+1 = rarely, occasional, or often). Results are presented separately by gender
+in Figure 1. Relatively few students, 15%of girls and 31% of boys, said that
+their school lives were untouched by sexual harassment. Although girls were
+far more likely than boys to report having been exclusively a victim
+(31 v. 7%), boys were more likely than girls to have described themselves
+as exclusively a perpetrator (9 v. 1%).Most surprising is that the majorityof
+both genders (53 %) described themselves as having been both victim and
+perpetrator of harassment-that is, most students had both been harassed
+and harassed others.
+The proportions shown in Figure 1 tell only a partial story. As discussed
+earlier, our ability to pursue this question further is limited by the fact that
+our data are not longitudinal. We cannot say which came first, harassing
+others or being harassed (although the structureof our analysis presupposes
+a direction). In any case, the overlap between these experiences runs
+counter to any explanation of sexual harassment based solely on differential
+social or power status. At the least, it suggests that the line between victims
+and perpetrators is very fuzzy. The large majority of adolescents who
+experience harassment have also harassed someone else sometime during
+Percentage
+(%)
+60
+52.9 52.5
+50
+
+40
+31.1
+
+31.0
+
+30
+
+20
+
+14.6
+
+10
+
+9.3
+
+7.1
+1.4
+0
+Never been harassed,
+never harassedothers
+
+Been harassed,never
+harassedothers
+
+Never been harassed,
+harassedothers
+
+Been harassed,
+harassedothers
+
+D Girls mBoys
+
+Figure1.Percentagesof girlsand boys beingharassedand harassing
+others
+399
+
+Lee, Croninger, Linn, & Chen
+
+their school life. Over half of all students, equivalent by gender, have
+experienced harassmentboth as victim and perpetrator.
+Severityof SexualHarassment
+Our index of the severity of harassmentexperiences combines three
+elements: (1) the degree of upsetness reported for the various forms of
+harassment,(2) the frequencywith which students said they experienced
+each form, and (3) the numberof differentforms experienced.Restricting
+our analysisof this outcome to those studentswho had been harassed,we
+used almost the same multivariatemodel as our analysisof the likelihood
+of harassment.One exceptionwas addinga measureof whetherthe student
+had been harassedby a school-relatedadult (principal,teacher, or staff
+member).Given our focus here on the severityof school-basedharassment
+experiences, the status of the harasserseemed importantto consider.
+Descriptiveresults.Table 3 presentsbivariateresults--thatis, the mean
+severityscore for subgroupsof the secondaryschool populationof harassed
+students. Group differences suggest that demographicfactors are more
+importantin determiningthe severityof the harassmentexperiencethan its
+occurrence.Girlsare harassedmoreseverelythanboys (ES= .58 SD);Blacks
+experience more severe harassmentthan Hispanicand other students(ESs
+of .40 SD and .36 SD, respectively);studentsin upper grades are harassed
+more severelythan those in lower grades,particularly8th graders.Correlations presented in the lower panel of Table 3 suggest that older students
+have more severe harassmentexperiences (r = .10), as do students with
+lower GPAs(r = -.15) and studentsfrom less advantagedbackgrounds,as
+measuredby parents'education(r = -.09). All group differencesin Table 3,
+tested with chi-squareor t statistics,are statisticallysignificant.
+The same contextual factors included in the harassmentlikelihood
+analysisarestronglyrelatedto severity,measuredby zero-ordercorrelations.
+The more severelystudentsare harassed,the more harassmenttheirfriends
+experience(r = .50) and the moreharassmentthey perceivegoing on around
+them at school (r = .36). Studentswho reportedhaving harassedsomeone
+else are harassedmore severelythan theirpeers who did not reporthaving
+harassedanyone (ES = .31).
+A very large group differencein the severityof sexual harassmentis
+whetheror not studentswere harassedby a school-relatedadult(ES= .73).
+Althoughwe consideredharassmentby a school-relatedadult in the aggregate in the analyses in Table 3, we also investigatedthis separatelyby
+individualswith differentroles (role-identification
+was not a disjointoccurrence). Virtuallyall harassedstudentsreportedhaving been harassedby a
+fellow student (96%), but very few (2%) reported being harassed by
+principals.A largerproportion(16%)reportedharassmentby a teacher,and
+almost half experiencedharassmentby a memberof the school staffother
+than the principal(44%).Whileharassmentby a principalor fellow student
+did not varyby gender, female studentswere significantlymore likely than
+400
+
+Sexual Harassment in Secondary Schools
+
+Table3
+
+on VariablesUsed in AnalyzingSeverity
+DescriptiveInformation
+of Sexual Harassment(N = 889)8
+Subgroup means for severity measureb
+
+Student'sgender
+Female
+Male
+Student'srace
+Others
+Black
+Hispanic
+Student'sgrade
+8th grade
+9th grade
+10th grade
+11th grade
+Have you ever been harassedby at least one school-relatedadult?
+No
+Yes
+Have you ever harassed others?
+No
+Yes
+Correlationwith severity
+Student'sage
+Student'sGPA
+Yearsof parentaleducation
+Harassmentexperiences of friends
+Student'sperception of harassmentat school
+*p
+
+.05; **p
+
+.01; ***p
+
+0.15***c
+-0.43
+-0.12***
+0.28
+-0.08
+-0.24*
+-0.05
+0.05
+-0.02
+-0.39***
+0.34
+-0.29***
+0.02
+0.10**
+-0.15***
+-0.09**
+0.50***
+0.36***
+
+.001.
+
+size was unweighted,and analyseswere weighted.
+"aSample
+bDependent variablewas standardized, M = 0, SD = 1.
+cDifferencestestedwith chi-squareor t-test statistics,as appropriate.
+
+theirmale counterpartsto reportharassmentby a teacher(20 v. 8 %/6)
+or by
+a staff member(48 v. 37%).
+Multivariateregressionresults.Table 4 presentsOLSregressionresults
+on the severity of sexual harassment.Again, we structuredthe analysis
+hierarchically.The relativemagnitudesof effects are quite similarto those
+reportedin Table 2. The resultsin Table 4 are shown in a differentmetric
+(standardized[81g
+coefficients);the absolutemagnitudesare not meaningful,
+the
+z-score
+metricof the outcome.The largesteffect in Model4 is the
+given
+prevalence of harassmentexperiences among friends (f8 = .37). Gender
+againhas a largeeffect on the severityof harassmentexperiences(f8= .26),
+with girls more severely harassedthan boys. Studentswho attendschools
+with high levels of harassmentthemselvesexperience more severe harassment (8g= .17). Studentswho reportedhaving harassedothers were also
+401
+
+Lee, Croninger, Linn, & Chen
+
+Table4
+
+OLSRegressionon Severityof SexualHarassment
+Standardized
+regressioncoefficients(13)
+
+(N= 889)"
+
+variables
+Independent
+Student'sage
+
+Model1 Model2 Model3 Model4 Model5
+0.10** 0.11*** 0.08*
+
+Femalestudent
+Black student
+Hispanic student
+Student'sGPA
+Yearsof parentaleducation
+Harassedby at least one
+school-related adult
+Harassmentexperiences of friends
+Have you ever harassedothers?
+Student'sperception of
+harassmentat school
+R2 (Proportionof
+variance explained)
+AR 2
+
+0.06
+
+-0.03
+
+0.28*** 0.30*** 0.26*** 0.26***
+0.11*** 0.08*
+0.05
+-0.01
+-0.01
+-0.02
+-0.15*** -0.13*** -0.11***
+-0.00
+-0.02
+-0.03
+0.31***
+
+0.21***
+0.37***
+0.11"**
+0.17***
+
+0.01
+
+0.09
+0.13
+0.08*** 0.04***
+
+0.22
+0.09***
+
+0.43
+0.21***
+
+*ps .05; **p .01; ***p .001.
+size was unweighted,and analyseswere weighted.
+"aSample
+
+harassedmore severely(S5= .11), althoughthe lattereffect is less prominent
+for severitythan occurrence(Table2). Therewas no indicationthatgender
+effects on the severityof harassmentdifferby demographiccharacteristics
+or contexts, because interactionterms between gender and other model
+variableswere nonsignificant(neitherindividuallynor as a set).
+Table 4 shows several noteworthy differences from the likelihood
+analysis in Table 2. Lower performingstudents (with lower GPAs) are
+harassedmoreseverelythanstudentswith higherGPAs(SL= -.11).Academic
+status,therefore,is associatedwith the severityof harassmentbut not with
+being harassed.Moreover,demographicmodels indicatea greaterseverity
+of harassmentexperiencedby Black students(Model 2, 8 = .11), although
+the effectis attenuatedwhen contextualfactorsareintroduced.Thissuggests
+that Black students have more severe harassmentexperiences, at least in
+part,because they are schooled in a contextwhere moreharassmentoccurs.
+Being harassedby a school-relatedadulthas a strongindependenteffect on
+severity(S5= .21). Nonetheless,even given importantdifferencesin the two
+analyses (differentoutcomes and differentsamples), we are struckby the
+similarityof findings between Tables 2 and 4. In each analysis, gender,
+school culture,the prevalenceof friends'being harassed,and students'own
+harassingbehaviorsstronglyinfluenceboth the likelihoodand characterof
+
+402
+
+Sexual Harassment in Secondary Schools
+adolescents' harassment experiences. These associations thus represent
+particularly sturdy findings.
+Consequences of Harassment
+The AAUW survey included a series of questions about students' responses
+to being harassed. We used factor analysis to identify three broad sets of
+consequences-academic
+problems, psychological problems, and avoidance behaviors-the components of which are listed in Appendix B. Skewed
+distributions for these measures led us to create a series of overlapping
+dichotomous comparisons-none versus one or more, none or one versus
+two or more. From logistic regression results, we calculated probabilities of
+progressively higher numbers of consequences given the severity of harassment experienced. Comparative probabilities for each consequence set, for
+students experiencing high and low degrees of the severity of harassment,
+are displayed in Figures 2-4. The pattern for all consequences was similar
+and predictable: The more severely students were harassed, the greater the
+likelihood that they experienced academic or psychological problems or
+used avoidance behaviors. There was also a net effect associated with
+gender, particularlyfor psychological problems and avoidance behaviors. In
+both cases, girls were more likely to report these consequences, even when
+their differential severity of harassment experiences was taken into account.
+Academic problems. Figure 2 shows that nearly half (46%) of the
+students who had been harassed report that the experience resulted in one
+or more of the five academic problems queried in the survey. Students with
+high severity scores have a two in three chance of one or more problems
+(probability of .62 for boys, .68 for girls), a one in two chance of at least two
+Probabilityof AcademicProblems
+1
+
+OLowSeverityScore
+0.8 High SeverityScore
+
+0.8
+0.68
+0.62
+
+0.6
+
+0.48
+0.40
+
+0.4
+
+0.37
+
+0.29
+
+0.29
+
+0.23
+0.2
+
+0.13 0.16
+
+0
+
+0.05 0.07
+M
+
+F
+M
+Oneor More
+
+F
+
+M
+
+F
+
+M F
+Two or More
+
+M
+
+F
+M
+Threeor More
+
+F
+
+Numberof AcademicProblemsStudentsHave Experienced
+
+Figure2. Probabilityof male and female students experiencing academic problems given severity of sexual harassment
+403
+
+Lee, Croninger, Linn, & Chen
+
+problems(.40 for boys, .48 for girls),and a one in three chance of three or
+moreproblems(.29 for boys, .37 for girls).Studentswith low severityscores
+were less likelyto experienceproblemsof this type, thoughmore than 25%
+of these students reportedone or more academicproblems as a result of
+being harassed(.23 for boys, .29 for girls).
+Psychologicalproblems.Over a quarterof all harassedstudents(28%)
+reportexperiencingone or both of the psychologicalproblemsmentioned
+in the survey, as Figure3 shows. There is a .31 probabilitythat boys with
+very severe harassmentexperienceseitherhad troublesleeping or lost their
+appetite and a .11 probabilityof experiencingboth. Girlswith very severe
+harassmentexperiences had higher probabilitiesof these problems:a .48
+probabilityfor at least one problem and .20 for both. Studentswith low
+severityscores are unlikelyto experience psychologicalproblems.
+Avoidancebehaviors.Nearlythree quartersof harassedstudents(73%)
+reportedconsideringor attemptingone of 10 queriedavoidancebehaviors,
+the most common of which is (understandably)avoidingthe person doing
+the harassing(see Figure4). Severely harassedboys had a three in four
+chance of at least one avoidancebehavior(.73); a one in two chance of at
+least two such behaviors(.55); and a one in three chance of eitherthree or
+more, or five or more, avoidancebehaviors(.38 and .31, respectively).Girls
+were especially likely to report avoidance behaviors. Nearly all severely
+harassedgirls reportedat least one avoidancebehavior(.91), three in four
+engaged in two or more (.77), three in five in at least three (.61), and two
+in five reportedat least five (.39). Lessseverelyharassedstudentswere less
+likelyto engage in these behaviors,but even these studentshave a relatively
+high probabilityof engagingin at leasttwo behaviorsmeantto avoidfurther
+harassment(.26 for boys, .50 for girls).
+of Psychological
+Problems
+Probability
+1-
+
+[]
+
+0.8
+
+LowSeverityScore
+HighSeverityScore
+
+0.6
+0.48
+0.4
+0.2
+
+0.31
+-
+
+0.18
+
+0.20
+
+0.03
+M
+
+F
+
+M
+Oneor More
+
+F
+
+M
+
+10.06
+F
+
+M
+BothProblems
+
+F
+
+Numberof Psychological
+ProblemsStudentsHaveExperienced
+
+Figure3. Probabilityof male and female students experiencing psychological problems given severity of sexual harassment
+404
+
+Sexual Harassment in Secondary Schools
+Probabilityof AvoidanceBehaviors
+
+[-] LowSeverityScore
+
+1 0.8
+
+-
+
+0.6
+
+-
+
+0.91
+0.73
+
+High SeverityScore
+0.77
+
+0.73
+
+0.61
+
+0.55
+"0.440.5
+
+0.4
+
+0.39
+
+0.38
+
+0.260.
+
+0.2
+
+0.14
+
+M
+
+F
+
+M
+
+OneorMore
+
+F
+
+M
+
+F
+
+MF
+
+MF
+
+MF
+
+MF
+
+MF
+
+FiveorMore
+ThreeorMore
+TwoorMore
+HaveExperienced
+of Avoidance
+Behaviors
+Students
+Number
+
+Figure4. Probabilityof male and female students experiencing avoidance behaviors given severity of sexual harassment
+These results suggest that harassmentis disruptivefor adolescents,
+particularlyfor girls. The more severely students are harassed,the more
+likely and numerous the consequences. Harassed students, even those
+whose harassmentis not severe, most often engage in avoidancebehaviors
+to guard againstbeing harassedfurther.Moreover,harassedstudentsalso
+experience academic and psychologicalproblems,particularlythose who
+are harassedmost severely.
+Discussion
+Summaryof Results
+Prevalenceofharassment.An importantfindingfromthisstudyis thatsexual
+harassmentis a very common occurrencein U. S. secondarypublicschools.
+Our results document the pervasiveness of unwanted sexual attention
+among adolescents,because almostthree fourthsof studentsreporthaving
+experiencedit in a school setting.This troublingfindingis not new; rather,
+it confirmsdescriptiveinformationreportedelsewhere (AAUW,1993;National Councilfor Researchon Women, 1994;Steinet al., 1993). Nevertheless, we underlinethis soberingand troublingconditionin U. S. secondary
+schools as a baseline for other study findings.
+Personal characteristicsrelatedto harassment.Our hypotheses about
+harassmentbeing relatedto social statusare only partlyconfirmed.It is clear
+that sexual harassment,both its occurrence and its severity, is strongly
+related to gender. Although 60% of high school boys are recipients of
+unwantedsexual attention,adolescentgirls are considerablymore likely to
+405
+
+Lee, Croninger, Linn, & Chen
+
+experience harassmentin school (83% do). Even taking the context of
+harassmentinto account,the probabilityof girls'experiencingharassmentis
+considerablyhigher than for boys. Unlike some types of social deviance,
+however, neitherthe occurrencenor the severityof harassmentare related
+to eitherfamilysocial class or race/ethnicity,once contextis accountedfor.
+Though students'academicperformanceis unrelatedto the probabilityof
+being harassed, for those students who experience it, those with lower
+academicperformancehave more severe harassmentexperiences.
+Thesocial context of harassment.Our most importantand most troubling findings relate to the environmentof harassmentthat permeates
+Americanpublic high schools. We defined the environment,or context, of
+harassmentalong severaldimensions:studentsthemselves,theirfriends,and
+their schools. Findings strongly support our research hypotheses about
+context. First,over half of all students,girls and boys alike, reporthaving
+both experiencedharassmentand harassedothersin school. Becausethese
+studentsalso reporthavingbeen upset by the experienceof harassment,we
+contend that it is inappropriateto write off these behaviorsas "harmless"
+adolescent sexuality. Studentswho harass others also define their own
+experiences of harassmentas more severe. Secondly,harassmentis more
+severe when originatedfrom an adult in the school than from another
+student.Though the effect is unsurprising,the high proportionof students
+harassedby school employees is startlingnonetheless. Finally,the harassment context also involves friendsand extends to the school itself. Quite
+simply,studentsexperiencemore harassment,and more severe formsof it,
+in schools where they describe harassmentas a serious problem.
+Harassmenthas consequences.The data allow only a weak test of our
+hypotheses about the consequences of harassment.The hypotheses were
+confirmed by all analyses allowed with these data; they indicate that
+harassmenthas negative academic, psychological,and behavioralconsequences (especially for girls). The full extent of these consequences is
+unclear.Cross-sectionalsurveydata fromnationallyrepresentativesamples
+of secondaryschool students(such as we employed) are ideal for investigating questionsabout prevalenceand severity.However, a properexploration of the full consequences of sexual harassmentwould be better
+accomplishedthroughpersonalinterviews,allowing studentsto define the
+type and extent of consequences, ratherthan forcingthem to choose from
+a predeterminedand ratherthin response set. To investigatethe durationof
+consequences, studentsshould be interviewedat severaltimepointsand at
+some temporaldistance from the events. Thus, we admit that our results
+permitonly limitedconclusions about the consequences of sexual harassment-a lower bound at best. Although we identified negative consequences of experiencing sexual harassmentwith these data, anecdotal
+reports suggest that they are more profound, more complex, and more
+enduringthan those reportedhere (Stein et al., 1993, provide some anecdotal information).
+406
+
+Sexual Harassment in Secondary Schools
+Revisiting the Theories of Sexual Harassment
+Theories not supported by results. These results underline at least one
+common social notion about sexual harassment: It is a serious problem in
+our society, one we need to address. We briefly re-examine the theories of
+sexual harassment in light of our findings. For example, its prevalence in
+U. S. secondary schools undercuts the pathology theory's validity, implying
+severely antisocial behavior in individuals amenable to therapeutic response. It would be folly to consider either individual or group therapy for
+the majority of the high school population. Another misconception, that
+females are exclusively victims and males are perpetrators of sexual harassment, is not supported by our results.
+That such classic societal stratification factors as race, ethnicity, social
+class, and academic performance are either unrelated or very modestly
+related to adolescent sexual harassment raises a question about the usefulness of the more general abuse of power theories in educational settings.
+For the most part, gender is the only social background factor that counts
+here. Differential power may be more of an issue in the workplace than in
+schools; students can seldom be fired, and their legal rights are rather well
+defined. We conclude that common forms of framing the problem of sexual
+harassment, in gendered terms organized around the victim/perpetrator
+model, are misleading. It is possible that the dynamics of harassment in
+schools, which largely involve peers, differ substantially from harassment in
+the workforce, where the biology, pathology, and abuse of power theories
+have been located.
+On the other hand, our results should not be used to trivialize the
+problem. "Ifso many students are engaging in harassment,"some might say,
+"perhaps it is not a problem." Recall that our definition required that a
+harassed student must indicate that the experience was unwanted. By
+definition, sexual harassment is victimization. Students who are victimized
+at one point may respond by victimizing others at another. We suggest that
+sexual harassment is among the multiplicity of problems faced by contemporary American high schools and that it is an important one that should be
+moved toward the top of the list.
+Some cultural theories are neither applicable nor useful. For example,
+the Freudian cultural approach would encourage repressing or sublimating
+hostile sexuality. Though adults should surely exercise control over behaviors that threaten the social order, denying the existence of these forces
+among adolescents seems futile within current social norms. Nor is critical
+theory particularlyhelpful, as this approach would locate sexual harassment
+within the many socialization roles that schools perform to "prepare"
+students to function in a flawed society organized around alienation and
+capitalist consumerism. Criticaltheory would see schools as active agents for
+perpetuating injustices in the larger society, rather than as potentially
+positive socializing agents for youth.
+407
+
+Lee, Croninger,Linn, & Chen
+Theoriessupported by results. One form of the abuse of power theory,
+abuse of organizational power, seems applicable. Sizable proportions of
+students (especially girls) are harassed by school officials: principals, teachers, and staff. Because such people occupy positions of authority over
+students, harassment by them is a clear abuse of organizational power. The
+fact that victims see harassment by school officials as especially severe
+further supports the theory's applicability.
+As discussed, we find some cultural theories of sexual harassment most
+appropriate, particularly those formed around the structural and ethical
+views. These theories are helpful in guiding effective responses to the
+problem in schools because of the importance they afford school norms in
+influencing the behaviors of school members. The theories part company
+around which norms would be targeted to ameliorate harassment. Structural
+theory would support the development and enforcement of programs and
+policies, many of them quite formal and explicit, while ethical theory would
+direct attention to moral norms and values.
+Policy Implications for Sexual Harassment in Schools
+Existing policies. Currentnational attention to sexual harassment is strong in
+several settings: workplaces, higher educational institutions, and (more
+recently) K-12 schools. Employers and educators are becoming sensitized
+to the issues, policies are being designed and/or strengthened, and a legal
+and enforcement structure targeted on the issue now extends from individual workplaces or schools, through local courts, to the U. S. Congress and
+even the Supreme Court. These policies and laws share a similar structure
+and purpose: to define harassment carefully, to urge victims to recognize
+and report harassment incidents, and to identify and punish perpetrators of
+harassment. Such responses are consistent with a narrowly defined structural
+approach to the problem.
+In general, this policy structure assumes the victim/perpetrator model.
+Though technically not an issue (as policies must be gender-neutral),
+responses typically are designed around the view of female victims and male
+perpetrators. Having any structure in place to respond to the problem is
+good, but the existing structure has recognized faults. Publicly identifying
+oneself as a victim is not without cost; the burden of proof rests on the
+accuser. Women coming forward with claims of harassment are often seen
+as inviting sexual attention, and men who are accused of harassment are
+often excused by "the pressures of the job." Consider the recent attention
+on the issue around Anita Hill, Clarence Thomas, and Bob Packwood.
+Our study raises questions about the adequacy of the structuralpolicy
+model for eliminating sexual harassment. When over half of all high school
+students (male and female) identify themselves as having occupied both the
+victim and perpetrator roles, it is difficult to think that a policy of punishing
+the perpetrator and protecting the victim will be effective in eliminating
+408
+
+Sexual Harassment in Secondary Schools
+sexual harassment in schools. Moreover, the pervasiveness of harassment in
+the nation's secondary schools certainly raises the question of how successful such a policy approach could ever be. The policy probably makes sense
+when applied in cases with clear power differentials, as unequal power is
+sometimes used to coerce the less powerful into unwanted sexual activity.
+We support such policies when directed toward adults in schools--principals, teachers, school staff-because these people fill roles with considerable power over students. When adult harassers lose their jobs, when
+employers are required to provide financial compensation to harassees,
+people pay attention. The large majority of school-based harassment,
+however, occurs between students. Moreover, male students frequently
+identify themselves as victims. Harassment policies designed on the structural model are inadequate and inappropriate under such circumstances.
+Reconceptualizing policy. We suggest that social policy in general, and
+school policies in particular, move beyond the structural response and
+victim/perpetrator models of sexual harassment. Certainly sexual harassment in schools should be taken seriously. Our results show that, in fact,
+unwanted and uninvited sexual attention is almost out of control in U. S.
+secondary schools. Rather than trying to isolate the issue by punishing the
+guilty (other than school officials)-something that is really almost impossible-sexuality among adolescents should become an important and upfront subject of discussion in schools-a front-burner item.
+Enter the ethical dimension of our cultural theory. The general theory,
+as applied to schools, implies a substantial shift in how U. S. comprehensive
+high schools operate, toward a more communal form and away from the
+dominant bureaucratic form. This theory has implications for the social
+organization of schools (whose missions would be to develop students into
+adults who, although successful in the world as it is, would also question
+the society as it stands, rather than as high scorers on tests and big earners),
+for teachers (who would see themselves less as subject-matterspecialists and
+more as developers of student character writ large), and for students (who
+would be encouraged to directly confront and question important social
+values and mores). For a full development of these ideas, see Bryk, Lee, and
+Holland (1993) and Lee, Bryk, and Smith (1993).
+We support a move in high schools toward much more discussion of
+basic democratic values, where moral and ethical questions are hotly
+debated. We are drawn to Amy Gutmann's (1987) recommendation that we
+move away from the "value neutrality"of today's schools. A value-sensitive
+school culture would support the inclusion of sexuality in the public
+dialogue, where teachers would not fear that discussing it would be
+misinterpreted as advocating it. When the focus rests on a punish-the-guilty
+policy, schools may think they are isolating or minimizing attention to issues
+of sexuality, an issue about which they are probably quite fearful. For
+problems this pervasive and troubling to students, students' own voices
+about how to bring them under control should be encouraged. Although we
+409
+
+Lee, Croninger, Linn, & Chen
+are certainly in agreement with the suggestions of the National Council for
+Research on Women (1994) concerning legislative initiatives and good
+sexual harassment policies, we suggest that neither legislation nor policies
+alone can fully address a problem that, in part, defines the very social
+context of secondary education.
+Recommendations. In light of our criticism of existing policy (or lack
+thereof), we posit three categories of recommendations: (1) expand the
+"public"agenda of schools, (2) recognize difficulties students confront, and
+(3) model behaviors. We suggest that open and frank discussions of ethical
+questions and moral issues among students and staff in secondary schools
+are a good place to start. Such an expansion of the agenda for schools rests
+in a larger recommendation: Schools simply must recognize students'
+priorities and voices. Broadening the agenda for schools means that the
+discussion of sexuality, both wanted and unwanted, should be included in
+the formal and informal curriculum. This suggests that adolescent and adult
+sexuality must enter the literature, writing, and social studies curriculum at
+all grade levels, certainly before high school.
+Our findings suggest that adolescent attitudes about sexual harassment
+are ambivalent. Although they describe these behaviors as unwanted and
+hurtful, and have little trouble recognizing them, a majorityof students (girls
+and boys alike) also engage in them. Young people must be held accountable for their behavior; behaviors harmful to others simply cannot be
+tolerated in schools. Nonetheless, policy should also acknowledge students'
+ambivalence and provide administrators and teachers with a range of
+intervention strategies to respond to incidents of sexual harassment (including suspension, group counseling, and public apology). Even more important than responding to the occurrence of harassment in schools, policies
+should also be targeted at prevention. In this regard, we are encouraged by
+the National Education Association's intent to publish a curriculumon sexual
+harassment for students.7 Helping students understand, recognize, and
+address their own ambivalence about sexual harassment (indeed, about
+sexuality generally) should be a meaningful component of every secondary
+school's curriculum.
+Besides broadening the ethical agenda of schools and recognizing the
+difficulties students face in dealing with sexual harassment, the adults in
+schools should serve as models for respectful cross-status relations. Administrators and teachers need to examine their own schools' cultures to locate
+mixed messages, contradictions, and hypocrisies communicated to students
+and other members of the school community. Public awareness of each
+school's commitment to a harassment-free environment must be created
+through the actions of administrators and teachers-in enforcing existing
+sexual harassment policies, in appointments to positions of leadership and
+authority, in recognizing accomplishments and achievement, and in communicating with one another and with the broader school community. By these
+means, adults may shape an environment where students can develop more
+410
+
+Sexual Harassment in Secondary Schools
+
+positive ways of acknowledgingand expressingtheirsexuality.Ignoringor
+trivializingthis importantproblem in schools will not make it go away.
+APPENDIXA
+
+Percentage of male and female students having ever experienced 14
+forms of sexual harassment (N = 889)
+Percentage(0%)
+100 -
+
+] MaleStudents
+
+92.0
+
+2.
+
+Female Students
+
+83.2
+
+828
+
+"80
+
+74.9
+64.9
+
+60
+
+47.1
+47.1
+
+57.8 58.5
+
+-45.9
+
+50.0
+
+32.0
+
+50.1
+
+51.2
+
+31.7
+
+,
+
+25.9 26.6
+
+.LI
+
+.0
+
+1
+
+28.5
+
+25.3
+
+•
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Formsof SexualHarassment:
+1. Madesexualcomments,jokes, gestures,or looks
+8. Touched,grabbed,or pinchedyou in a sexualway
+brushedup againstyou in a sexualway
+2. Showedyou sexualpictures,photographs,
+messages,etc. 9. Intentionally
+3. Wrotesexualmessagesaboutyou on bathroomwalls,etc.10.Pulledat yourclothingin a sexualway
+4. Spreadsexualrumorsaboutyou
+11.Pulledyourclothingoff or down
+5. Saidyou weregay or a lesbian
+12.Blockedyourwayor corneredyou in a sexualway
+13.Forcedyou to kiss him/her
+6. Spiedon you as you dressedor showeredat school
+14.Forcedyou to do somethingsexual,otherthankissing
+7. Flashedor moonedyou
+
+APPENDIXB
+
+Summaryof Variables Used in Analyses
+Dependent Variables
+A. Studenteverbeingsexuallyharassed. Dummycoded so that1 = studentreported
+experiencingatleastone of 14formsof sexualharassmentand0 = none. Thel4 sexual
+harassmentformswere coded as 1 = never, 2 = rarely,3 = occasional,and 4 = often.
+We recodedthem so thatnever = 0 and rarely,occasionally,or often = 1. If a student
+was coded 1 for at least one formof sexual harassment,we consideredthis student
+as having experienced sexual harassment.Seventy-threepercent (73.5%)of the
+sample reportedhaving experiencedat least one form of sexual harassment.The
+percentagesfor male and female studentsare 60.2%and 83.4%,respectively.
+B. Severityofsexual harassmentmeasure,combiningfrequencyof and anxietyabout
+sexual harassment experience. The sexual harassment items were recoded
+
+411
+
+Lee, Croninger, Linn, & Chen
+to 0 = never, 1 = rarely,2 = occasional,and 3 = often.The coding of students'upset
+abouteach of the sexual harassmentitemsis 1 = not at all upset, 2 = not very upset,
+3 = somewhatupset, and 4 = very upset. We firstmultipliedstudents'reportabout
+the frequencyof each form of sexual harassmentby the degree of upset about the
+correspondingsexual harassmentitem.Then we summedthese 14 products.As the
+(which
+resultingmeasurewas skewed,we used its naturallogarithmictransformation
+madeit normallydistributed)andthen standardizedit. Thus,thismeasurehas a mean
+(Al)of 0 and standarddeviation(SD) of 1, with a rangeof -2.24 to 2.67. Reliability
+(Cronbachalpha) = 0.84.
+C. Consequencesof sexual harassment.
+Thefiveacademicproblemswe consideredarestudents'report
+1.Academicproblems.
+of (a) talkingless in class,(b) payingless attentionin class,(c) findingit hardto study,
+(d) gettinga lowergradeon a test or a paper,and (e) gettinga lowergradein a class.
+Eachwas dummycoded, 1 = studentexperiencedthe problemafterbeing harassed
+and 0 = no. We summedthese five academicproblemsand then recoded the sum
+intoa seriesof dichotomousvariables:(a) 1 = studentshave experiencedone or more
+academicproblemsand 0 = none, (b) 1 = studentshave experiencedtwo or more
+academic problems and 0 = students have experienced none or one academic
+problems,(c) 1 = studentshave experiencedthreeor more academicproblemsand
+0 = studentshave experiencednone or one or two academicproblems.Forty-seven
+percent (46.6%)of harassed students reported having experienced at least one
+academicproblemas a resultof being harassed.Reliability(Cronbachalpha)= 0.84.
+2. Psychologicalproblems. The two psychological problems we considered are
+students'reportof (a) havingtroublesleepingand(b) losingappetiteor losinginterest
+in eating.Eachwas dummycoded, 1 = studentexperiencedthe problemafterbeing
+harassedand0 = no. Wesummedthesetwo psychologicalproblemsandthenrecoded
+the sum into a series of dichotomousvariables:(a) 1 = studentshave experienced
+one or morepsychologicalproblemand 0 = none, (b) 1 = studentshave experienced
+two psychological problems and 0 = students have experienced none or one
+psychologicalproblems.Twenty-eightpercent(28.3%)of harassedstudentsreported
+havingexperiencedat leastone psychologicalproblemas a resultof being harassed.
+Correlationbetween these two psychologicalproblems= 0.66.
+3. Avoidancebehaviors.The 10 avoidancebehaviorswe consideredare students'
+reportof (a) not wantingto go to school, (b) stayinghome from school or cutting
+class,(c) stoppingattendingan extracurricular
+activity,(d) droppinggroupof friends,
+(e) droppingout of a course, (f) changingthe route going home, (g) changingseat
+in a class, (h) thinkingaboutchangingschools, (i) stayingaway fromsome specific
+placesatschool,and(j)avoidingpersondoingthe harassing.Eachwas dummycoded,
+1 = studentexperiencedthe problemafterbeing harassedand 0 = no. We summed
+these 10 avoidancebehaviorsand then recodedthe sum into a seriesof dichotomous
+variables:(a) 1 = studentshave experiencedone or more avoidancebehaviors,and
+0 = none; (b) 1 = studentshave experiencedtwo or more avoidancebehaviors,and
+0 = studentshave experiencednone or one avoidancebehaviors;(c) 1 = students
+have experienced three or more avoidance behaviors, and 0 = students have
+experienced none or one or two avoidance behaviors;(d) 1 = students have
+experiencedfive or more avoidancebehaviors,and 0 = studentshave experienced
+412
+
+Sexual Harassment in Secondary Schools
+none or less thanfive avoidancebehaviors.Seventy-threepercent(73.2%)of harassed
+studentsreportedhavingexperiencedat least one avoidancebehavioras a resultof
+being harassed.Reliability(Cronbachalpha) = 0.87.
+Independent
+
+Variables
+
+Student'sgender. Dummy coded, 1 = female, and 0 = male. Fifty-seven percent (57.2%)
+are female.
+Student's minority status. Two dummy coded variables created: (a) 1 = Black and
+0 = other, (b) 1 = Hispanic and 0 = other. Fifteen percent (14.5%) of students are
+Black, and 9% (8.9%) of students are Hispanic. The rest are White or Asian.
+Student's age. The coding is 11 = 11 years old or younger, 12 = 12 years old,...18 = 18
+years old, 19 = 19 years old or older. This measure ranges from 13 to 19, with M = 15.15
+and SD = 1.30.
+
+Student's GPA. The coding is 1 = mostly D & F, 1.5 = mostly C & D, 2 = mostly C,
+2.5 = mostly B & C, 3 = mostly B, 3.5 = mostly A & B, 4 = mostly A. This measure
+
+ranges from 1 to 4, with M = 3.03 and SD = 0.77.
+
+Yearsofparental education. This measure represents the years of education obtained
+by student's father or mother, whichever is larger. We recoded it so that 10 = less
+than high school, 12 = high school graduate, 14 = some college, 16 = college graduate,
+and 18 = postcollege education. This measure has M = 14.10 and SD = 2.30.
+
+Studentbeing harassedat least by one school-relatedadult. Dummycoded so that
+
+1 = being harassed at least by one school-related adult and 0 = none. We constructed
+this measure by considering students' reports of whether they were harassed by a
+teacher, a teacher's aid, a principal, a counselor, a coach, a substitute teacher, a security
+guard, a bus driver,or another school employee. If the student reported being harassed
+by at least one of these persons, then we assigned code 1 to this measure. Forty-nine
+percent (49.2%) of harassed students were harassed by at least one school-related
+adult. The remainder were harassed by fellow or former students.
+Student's perception of harassment at school. We took the mean of five measures:
+students' reports of (1) how often sexual harassment happened in schools, (2) how
+often students sexually harassed other students in schools, (3) how often teachers
+and other school employees sexually harassed students in schools, (4) how often
+students sexually harassed teachers and other school employees in schools, and (5)
+how often teachers and other school employees sexually harassed one another in
+schools. These five measures were coded 1 = never, 2 = rarely, 3 = occasional, and
+4 = often. We standardized (z scored) the measure, with the range from -1.78 to 2.42,
+
+with M = 0 and SD = 1. Reliablity (Cronbach alpha) = 0.69.
+
+Haveyou ever harassed others?Dummy coded so that 1 = a student has harassed others
+in at least one of 14 forms of sexual harassment and 0 = a student has never harassed
+others. Fifty eight percent (57.7%) of students reported having harassed other schoolrelated persons. The percentages for male and female students are 61.8%and 54.3%,
+respectively.
+
+413
+
+Lee, Croninger, Linn, & Chen
+Harassment experiences offriends. We summed 14 dummy-coded (1 = yes and 0 = no)
+variables, in each of which students reported the sexual harassment experiences of
+their friends, and then standardized the sum. This measure ranges from -1.63 to 2.03,
+with M = 0 and SD = 1.
+Notes
+We are gratefulto the AmericanAssociation of UniversityWomen (AAUW)Educational Foundation and to Priscilla Little, Senior Research Associate for the AAUW
+EducationalFoundation, for supplying the data for this study. We also appreciate the
+financialsupport of the Universityof Michigan'sOffice of the Vice-Presidentfor Research.
+However, all errorsof analysis, judgment, and interpretationare ours.
+'The AAUW (1993) report and survey used this definition: "Sexualharassment is
+unwanted and unwelcome sexual behavior which interferes with your life. Sexual
+harassment is not behaviors that you like or want (e.g.: wanted kissing, touching, or
+flirting)"(p.6).
+2Anothercontext in which to locate these culturaltheories is a set of sociological
+models about how social context influences individual behavior. For example, several
+models have been proposed to explain effects on childrenof the neighborhoodsin which
+they reside or the social mix of the school they attend (e.g., Jencks & Mayer,1990;Mayer
+&Jencks, 1989). Two of these models are relevantto our discussion:the contagion model
+(which postulates that children influence one another: "like begets like") and the
+collective socialization model (which focuses on how adults influence children, both as
+role models and as arbitersof the values and norms of the community).
+3Criticsof schools explicitly addressing ethical and moral questions might see it as
+encroachingon the wall of separationbetween churchand state, increasingthe insularity
+of school populations, and overlooking power differences among school clientele
+(Bowles, 1986).
+4To strengthen the conclusions about minority students by including substantial
+numbersof these students, Harrisand Associates actuallyoversampledschools with large
+minority enrollments. Spanish language versions of questionnaires were available to
+students on request. The weighting procedure adjustedfor the oversamplingof minority
+students. To ensure appropriatestatisticaltesting, we adjusted the student weight to a
+mean of one for all analyses.
+the general descriptionof sexual harassmentpresented at the beginning of
+"5Besides
+the survey (in Note 1), toward the end of the survey (afterreportingtheir experiences of
+harassment),respondents were asked, "Thinkingabout the types of sexual harassment
+that you have experienced duringyour school life, which of the following best describes
+how you felt right after being harassed, in most cases?"Response categories included
+"veryupset,""somewhatupset,""wasn'tvery upset,"and "wasn'tat all upset."Our sweep
+dropped any student who had experienced harassmentbut who reported that he or she
+"wasn'tat all upset" about it.
+6To describe effect sizes in meaningful terms, we follow the standardof Rosenthal
+and Rosnow (1984, p. 360). Effects larger than .5 SD are large, effects of .3 - .5 SD
+moderate, and effects of .1 - .3 SD small. Effects less than .1 SD are trivial.
+7Thecurriculumsuggested by the NEA,targeted for Grades 6-12, includes teacherled discussions, writing exercises, student observations, case studies, and role playing
+(Lawton, 1994; Stein & Sjostrom,1994).
+
+References
+Alexander v. Yale University, 631 F.2d 178 (2d Cir. 1980).
+American Association of University Women [AAUW].(1993). Hostile hallways: The
+AAUW survey on sexual harassment in America's schools. Washington, DC:
+Author.
+Apple, M. W. (1982). Education andpower. Boston: Routledge & Kegan Paul.
+
+414
+
+Sexual Harassment in Secondary Schools
+Arnot, M., & Weiner, G. (Eds.). (1987). Gender and thepolitics of schooling. London:
+Open University Press.
+Aronowitz, S., & Giroux, H. W. (1991). Postmodern education. Minneapolis: University of Minnesota Press.
+Beauvais, K. (1986). Worships to combat sexual harassment. A case study of
+changing attitudes. Signs, 12 (1), 130-145.
+Bidwell, C. E. (1965). The school as a formal organization. In J. G. March (Ed.),
+Handbook of organizations (pp. 972-1019). Chicago: Rand-McNally.
+Bowles, S. (1986). Democracy and capitalism: property, community, and the contradictions of modern social thought. NewYork: Basic.
+Brodky, L., & Fine, M. (1992). Presence of mind in the absence of body. In K. Weiler,
+& C. Mitchell (Eds.), What schools can do: Critical pedogogy and practice
+(pp. 75-94). Albany, NY: SUNY Press.
+Bryk, A. S. (1988). Musings on the moral life of schools. American Journal of
+Education, 96 (2), 256-290.
+Bryk, A. S., & Driscoll, M. E. (1988). The school as community: Theoreticalfoundation, contextual influences, and consequences. Madison, WI: National Center on
+Effective Secondary Schools, University of Wisconsin-Madison.
+Bryk, A. S., Lee, V. E., & Holland, P. B. (1993). Catholic schools and the common
+good. Cambridge, MA: Harvard University Press.
+Bryk, A. S., & Raudenbush, S. W. (1992). Hierarchical linear models: Applications
+and data analysis methods. Newbury Park, CA: Sage.
+Coleman, J. S., & Hoffer, T. (1987). Public and private high schools: The impact of
+communities. New York: Basic.
+Collins, E. G. C., & Blodgett, T. B. (1981). Sexual harassment: Some see it...some
+won't. Harvard Business Review, 59 (2) pp.76-95.
+Cusick, P. A., & Wheeler, C. W. (1988). Educational morality and organization reform.
+American Journal of Education, 96 (2), 231-155.
+Deal, T. E. (1982). Corporatecultures: The rites and rituals of corporate life. Reading,
+MA: Addison-Wesley.
+Dewey, J. (1966). Democracy and education. New York: Macmillan.
+Dey, E. L., Sax, L.J., Kom, J., & Ramirez,C. E. (1996, April). Betrayed by the academy:
+The sexual harassment of women college faculty. Journal of Higher Education,
+67(2), 149-173.
+Freud, S . (1949a). Civilization and its discontents. London: Hogarth.
+Freud, S. (1949b). Moses and monotheism. New York: Knopf.
+Gittins, N. (1993). Sexual haarassment in the schools: Preventing and defending
+against claims (2nd ed.). Alexandria, VA: National School Board Association.
+Goodlad, J. (1984). A place called school: Prospects for the future. New York:
+McGraw-Hill.
+Grant, G. (1988). The world we created at Hamilton High. Cambridge, MA: Harvard
+University Press.
+Gutmann, A. (1987). Democratic education. Princeton, NJ: Princeton University
+Press.
+Hall, R., & Sandler, B. R. (1982). The classroom climate: A chilly one for women?
+Washington, DC: Association of American Colleges, Project on the Status and
+Education of Women.
+Hall, R., & Sandler, B. R. (1988). The chilly climate revisited. Washington, DC:
+Association of American Colleges, Project on the Status and Education of
+Women.
+Jaschik, S. (1991, May 8). U. S. plans policies to fight harassment and bias at colleges.
+Chronicle of Higher Education, 37(35), 26-27.
+
+415
+
+Lee, Croninger, Linn, & Chen
+Jencks,C., & Mayer,S. E. (1990).The social consequencesof growingup in a poor
+neighborhood.In L.E. Lynn,& M.McGeary(Eds.),Concentratedurbanpoverty
+(pp. 111-186). Washington,DC:NationalAcademyPress.
+Kanter,R. M. (1977). Men and women of the organization.New York:Basic.
+Klein Associates. (1988). The 1988 WorkingWoman sexual harassmentsurvey
+(Executivereport).Cambridge,MA:Author.
+Larson,M. (1983). "Issexual harassmenta problemin your school?"TitleIXLine,IV
+(1), pp. 9-11.
+Lee,V. E., Bryk,A. S., & Smith,J. B. (1993).The organizationof effectivesecondary
+schools. In L.Darling-Hammond
+(Ed.),Reviewof researchin education(Vol. 19,
+pp. 171-267). Washington,DC:AmericanEducationalResearchAssociation.
+Lightfoot,S. L.(1983). Thegood highschool:Portraitsof characterand culture.New
+York:Basic.
+Linn,E. (1991).The checklist:How equitableis yourschool culture?EquityCoalition
+for Race, Gender,and National Origin,II (1),14-15.
+Linn,E., Stein, N. D., Young, J., & Davis, S. (1992). Bitterlessons for all: Sexual
+harassmentin schools. In J. T. Sears(Ed.), Sexualityand the curriculum:The
+politics and practicesof sexualityeducation (pp.10-123). New York:Teachers
+College Press.
+MacKinnon,C. A. (1979). Sexual harassmentof workingwomen. New Haven, CT:
+Yale UniversityPress.
+MacKinnon,C. A. (1993). Onlywords.Cambridge,MA:HarvardUniversityPress.
+Marcuse,H. (1955).Erosand civilization:AphilosophicalinquiryintoFreud.Boston:
+Beacon.
+Mayer,S. E., &Jencks,C. (1989, March).Growingup in poor neighborhoods:How
+much does it matter?Science,243, 1441-1445.
+McCune,S., & Matthews,M. (1976). Complyingwith TitleIX:Implementinginstitutional self-evaluation.Washington,DC:U. S. Departmentof Health,Education,
+and Welfare,NationalFoundationfor the Improvementof Education,Resource
+Centeron Sex Roles in Education.
+McLaren,P. (1994). Life in schools:An introductionto criticalpedagogy in the
+foundations of education (2nd ed.). New York:Longman.
+Morrison,T. (Ed.).(1992).Race-ingjustice,en-genderingpower:
+Essayson AnitaHill,
+ClarenceThomas,and the constructionof social reality.New York:Pantheon.
+Myers,K. (1992). Genderwatch:
+Aftertheeducationreformact. Cambridge,England:
+CambridgeUniversityPress. (Originalwork published 1987)
+NationalCouncilfor Researchon Women.(1994).Teen-on-teensexual harassment.
+
+Issues Quarterly, 1 (1), 1-6.
+Paludi, M. (Ed.). (1990). Ivorypower: Sexual harassment on campus. Albany: SUNY
+Press.
+Paludi, M., & Barickman, R. (1991). Academic and workplace sexual harassment: A
+manual of resources. Albany: SUNY Press.
+Rich, A. (1979). On lies, secrets, and silence. New York: Norton.
+Rosenthal, R., & Rosnow, R. L. (1984). Essentials of behavioral research:Methods and
+data analysis. New York: McGraw-Hill.
+Sandroff, R. (1992, June). Sexual harassment: The inside story. Working Woman,
+pp.4-51.
+Sizer, T. R. (1984). Horace's compromise: The dilemma of the American high school.
+Boston: Houghton-Mifflin.
+Sizer, T. R. (1992). Horace's school: Redesigning the American high school. Boston:
+Houghton-Mifflin.
+Stein, N. (1981). Sexual harassment of high school students: Preliminary research
+
+416
+
+Sexual Harassment in Secondary Schools
+results (Civil Rights/Chapter 622 Project). Quincy, MA: Commonwealth of
+Massachusetts, Department of Education.
+Stein, N., Marshall, N. L., Tropp, L. R. (1993). Secrets in public: Sexual harassment
+in our schools. Wellesley, MA: Wellesley College, Center for Research on
+Women.
+Stein, N., & Sjostrom, L. (1994). Flirting or hurting? Washington, DC: National
+Education Association.
+Strauss, S. (1988, March). Sexual harassment in the school: Legal implications for
+principals. NationalAssociation of Secondary School PrincipalsBulletin, pp. 93-97.
+Tangri, S. S., Burt, M. R., & Johnson, L. B. (1982). Sexual harassment at work: Three
+explanatory models. Journal of Social Issues, 38, 33-54.
+Till, F. J. (1980). Sexual harassment: A report on the sexual harassment of students.
+Washington, DC: National Advisory Council on Women's Educational Programs.
+U. S. Department of Education, Office of Civil Rights. (1981). Title IX and sexual
+harassment complaints (Internal memo to regional directors) [Available from
+author]. Washington, DC: Author.
+U. S. Merit Systems Protection Board. (1981). Sexual harassment offederal workers:
+Is it a problem? Washington, DC: U. S. Government Printing Office.
+U. S. Merit Systems Protection Board. (1987). Sexual harassment offederal workers:
+An update. Washington, DC: U. S. Government Printing Office.
+Weiss, L., & Fine, M. (1993). Beyond silenced voices: Class, race, and gender in
+U. S. schools. Albany: SUNY Press.
+Wexler, P. (1987). Social analysis of education: After the new sociology. New York:
+Routledge & Kegan Paul.
+"What'shappening to you?" (1992, September). Seventeen Magazine, 51(9), 165.
+
+ManuscriptreceivedJune 7, 1994
+AcceptedNovember9, 1994
+
+417
+
+

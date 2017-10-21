@@ -1,0 +1,725 @@
+Journal of Adolescent Health 45 (2009) 246–252
+
+Original article
+
+Impact of Sexual Harassment Victimization by Peers on Subsequent
+Adolescent Victimization and Adjustment: A Longitudinal Study
+Debbie Chiodo, M.A.a,*, David A. Wolfe, Ph.D.b, Claire Crooks, Ph.D.a, Ray Hughes, M.Ed.c,
+and Peter Jaffe, Ph.D.d
+a
+CAMH Centre for Prevention Science, London, Ontario, Canada
+CAMH Centre for Prevention Science and Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada
+c
+CAMH Centre for Prevention Science and the Thames Valley District School Board, London, Ontario, Canada
+d
+Faculty of Education and Centre for Research and Education on Violence Against Women and Children, The University of Western Ontario,
+London, Ontario, Canada
+Manuscript received September 4, 2008; manuscript accepted January 16, 2009
+b
+
+Abstract
+
+Purpose: To examine gender differences in prevalence and types of sexual harassment victimization
+experienced in grade 9 and how it contributes to relationship victimization and psychological adjustment 2.5 years later.
+Methods: A total of 1734 students from 23 schools completed self-report surveys at entry to grade 9
+and end of grade 11. Self-report data were collected on victimization experiences (sexual harassment,
+physical dating violence, peer violence, and relational victimization) and adjustment (emotional
+distress, problem substance use, self-harm, suicidal thoughts, maladaptive dieting, feeling unsafe at
+school, and perpetration of violent delinquency). Separate analyses by sex were prespecified.
+Results: Sexual harassment victimization was common among boys (42.4%) and girls (44.1%) in
+grade 9, with girls reporting more sexual jokes, comments, and unwanted touch than among boys,
+and with boys reporting more homosexual slurs or receiving unwanted sexual content. For girls, sexual
+harassment victimization in grade 9 was associated with elevated risk of self-harm, suicidal thoughts,
+maladaptive dieting, early dating, substance use, and feeling unsafe at school. A similar pattern of risk
+was found for boys, with the exception of dieting and self-harm behaviors. Adjusted odds ratios (AOR)
+indicated these students were significantly more likely than nonharassed students to report victimization by peers and dating partners 2.5 years later (AOR for boys and girls, respectively; all p < .01),
+including sexual harassment (AOR: 2.45; 2.9), physical dating violence (AOR: 2.02; 3.73), and physical peer violence (AOR: 2.75; 2.79). Gr 9 sexual harassment also contributed significantly to
+emotional distress (AOR: 2.09; 2.24), problem substance use (AOR: 1.79; 2.04), and violent delinquency perpetration (AOR: 2.1; 3.34) 2.5 years later (boys and girls, respectively; all p < .01).
+Conclusions: Sexual harassment at the beginning of high school is a strong predictor of future victimization by peers and dating partners for both girls and boys, and warrants greater prevention and intervention efforts. Ó 2009 Society for Adolescent Medicine. All rights reserved.
+
+Keywords:
+
+Sexual harassment; Youth; Victimization
+
+Sexual harassment is typically defined as a form of
+unwanted or unwelcome sexual attention, and is considered
+a form of gender-based violence [1]. Sexual harassment
+*Address correspondence to: Debbie Chiodo, M.A. M.Ed (Counselling
+Psychology), CAMH Centre for Prevention Science, 100 Collip Circle, Suite
+100, London, ON N6G 4X8.
+E-mail address: dchiodo@uwo.ca
+
+among youth encompasses acts that are sufficiently severe,
+persistent, or pervasive to limit a student’s ability to participate in or benefit from an education program or activity, or
+that create a hostile or abusive educational environment
+[2]. Such harassment can take physical forms such as a pulling at clothing, rubbing up against another person, or grabbing/pinching, as well as verbal forms such as sexual
+comments, jeers, rumor spreading, or sexual jokes.
+
+1054-139X/09/$ – see front matter Ó 2009 Society for Adolescent Medicine. All rights reserved.
+doi:10.1016/j.jadohealth.2009.01.006
+
+D. Chiodo et al. / Journal of Adolescent Health 45 (2009) 246–252
+
+Sexual harassment has been recognized for many years as
+being a problem in the workplace, university campuses, and
+military settings, where studies show that about two in five
+women and one in six men report at least one incident in
+the past 2 years [3]. Although sexual harassment is gender
+based by nature, women experience it differently from
+men. Women are more likely to report being objectified,
+put down, or treated differently because of their gender [4],
+whereas men experience vulgar and homophobic comments,
+presumably to enforce traditional gender role stereotypes [1].
+Most students also experience some forms of sexual harassment during high school, either occasionally (59%) or often
+(27%), with girls experiencing more frequent and severe
+forms than boys [5,6]. Even when the timeframe of questions
+about unwanted sexual behaviors and harassment is narrowed from ‘‘ever’’ (i.e., lifetime prevalence) to the past 2
+weeks, 15% of high school students report being subjected
+to unwanted and personally upsetting sexual harassment [7].
+Despite awareness of the frequency of sexual harassment,
+there is little available research on the forms of harassment
+experienced by adolescent boys and girls or how it may affect
+them differently over time. Although an atmosphere of sexual
+harassment is unhealthy and alienating, further study is
+needed to determine the effects of such acts on girls’ and
+boys’ interpersonal adjustment, especially over time. In the
+only longitudinal study of this issue, sexual harassment
+among grade 8 students predicted adjustment problems 3
+years later [8]. Younger girls and boys who associated with
+deviant peers were more likely to be the victims of sexual
+harassment. Moreover, girls who reached pubertal development earlier were at increased risk for sexual harassment,
+most likely because of inappropriate attention by others. Of
+particular concern was the finding that girls who reported
+higher victimization in the eighth grade also had increased
+problems with substance use, lower self-esteem, and symptoms of depression 3 years later. These findings suggest
+that, similar to findings with adults, sexual harassment is
+a risk factor for psychological problems among youth.
+Students’ experiences of abuse by peers in high school
+have a significant influence on their antisocial behavior and
+psychological adjustment [9,10]. Because victimization is
+highly stable, many of the same youth experience ongoing
+abuse from peers that contributes to their further mistreatment and adjustment problems, which may be especially relevant for boys who do not fit the rigid and conventional notion
+of masculinity [11,12]. Therefore, we conducted the present
+study of sexual harassment beginning in grade 9 (the first
+year of high school for this sample), because this is a time
+when many students are subjected to verbal and physical
+taunts and aggression from both their own classmates and
+older students. As they attempt to navigate entry into peer
+groups, many are faced with decisions and conflicts that
+pose a risk to their emotional well-being and are bombarded
+with negative gender-based messages [13]. We considered
+sexual harassment as a developmental risk factor, and anticipated that it could interfere with social adjustment and
+
+247
+
+emotional well-being and lead to further victimization in
+peer and dating relationships. Our primary objectives were
+to document the types and prevalence of sexual harassment
+experienced by boys and girls, and the negative outcomes
+associated with such experiences in the short and longer
+term. Given the gendered context of sexual harassment and
+that girls report more harassment and related distress than
+boys, we examined the short- and longer-term risks and
+outcomes separately for boys and girls.
+Methods
+Study participants and design
+Students (N ¼ 1897) from 23 high schools participated in
+this study, which was approved by the Institutional Review
+Boards at the Centre for Addiction and Mental Health and
+the University of Western Ontario. Data were collected as
+part of a randomized controlled trial (RCT) of a school-based
+intervention program to reduce adolescent dating violence
+and related risk behaviors. Sexual harassment victimization
+was assessed at the beginning of grade 9 and again 2.5 years
+later at the end of grade 11, along with other self-reported
+behaviors described below.
+Demographic information was collected from the parents
+of participating students with a take home questionnaire in
+grade 9 (return rate ¼ 65%, n ¼ 1225). The majority of
+participants’ parents were Caucasian (89%), married (82%),
+employed (86%), and had some post-secondary education
+(73%). However, a low return of this survey does not make
+these data representative of our sample in general. Indeed,
+the students in this study were much more diverse in ethnicity
+and family status.
+Measures
+Sexual harassment victimization. Sexual harassment was
+assessed using a modified version of the AAUW Sexual
+Harassment Survey of unwanted verbal and physical forms
+of sexual attention or harassment [5]. The original survey
+was modified to ask specifically if another teen or classmate
+had done any of the unwanted acts to him or her in the past 3
+months at school, using a dichotomous (yes/no) response
+scale. Six behaviors of the original 14 were removed based
+on low relevance or low frequency within high school
+samples [1,5]. Items included verbal, nonverbal, and physical
+forms of harassment, shown in Table 1. Because the total
+item distribution was positively skewed, sexual harassment
+victimization was dichotomized into absent (no or one experience) or present (two or more experiences).
+Physical dating violence and peer violence. Physical dating
+violence victimization was assessed with four items from the
+Conflict in Adolescent Relationships Inventory (CADRI),
+a self-report measure with established convergent/divergent
+validity [14]. Students indicated (yes or no) to behaviors
+they had experienced in the past year from a boyfriend/
+
+248
+
+D. Chiodo et al. / Journal of Adolescent Health 45 (2009) 246–252
+
+Table 1
+Sexual harassment victimization experiences in grade 9 for boys and girls
+Type of harassment a
+
+Girls
+
+Boys
+
+c2 (1)
+
+p
+
+Someone made sexual comments, jokes, gestures, or looks at me
+Someone touched, grabbed or pinched me in a sexual way
+Someone brushed up against me in a sexual way
+Someone spread sexual rumors about me
+Someone called me a ‘‘gay’’, ‘‘fag’’, ‘‘dyke’’, ‘‘lezzie’’, ‘‘queer’’ or similar terms
+Someone pulled at my clothing in a sexual way
+Someone showed, gave, or left me sexual pictures, photographs, messages, or notes
+Someone made comments about or rated the parts of my body that makes me a boy or girl
+
+452/954 (47)
+302/954 (32)
+262/952 (28)
+126/955 (13)
+219/954 (23)
+161/951 (17)
+90/955 (9)
+238/948 (25)
+
+318/897 (35)
+225/894 (25)
+275/895 (31)
+106/896 (12)
+298/893 (33)
+141/894 (16)
+143/891 (16)
+144/891 (16)
+
+27.08
+9.53
+2.30
+0.78
+24.82
+0.45
+18.35
+22.33
+
+<.01
+<.01
+.13
+.38
+<.01
+.50
+<.01
+<.01
+
+Data are n/N (%).
+a
+Items from the American Association of University Women Survey.
+
+girlfriend ‘‘while you were having an argument, angry at one
+another, or having a fight.’’ Presence of physical abuse was
+based on endorsement of one or more times (e.g., ‘‘he
+pushed, shoved, or shook me’’). Physical peer violence
+victimization was assessed with one item (yes/no) that asked
+students whether they had been hit, slapped, or punched by
+a peer with the intention of harm in the past 3 months. Youth
+also completed a delinquent behavior inventory developed
+by the National Longitudinal Survey of Children and Youth
+[15]. Eight items were chosen to reflect engagement in
+violent delinquency (e.g., ‘‘fought with someone to the point
+where they needed care for their injuries’’). Presence of
+violent delinquency perpetration (i.e., two or more forms of
+violent delinquency) was based on prior established cutoffs [16]. Peer relational victimization was assessed with
+five items from the Self-Report of Aggression and Social
+Behaviors survey [17]. Students indicated (1 ¼ not at all
+true; 5 ¼ very true) the extent to which they experienced
+some form of rumour/gossip spreading or social exclusion
+in the past 3 months, and those who reported 4 or 5 on one
+or more items were scored as positive.
+Emotional distress and suicidal thought/self-harm. Twelve
+items from the depression and anxiety subscales of the Brief
+Symptom Inventory [18] were combined to form a measure
+of emotional distress. Youth indicated (0 ¼ not at all; 4 ¼
+extremely) the extent to which they experienced each
+symptom over the past 7 days. Responses were dichotomized
+as present or absent, and summed to form a total distress
+score (a ¼.89). Students were categorized as experiencing
+emotional distress if they endorsed five or more of the 12
+items based on instrument norms and the current distribution
+of scores. Suicidal thought was assessed with one item (yes/
+no) asking students if they had considered suicide at any time
+over the past 3 months. Self-harm was assessed with one item
+(yes/no) asking students if they had hurt themselves on
+purpose (cut yourself, burned yourself, etc.) without intending to kill themselves in the past 3 months.
+Maladaptive dieting behaviors. Four items from the Youth
+Risk Behavior Surveillance Survey [19] asked students if
+they had engaged in any maladaptive dieting behaviors to
+
+lose weight in the past 30 days, including the following:
+purging; taking pills, powders, or liquids; fasting; and restriction of food. Maladaptive dieting was dichotomized based on
+the presence of one or more dieting behaviors.
+Problem substance use. Experience with alcohol and illicit
+drugs was assessed with the NLSCY [19] and converted to
+a dichotomous problem substance use score based on the
+presence of any one of four criteria: drinking 1–2 days
+a week or more; having five or more drinks at one time in
+past 30 days; using marijuana 1–2 days a week or more; or
+having tried any other illicit drug in the past three months.
+Sexually active and early dating. Students indicated whether
+they ever had consensual sexual intercourse (yes/no). Early
+dating was assessed with one item, asking students how old
+they were when they first started seeing (dating) someone,
+and dichotomized based on starting dating at 12 years of
+age or younger (i.e., presence of early dating).
+Feeling unsafe at school. This variable was coded positive
+for respondents who indicated they felt unsafe at school on
+one or more days over the past 30 days.
+Procedure
+Data were collected in October 2004 (T1: grade 9) and 2.5
+years later in May, 2007 (T2: grade 11). All grade 9 students
+were eligible and there were no exclusion criteria. A research
+assistant explained the study to each class and distributed
+research information, consent/assent forms, and a demographic survey to send home to parents. During school hours,
+students completed an on-line survey in the computer room
+or library under supervision by research staff and teachers.
+This procedure was identical at T1 and T2. Students were
+assured that their responses were confidential, were assigned
+a unique identifier for follow-up, and received help-seeking
+information.
+Data analyses
+Chi-square analyses were used to identify other risks associated with sexual harassment victimization in grade 9, by
+
+D. Chiodo et al. / Journal of Adolescent Health 45 (2009) 246–252
+
+gender. A logistic regression model predicting sexual harassment victimization at T2 was then examined, controlling for
+demographic variables, baseline scores, and grade 9 intervention status based on the associated RCT. Grade 9 intervention
+status was included in the model to control for any effects the
+associated prevention program may have had on any of the
+outcomes in this study. This model was repeated for related
+T2 outcomes of relationship victimization and psychological
+adjustment. Given the gendered-nature of sexual harassment
+victimization, separate logistic regression analyses were conducted for boys and girls. Adjusted odds ratios (AOR) and
+95% confidence intervals (CI) are reported for all analyses,
+with type I error rate set at p < .01.
+
+249
+
+thoughts, self harm, maladaptive dieting, early dating,
+substance use, and school safety). Significant odds ratios
+(ORs) ranged from 2.03 (CI: 1.57–2.65) for maladaptive
+dieting, to 5.88 (CI: 2.52–13.72) and 5.03(CI: 3.5–7.21) for
+self-harm and suicidal thoughts, respectively, indicating
+a two- to almost sixfold increase of such risk factors among
+girls experiencing sexual harassment. With the exception of
+dieting and self-harm behaviors a similar pattern of risk
+was found for boys, with substance use and suicidal thoughts
+being the highest risk factors (OR 2.94, CI: 2.23–3.89 and
+2.75, CI: 1.64–4.6, respectively). In all cases, the magnitude
+of the impact was smaller for boys than girls.
+Impact of sexual harassment victimization on grade 11
+victimization and adjustment
+
+Results
+The parent consent–youth assent rate was 75%, with
+a combined return rate (yes or no) of 82%. Longitudinal analyses included only students who provided data at both waves
+(1734/1897; retention rate 92%; 51% female). Of the 334
+students who had changed schools at T2, 186 were located
+and completed the on-line survey at their new school. The
+remaining students lost to follow-up refused to participate
+(n ¼ 29) or could not be located (n ¼ 119). The subsample
+of students lost to follow-up did not differ from the full
+sample on baseline measures.
+Risk factors associated with sexual harassment in grade 9
+A sizable number of students (n ¼ 790/1822; 43%) was
+classified as experiencing sexual harassment in grade 9.
+Although rates were the same for girls (44.1%) and boys
+(42.4%), types of harassment experiences differed (Table
+1). Girls were more likely than boys to experience being
+the recipient of sexual jokes, comments, and unwanted touch,
+while boys were more likely to be subjected to homosexual
+slurs or given sexual pictures and notes. Boys and girls
+reported similar rates of being brushed against in a sexual
+way, being the victim of rumors, and having their clothing
+pulled in a sexual way.
+Sexual harassment victimization was associated with
+several significant risk factors at T1. Notably, for girls, sexual
+harassment victimization was associated with elevated risk of
+all study outcomes, as shown in Table 2 (i.e., suicidal
+
+Boys and girls who reported sexual harassment victimization in grade 9 were 2.5 to 3 three times as likely to report it
+again 2.5 years later, supporting the view that such experiences tend to continue (boys: AOR: 2.45, CI: 1.8–3.32; girls:
+AOR: 2.9, CI: 2.25–3.42) (Table 3). Table 3 also indicates
+that sexual harassment in grade 9 was associated with higher
+risk for other forms of relationship violence in grade 11. For
+boys, sexual harassment victimization at T1 was associated
+with higher risk of physical dating violence victimization
+(AOR: 2.02 CI: 1.19-3.48), physical peer violence victimization (AOR: 2.75, CI: 1.59–4.76), and peer relational victimization (AOR: 1.49, CI: 1.09–2.02) at T2. A comparable
+pattern for girls was found, with the exception of peer relational victimization: (AOR: 3.73, CI: 2.27–6.61; 2.79,
+CI: 1.61–4.82; for physical dating violence and physical
+peer violence, respectively).
+Finally, sexual harassment at T1 contributed to risk for
+several other problem outcomes 2.5 years later, over and
+above the continuity associated with these problems (i.e.,
+controlling for T1 functioning). For girls and boys, emotional
+distress, problem substance use and violent delinquency
+perpetration were all significantly predicted by T1 sexual
+harassment victimization (Table 3). For boys, sexual harassment victimization at T1 was associated with an elevated risk
+at T2 for emotional distress (AOR: 2.09 CI: 1.46–3.0),
+problem substance use (AOR: 1.79 CI: 1.29–2.48), and
+violent delinquency perpetration (AOR: 2.1 CI: 1.39–3.16).
+A similar pattern was found for girls: emotional distress
+
+Table 2
+Risk factors associated with sexual harassment victimization in grade 9, by gender
+Boys (n ¼ 878)
+
+Suicidal thoughts
+Self-harm
+Maladaptive dieting
+Early dating
+Substance use
+Unsafe at school
+
+Girls (n ¼ 939)
+
+OR (95% CI)
+
+p
+
+OR (95% CI)
+
+P
+
+2.75 (1.64–4.6)
+2.40 (0.99–5.9)
+1.00 (0.73–1.41)
+2.60 (1.94–3.48)
+2.94 (2.23–3.89)
+1.99 (1.5–2.65)
+
+<.01
+<.05
+.95
+<.01
+<.01
+<.01
+
+5.03 (3.5–7.21)
+5.88 (2.52–13.72)
+2.03 (1.57–2.65)
+3.19 (2.42–4.21)
+4.68 (3.51–6.24)
+2.13 (1.6–2.84)
+
+<.01
+<.01
+<.01
+<.01
+<.01
+<.01
+
+*p Values refer to c2 analysis examining sexual harassment versus no sexual harassment group by dichotomous outcomes.
+
+250
+
+D. Chiodo et al. / Journal of Adolescent Health 45 (2009) 246–252
+
+(AOR: 2.24 CI: 1.59–3.16), problem substance use (AOR:
+2.04 CI: 1.5–2.77), and violent delinquency perpetration
+(AOR: 3.34 CI: 1.27–8.78).
+Discussion
+Sexual harassment victimization is prevalent among youth
+entering high school, occurring at equivalent rates for girls
+(44%) and boys (43%) in the present study. However, the
+nature of sexual harassment victimization differed for boys
+and girls, with girls experiencing more unwanted comments,
+gestures, and touch, and boys experienced more homosexual
+slurs and being shown or given unwanted sexual pictures,
+photos, messages, or notes. At the same time, the overlap
+across items should not be discounted, as significant numbers
+of both boys and girls reported each type of harassment.
+This research extends previous work on sexual harassment
+in a number of ways. First, it documents the negative impact
+for both boys and girls. Historically, sexual harassment victimization has been viewed as a form of violence experienced
+primarily by girls, with significantly more negative outcomes
+for girls than boys [8]. Although our results indicate that the
+immediate impact and longer-term outcomes associated with
+sexual harassment victimization are often stronger and more
+negative for girls, the experience of sexual harassment victimization for boys should not be overlooked. Sexual harassment
+experienced by boys was also associated with risk for virtually
+all outcomes assessed in this study, with the exception of
+unhealthy dieting and self-harm. In addition, our findings point
+to the importance of studying sexual harassment victimization
+over time. Sexual harassment victimization at the start of high
+school was associated with elevated risk, in terms of other
+forms of victimization and psychological adjustment difficulties 2.5 years later. These results add substantially to our
+knowledge about the longer-term impact and effects of sexual
+harassment victimization in an adolescent sample.
+With previous studies reporting rates of sexual harassment
+victimization as high as 80% (depending on the timeframe),
+some authors have suggested that such interactions between
+teens in schools are an accepted (if not welcomed) component
+of adolescent lives [20]. Nonetheless, results from this study
+
+and others strongly suggest that boys and girls are distressed
+by gender-based harassment. The presence of sexual harassment victimization in this study was associated with a range
+of risks for both boys and girls. For girls, an elevated risk of
+all outcomes under study (i.e., suicidal thoughts, self-harm,
+maladaptive dieting, early dating, substance use, and school
+safety) was associated with sexual harassment victimization.
+Consistent with previous research demonstrating that adolescent girls who experience repeated sexual harassment are
+more likely to attempt suicide [21], our findings show that
+the impact of sexual harassment victimization in girls is severe,
+and was reflected in odds ratios as high as 5.88 for self-harm
+(e.g., cutting behaviors) and 5.03 for suicidal thoughts. When
+sexual harassment frequently occurs in adolescent girls’ lives,
+they may be at risk for dysfunctional and abusive relationships
+in adulthood, in part because they come to expect demeaning
+behaviors as normal in heterosexual relationships [22,23].
+Although most research on sexual harassment
+victimization among youth attempts to describe the impact
+cross-sectionally, this study contributes to a more precise
+knowledge of the long-term impact of sexual harassment
+victimization by studying the issue longitudinally. We found
+that sexual harassment victimization in grade 9 was associated with higher risk for other forms of relationship violence,
+such as physical peer violence and sexual harassment victimization at grade 11 for both boys and girls, and dating
+violence and peer relational aggression for boys. These findings indicate additive risk for these outcomes as the analyses
+controlled for prior victimization experiences. Moreover,
+sexual harassment victimization in grade 9 contributed to
+risk for emotional distress, substance use, and violent delinquency 2.5 years later, over and above the continuity associated with these problems. It may not be enough to ensure that
+sexual harassment stops; additional supports may be required
+to reduce the impact over time.
+The longitudinal pattern was similar for boys and girls in
+that emotional distress, problem substance use and violent
+delinquency perpetration were all significantly predicted by
+grade 9 sexual harassment victimization, with adjusted odds
+ratios ranging from 1.79 (problem substance use for boys)
+to 3.34 (violent delinquency perpetration for girls). The
+
+Table 3
+Logistic regression of the contribution of sexual harassment victimization in grade 9 to relationship victimization and psychological adjustment outcomes in grade
+11, by gender
+Grade 11 outcomes
+
+Relationship victimization
+Sexual harassment victimization
+Physical dating violence
+Physical peer violence
+Peer relational victimization
+Psychological adjustment
+Emotional distress
+Problem substance use
+Violent delinquency perpetration
+
+Boys
+
+Girls
+
+Adjusted OR (95% CI)
+
+P
+
+Adjusted OR (95% CI)
+
+p
+
+2.45 (1.8–3.32)
+2.02 (1.19–3.48)
+2.75 (1.59–4.76)
+1.49 (1.09–2.02)
+
+<.01
+<.01
+<.01
+<.01
+
+2.9 (2.25–3.42)
+3.73 (2.27–6.61)
+2.79 (1.61–4.82)
+1.32 (.96–1.82)
+
+<.01
+<.01
+<.01
+.08
+
+2.09 (1.46–3.0)
+1.79 (1.29–2.48)
+2.1 (1.39–3.16)
+
+<.01
+<.01
+<.01
+
+2.24 (1.59–3.16)
+2.04 (1.5–2.77)
+3.34 (1.27–8.78)
+
+<.01
+<.01
+<.01
+
+Odds ratios (ORs) adjusted for demographic variables, baseline scores, and intervention or control status.
+
+D. Chiodo et al. / Journal of Adolescent Health 45 (2009) 246–252
+
+violent delinquency finding is noteworthy, given that most
+studies tend to focus on internalizing and substance-related
+outcomes. This finding suggests that girls who experience
+sexual harassment are not simply distressed but over time
+may also act out in a highly aggressive manner. Sexual harassment victimization, however, did not predict peer relational
+victimization for girls 2.5 years later. Although girls in the
+present sample did report more peer relational victimization
+at both time points than did boys (not presented here), peer
+relational victimization was not significantly predicted by
+T1 sexual harassment victimization. The literature on sexual
+harassment victimization shows that girls are often victimized
+by boys, whereas boys who experience sexual harassment are
+also victimized by boys (e.g., homosexual/homophobic
+slurs). Peer relational victimization is often same-sex peers
+spreading rumors, exclusion, and other similar behaviors, so
+it may not be predicted for girls by earlier accounts of sexual
+harassment likely committed by boys.
+Study limitations
+Despite the methodological strengths of the present study,
+a few important limitations should be noted. The dichotomization of sexual harassment victimization does not capture
+the severity, chronicity, or subjective impact of such experiences. Although there was overlap in types of behaviors
+experienced by boys and girls, it is difficult to know whether
+a particular behavior is experienced in the same way (e.g.,
+whether being grabbed in a sexual manner is experienced
+the same by boys and girls). Other researchers have found
+that girls perceive these types of harassing experiences as
+more harmful and upsetting than do boys [24] and receive
+‘‘qualitatively more severe, physically intrusive, and intimidating forms of harassment’’ [26]. Given the context of
+gender role socialization that occurs in high school and the
+developmental stage of high school students, gender differences in how sexual harassment is experienced and how it
+affects adjustment are not surprising. Similarly, sexual
+minority youth, those from minority ethnic groups, or those
+with child maltreatment backgrounds might experience
+higher rates or different forms of sexual harassment as well
+as more adverse effects because of heightened vulnerability
+[2]. It may be possible that youth who have had earlier experiences of child abuse or sexual harassment may have had
+more negative outcomes than youth who first experience
+sexual harassment victimization in grade 9, factors not
+controlled for in this study. Future research in this area would
+benefit from a greater understanding of the mediators or
+mechanisms through which sexual harassment influences
+relationship victimization and psychological adjustment for
+both boys and girls more than 2 years later.
+Conclusions
+During the past several years, schools and organizations
+have conducted significant work on the issue of sexual
+
+251
+
+harassment, establishing schoolwide policies making it clear
+that sexual harassment is illegal and unacceptable behavior.
+The development of effective policies and prevention strategies should be a high priority for all school districts. The
+delivery of school-based programs that build healthy, positive relationships among children and youth and that create
+a school climate that supports gender equality and other
+forms of diversity can be effective prevention strategies
+[25]. Moreover, the importance of professional development
+training opportunities for educators to challenge the view that
+sexual harassment is simply ‘‘boys being boys’’ needs to be
+addressed. Although many of these behaviors are not as
+visible or extreme as other forms of violence, this study
+shows that these acts of ‘‘everyday violence’’ are likely to
+have significant impact on the lives of youth and have the
+potential to cause physical and psychological harm
+throughout their high school years. Strategies to educate
+youth about the nature and harm of sexual harassment and
+related behaviors (e.g., dating violence, unsafe sex, etc.) are
+warranted.
+Acknowledgments
+This research was funded by a grant from the Canadian
+Institutes for Health Research (CIHR). We recognize RBC
+Financial Group for their support of the Chair in Children’s
+Mental Health (D. Wolfe), and the Royal Lepage Shelter
+Foundation for their generous support for violence prevention efforts with adolescents.
+References
+[1] McMaster LE, Connolly J, Pepler D, et al. Peer to peer sexual harassment in early adolescence: A developmental perspective. Devel Psychopathol 2002;14:91–105.
+[2] Gruber JE, Fineran S. The impact of bullying and sexual harassment on
+middle and high school girls. Viol Against Women 2007;13:627–43.
+[3] Street AE, Gradus JL, Stafford J, et al. Gender differences in experiences of sexual harassment: Data from a male-dominated environment.
+J Consult Clin Psychol 2007;75:464–74.
+[4] Lindberg SM, Grabe S, Hyde JS. Gender, pubertal development, and
+peer sexual harassment predict objectified body consciousness in early
+adolescence. J Res Adolesc 2007;17:723–42.
+[5] American Association of University Women. Hostile hallways:
+Bullying, teasing and sexual harassment in School. Washington, DC,
+2001.
+[6] Ontario Secondary School Teacher Federation. The joke’s over:
+Student to student sexual harassment in secondary schools. Toronto,
+ON, 1995.
+[7] Walsh M, Duffy J, Gallagher-Duffy J. A more accurate approach to
+measuring the prevalence of sexual harassment among high school
+students. Can J Behav Sci 2007;39:110–8.
+[8] Goldstein SE, Malanchuk O, Davis-Kean PE, et al. Risk factors of
+sexual harassment by peers: A longitudinal investigation of African
+American and European American adolescents. J Res Adolesc 2007;
+17:285–300.
+[9] Gottfredson MR, Hirschi T. A general theory of crime. Stanford, CA:
+Stanford University Press, 1990.
+[10] Hawkins D, Weis JG. The social development model: An integrated
+approach to delinquency prevention. J Prim Prev 1985;6:73–97.
+
+252
+
+D. Chiodo et al. / Journal of Adolescent Health 45 (2009) 246–252
+
+[11] Hodges EV, Perry DG. Personal and interpersonal antecedents and
+consequences of victimization by peers. J Pers Soc Psychol 1999;
+76:677–85.
+[12] Card NA, Isaacs J, Hodges EV. Multiple contextual levels of risk for
+peer victimization: A review with implications for prevention and intervention efforts. In: Miller TW, ed. School Violence and Primary
+Prevention. Oregon: Springer, 2008:125–54.
+[13] Wolfe DA, Jaffe P, Crooks CC. Adolescent risk behaviors: Why teens
+experiment and strategies to keep them safe. New Haven, CT: Yale
+University Press, 2006.
+[14] Wolfe DA, Scott K, Reitzel-Jaffe D, et al. Development and validation
+of the conflict in adolescent dating relationships inventory. Psychol
+Assess 2001;13:277–93.
+[15] Human Resources Development Canada. National Longitudinal
+Survey of Children and Youth: Cycle 4 2000–2001. Ottawa, ON:
+Canada, 2004.
+[16] Crooks CV, Scott KL, Wolfe, et al. Understanding the link between
+childhood maltreatment and violent delinquency: What do schools
+have to add? Child Mal 2007;3:269–80.
+[17] Linder JR, Crick NR, Collins W, et al. Relational aggression and
+victimization in young adults’ romantic relationships: Associations
+with perceptions of parent, peer, and romantic relationship quality.
+Soc Devel 2002;11:69–86.
+
+[18] Derogatis LR. BSI (Brief Symptom Inventory). Pearson Education,
+2001.
+[19] Kann L, Kinchen SA, Williams BI, et al. Youth Risk Behavior Surveillance—United States, 1999. MMWR CDC Surveill Summ 2000;
+49:1–96.
+[20] Ormerod AJ, Collinsworth LL, Perry L. (2008). Critical climate: Relations among sexual harassment, climate, and outcomes for high school
+girls and boys. Psychol Women Q 2008;32:113–25.
+[21] Bagley C, Bolitho F, Bertrand L. Sexual assault in school, mental
+healthy and suicidal behaviors in adolescent women in Canada. Adolescence 1997;32:361–6.
+[22] Larkin J, Popaleni K. Heterosexual courtship violence and sexual
+harassment: The private and public control of young women. Fem Psychol 1994;4:213–27.
+[23] Leaper C, Friedman CK. The socialization of gender. In: Grusec J,
+Hastings P, eds. Handbook of Socialization: Theory and Research.
+New York: Guilford, 2007:561–87.
+[24] Hand JZ, Sanchez L. Badgering or bantering? Gender differences in
+experience of, and reactions to, sexual harassment among U.S. high
+school students. Gend Soc 2000;14:718–46.
+[25] Wolfe DA, Crooks CV, Jaffe PG, et al. A universal school-based
+program to prevent adolescent dating violence: A cluster randomized
+trial. Arch Pediatr Adolesc Med (in press).
+
+

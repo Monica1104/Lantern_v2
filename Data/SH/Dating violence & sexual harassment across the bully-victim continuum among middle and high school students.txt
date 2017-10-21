@@ -1,0 +1,1310 @@
+Dating Violence & Sexual Harassment Across the Bully-Victim
+Continuum Among Middle and High School Students
+Dorothy L. Espelage · Melissa K. Holt
+
+Received: 12 September 2005 / Accepted: 31 October 2005
+C Springer Science+Business Media, Inc.
+
+
+Abstract Associations among bullying, peer victimization, sexual harassment, and dating violence were examined
+among 684 middle and high school students. Cluster analysis
+of self-report measures revealed four distinct bully-victim
+subtypes: uninvolved, victims, bully-victims, and bullies.
+African-American students comprised the bully cluster more
+than White students, but did not report higher rates of dating
+violence or peer sexual harassment. Bully-victims reported
+significantly more physical dating violence victimization
+than members of all other groups, and more emotional abuse
+in dating relationships than uninvolved students and victims.
+Bully-victims and victims also reported the highest amount
+of peer sexual harassment. Anxiety/depression levels were
+highest among victims and bully-victims. Sexual harassment
+and dating violence experiences moderated the association
+between bully-victim subtype and anxiety/depression. That
+is, victims with the highest levels of sexual harassment and
+victims and bully-victims with the highest levels of dating
+violence reported the highest levels of anxiety/depression.
+Findings highlight the high-risk nature of the bully-victim
+
+group and the importance of assessing multiple forms of
+victimization affecting youth.
+
+D. L. Espelage ()
+Associate Professor, Department of Educational Psychology,
+University of Illinois at Urbana-Champaign, Champaign, IL.
+Research interests include youth aggression, victimization,
+childhood sexual abuse, and eating disorders. 220A Education,
+Champaign, IL 61820,
+e-mail: espelage@uiuc.edu.
+
+Prevalence of bullying victimization
+& bully-victim subtypes
+
+M. K. Holt
+Melissa K. Holt, Research Scientist, Family Research Laboratory,
+University of New Hampshire, Durham, NH. Research interests
+include multiple victimization experiences, childhood sexual
+abuse, and contextual influences of victimization. Crimes Against
+Children Research Center University of New Hampshire10 West
+Edge Drive, Suite 106, Durham, NH 03824,
+e-mail: Melissa.Holt@unh.edu.
+
+One area of particular interest to practicing psychologists,
+scholars, and educators who develop school-based prevention programs is youth aggression and peer victimization.
+Longitudinal investigations have shown that childhood aggression is one of the best-known social predictors of future
+maladjustment (Parker and Asher, 1987). Students who are
+involved in aggressive acts either as victims (targets) or perpetrators are at-risk for developing potentially severe social,
+emotional, behavioral, and academic problems. A plethora
+of research has been conducted on peer victimization in the
+form of physical, verbal, and relational forms of aggression
+(see Juvonen and Graham, 2001 for a review), however, much
+less attention has been given to sexual harassment and dating violence victimization among adolescents. This current
+study addresses a major gap in the literature by investigating
+multiple forms of peer victimization among adolescents and
+their associations with anxiety/depression.
+
+Research has documented the fact that children experience
+bullying differently, both in terms of behavioral patterns and
+psychosocial adjustment (Espelage and Holt, 2001; Espelage
+and Swearer, 2003; Schwartz et al., 2001; Swearer et al.,
+2001). Differences among children involved in bullying have
+been conceptualized through categorizing youth into one of
+four groups: (1) bullies, the children who frequently bully
+others but are never victims; (2) bully-victims, the children
+who bully others and are victimized themselves; (3) victims,
+children who are victimized but do not resort to aggression
+against others; and (4) controls, also uninvolved or no status,
+Springer
+
+J Youth Adolescence
+
+children who have no significant history as aggressors or
+victims (Espelage and Holt, 2001). Although the majority
+of youth tend to be classified as uninvolved, there remains
+a substantial subset of adolescents considered to be bullies,
+bully-victims, or victims.
+Specifically, in a nationally representative study of 6th–
+10th graders (N = 15,686), using self-report data 13% of the
+sample was categorized as bullies, 11% as victims, and 6%
+as bully-victims (Nansel et al., 2001). When peer-, teacher, and self-reports were used to classify a large sample of
+6th graders (N = 1,985); the authors found 7% bullies, 9%
+victims, and 6% were bully-victims (Juvonen et al., 2003).
+Both studies highlight the widespread nature of bullying
+involvement, and point to the need for additional research to
+address what differentiates youth in these three groups.
+The discrimination between bully and bully-victim groups
+has aroused particular interest because these subgroups appear to display different patterns of aggression. Bullies exhibit a more goal-oriented aggression, entailing more control
+and planning. In contrast, the bully-victims tend to display
+a more impulsive aggression, manifesting poor regulation
+of affect and behavior, which is perceived as particularly
+aversive by their peers (Schwartz et al., 2001). In addition,
+bully-victims are at greatest risk for social maladjustment
+and therefore, as will be examined in the current study, might
+be at-risk for victimization in other domains. Research has
+also reported that bully-victims tend to report more depression and anxiety than their peers (Swearer et al., 2001) and
+are the most rejected group along the bully-victim spectrum
+(Warden and McKinnon, 2003). Thus, bully-victims might
+be particularly at-risk for being victimized in other interpersonal contexts. While this group is the subject of very little
+research, a number of theoretical arguments can be drawn
+from the general victimization literature that might explain
+the potential overlap across victimization experiences. These
+will be discussed after a brief discussion of the prevalence
+of sexual harassment and dating violence.
+Prevalence of sexual harassment victimization
+Two surveys conducted by American Association of University Women (American Association of University Women
+Educational Foundation, 1993, 2001), asked nationally representative samples of public school students about their
+experiences with sexual harassment at school. Sexual harassment was defined as “unwanted and unwelcome sexual
+behavior that interferes with your life. Sexual harassment is
+not behaviors that you like or want (for example wanted kissing, touching, or flirting). ” (p. 2, American Association of
+University Women Educational Foundation, 2001). Results
+from both the 1993 AAUW and 2001 AAUW surveys revealed that sexual harassment was widespread among youth.
+
+Springer
+
+Specifically, eight in ten students (81%) had experienced
+some form of sexual harassment at some time during their
+school lives with six in 10 occasionally and 1/4 often experiencing sexual harassment. Seventy-percent experienced
+nonphysical sexual harassment at some point in their school
+lives, and more than 50% experienced it often or occasionally. Physical sexual harassment was reported by 58% of
+students as happening at some point in their school lives,
+and 32% experienced this form of sexual harassment often
+or occasionally. Forty-eight percent of students were upset
+when they experienced both forms of sexual harassment. Although these studies provided awareness about the problem
+of sexual harassment in our schools, much more work is
+needed in order to explicate how sexual harassment relates
+to other forms of victimization. For instance, are victims of
+sexual harassment also victims of bullying? This is an area
+not yet addressed in the literature that we will focus on in
+this study.
+
+Prevalence of dating violence victimization
+Dating violence is another form of interpersonal violence
+with high rates among youth (see Ely et al., 2002 for a
+review). Studies suggest that between 10% (Roscoe and
+Callahan, 1985) and 55% (O’Keefe, 1998) of adolescents
+have been the targets of dating violence. Estimates tend
+to be the highest when emotional abuse is considered to
+constitute dating violence (Bookwala et al., 1992). Research
+has indicated that less severe forms of physical violence
+(e.g., slapping) are more common than extreme forms
+(e.g., choking) (Roscoe and Callahan, 1985). To capture a
+range of dating violence victimization, both emotional and
+physical forms were assessed in this study.
+Regardless of the type of dating violence experienced, it
+is often associated with negative emotional outcomes. Carlson’s (Carlson, 1987) review of the literature suggests that
+effects of victimization include feelings of confusion, anger,
+sadness, and diminished self-esteem. According to a study
+of 123 high school students conducted by Burcky and colleagues (Burcky et al., 1988), 56% of victims indicated that
+although the incident(s) upset them there were no long-term
+effects, whereas 8% reported more long-standing emotional
+disturbance. As such, dating violence appears to have serious consequences. However, more research needs to be conducted to determine why some victims are more adversely
+affected than others. One possibility is that targets of dating
+violence who are also victimized in other domains experience the most deleterious outcomes; this hypothesis will be
+evaluated in this study. As is detailed below, theoretical and
+empirical evidence exists suggesting that victimization often
+co-occurs.
+
+J Youth Adolescence
+
+Multiple forms of victimization
+Much of the extant literature on multiple victimization experiences among adolescents has focused on various forms of
+child maltreatment (Hibbard et al., 1990) or has investigated
+whether victims of child maltreatment are also targets of peer
+victimization (Shields and Cicchetti, 2001). However, few
+studies have evaluated the co-occurrence of multiple types
+of peer victimization. The limited existing research in this
+area suggests that bullying victimization is associated with
+sexual harassment and dating violence victimization (Holt
+and Espelage, 2005), and that bullying perpetration is associated with being aggressive with dating partners (Connolly
+et al., 2000). It is particularly important to assess multiple
+peer victimization among adolescents given evidence in the
+broader victimization literature that students who have experienced multiple forms of maltreatment report more psychological distress than their peers who have experienced
+singular victimization forms or have not incurred any victimization (Harned, 2000; Hibbard et al., 1990; Holt and
+Espelage, 2003; Naar-King et al., 2002).
+Several theories have emerged in the literature to explain
+the potential association of bullying victimization and other
+forms of victimization among youth. The developmental
+victimology framework, for instance, suggests that many
+victimization types have similar risk factors (Finkelhor and
+Asdigian, 1996; Finkelhor and Dziuba-Leatherman, 1994;
+Finkelhor and Kendall-Tackett, 1997; Lagerspetz, 1982).
+Further, the framework indicates that experiencing victimization might increase vulnerability for future victimization.
+This fits with findings put forth by other scholars. For example, antecedents to being victimized by a peer in young childhood include nonassertive behavioral play styles (Schwartz
+et al., 1993), and that once this victimization occurs then
+children develop certain behavioral and personality features
+that appear to increase the likelihood of future victimization.
+Victimizations lead to peer rejection and social withdrawal
+and over time contribute to more victimization (Hodges and
+Perry, 1999).
+Other explanations for why youth might experience multiple forms of victimization have also drawn from attribution
+theory, finding that peer victims often engage in self-blaming
+attributions (Graham and Juvonen, 1998). Eventually some
+victims develop an internalized self-schema through which
+other victimization experiences are attributed to flaws within
+him/her, self-blaming attributions are made, and psychological distress ensues (Graham and Juvonen, 1998). Similarly,
+the traumagenic dynamics model (Finkelhor and Browne,
+1985) addresses coping mechanisms, and posits that the way
+in which sexually abused children experience and cope with
+their abuse helps to explain subsequent victimizations. It is
+also likely that the absence or presence of prior victimization
+experiences serve as stress buffering and stress exacerbating
+
+effects. As such, it might be that having experienced multiple forms of victimization leads to increased stress levels
+and greater distress. Thus, in this study, history of sexual harassment and dating violence experiences were evaluated as
+moderators of the association between bully-victim subtypes
+and anxiety/depression (Rook, 1992, 1998). When bully victimization occurs, it is possible that a student’s level of psychological anxiety/depression is buffered if they do not have
+a history of sexual harassment and dating violence, but exacerbated when they have a history of victimization in these
+domains.
+
+Sex & race influences on victimization
+This study also explored sex and race differences on victimization experiences and the impact of these demographic
+variables on the relations among bully-victim subtype, other
+forms of victimization, and anxiety/depression.
+Bullying & victimization
+In general, boys are more likely to engage in physical
+bullying than girls (Espelage et al., 2000; McDermott,
+1996); however, sex differences in verbal bullying are less
+consistent (Knight et al., 2002). A few studies examined
+race/ethnicity differences across the bully-victim continuum, but more research is needed. Nansel et al. (2001)
+found that Hispanic youth reported bullying others only
+marginally more than White or Black students, whereas
+Black youth reported being bullied significantly more than
+Whites or Hispanics. In contrast, Graham and Juvonen
+(2002) found that African-Americans were more likely to
+be nominated as aggressive than Latino and multiethnic
+urban middle school students. Similarly, in a study using a
+multi-informant assessment approach (i.e., self, peer, and
+teacher), Black youth were most likely to be classified as
+bullies and bully-victims, while Whites were most likely to
+be classified as borderline (Juvonen et al., 2003).
+The dearth of literature on race/ethnicity and multiple
+forms of victimization led to the current study’s focus on
+race/ethnicity differences.
+Sexual harassment
+In both AAUW surveys (1993, 2001), girls reported more
+sexual harassment experiences than boys. However, a significant increase from 1993 to 2001 in the number of boys
+experiencing sexual harassment occasionally (56% vs. 49%)
+or often (25% vs. 18%) was found. Girls at both assessments
+reported that others made sexual comments, jokes, gestures
+or looks toward them the most often (31%, 34%), which
+was following by being touched, grabbed, or pinched in a
+Springer
+
+J Youth Adolescence
+
+sexual way (17%, 20%). These were also the most common
+for boys at both assessments, however, more boys reported
+having sexual comments, jokes, gestures or looks directed
+at them (53%, 48%) and being touched, grabbed, or pinched
+in a sexual way across the two time points (40%, 29%). In
+2001, girls who experienced any kind of sexual harassment
+most often reported one-on-one, male to female harassment,
+while boys were most likely to be sexually harassed by one
+other girl or an all-female group. In terms of racial/ethnic
+differences, White boys were more likely than their AfricanAmerican peers to have had someone pull off or down their
+clothing (21% vs. 10%). African-American girls were more
+likely than Hispanic and White girls to be touched, grabbed,
+or pinched in a sexual way (67%, 51%, 51%), to have had
+someone pull at their clothing in a sexual way (50%, 30%,
+32%) and to be forced to kiss someone (28%, 18%, 15%).
+The current study will add to our understanding of sex and
+racial/ethnic differences in prevalence rates and correlates of
+sexual harassment.
+Dating violence
+Conflicting information exists with respect to differences
+in dating violence rates by sex and race. For example, in a
+study of 719 ethnically diverse high school students the rate
+of physical dating violence victimization did not differ for
+males and females (Malik et al., 1997). Conversely, of the
+207 high school students surveyed by Roscoe and Callahan
+(1985) significantly more females (65%) than males (35%)
+were the targets of violence. With respect to psychological
+abuse, a study of 37 adolescents in an alternative high school
+program revealed that males and females were victimized
+at approximately the same rate (James et al., 2001). This
+contrasted Molidor’s (Molidor, 1995) finding that males
+reported higher amounts of psychological abuse than females and Foshee’s 1996 study where females experienced
+more psychological abuse than males did. Less research
+has explored dating violence victimization rates across
+ethnic/racial groups. In one study of 1,976 eighth and ninth
+grade students, results showed that White adolescents reported less non-sexual victimization than African-American
+adolescents (Foshee et al., 1996). Another study of high
+school students revealed that African-American females
+were less frequently targets of dating violence than their Caucasian female peers (O’Keefe and Treister, 1998). This study
+will inform existing contradictory information on sex and
+racial/ethnic differences in dating violence victimization.
+Summary
+Again, the majority of the studies that have investigated sex
+and race in relation to these forms of victimization have been
+largely descriptive. Virtually none have considered these deSpringer
+
+mographic variables in inferential models where multiple
+predictors are considered. It could be that a descriptive approach overstates the influence of these variables. This study
+therefore is the first study to examine sex and race in more
+comprehensive models to understand how race and/or sex
+impact the association between experiences with sexual harassment and dating violence across bully-victim subtypes.
+Hypotheses
+This study examined whether bully-victim subtypes among
+middle and high school students differed in their experiences of sexual harassment and dating violence. Given the
+well-documented literature that males score higher on bully
+measures, it was hypothesized that more males than females
+would be classified as bullies and bully-victims. Based on the
+limited research on race/ethnicity differences, it was hypothesized that African-American students would have greater
+representation in the bully and bully-victim subtypes and
+report more sexual harassment and dating violence victimization than White students. As peer victimization (especially name-calling) can take the form of sexual harassment,
+it was further hypothesized that bully-victims and victims
+would report more sexual harassment experiences as a target than uninvolved individuals. However, victims were not
+hypothesized to have more dating violence victimization experiences because it is expected that they are less likely to
+date than the other students. Explanatory models of multiple victimization supported our final hypothesis that sexual
+harassment victimization would moderate the association between bully-victim subtype and anxiety/depression. That is,
+bullies, victims, and bully-victims with greater sexual harassment experiences would report more anxiety/depression than
+group members with less sexual harassment experiences. A
+similar hypothesis was set forth for dating violence.
+Method
+Participants
+Participants were 684 youth, including 369 (54%) middle school and 315 (46%) high school students. The middle school was located in a suburb of a large Midwestern
+city and the high school was located in a small Midwestern city. All students from these schools were invited to
+participate, and 100% of students whose parents agreed to
+their participation (see below) elected to complete the survey. There were 320 (47%) males and 364 (53%) females.
+With respect to race, respondents identified themselves as
+Caucasian, Non-Hispanic (N = 415; 60.7%) and AfricanAmerican (N = 269; 34.3%). Of these students, 198 were
+seventh graders (28.9%), 171 were eighth graders (25.0%),
+
+J Youth Adolescence
+
+112 were ninth graders (16.4%), 21 were tenth graders
+(3.1%), 101 were eleventh graders (14.8%), and 81 were
+twelfth graders (11.8%). Few tenth grade students participated in the study because school policy was such that tenth
+graders do not typically enroll in physical education classes,
+the setting in which surveys were administered. The mean
+age for the sample was 14.50 (SD = 1.97). With respect to
+socio-economic status, although we did not collect this information directly from students, school-district records indicate that approximately 42% of middle school students and
+43% of high school students were classified as low-income.
+Procedure
+Parental consent
+Passive parental consent was used in this investigation to
+maximize participation. This form of consent was approved
+by the university institutional review board, by the school
+district’s research coordinator, and by the school administrators. Parents of all students enrolled in physical education
+classes were sent letters informing them about the purpose of
+the study. Furthermore, parents were asked to sign the form
+and return it only if they were unwilling to have their child
+participate in the investigation; no forms were returned. In
+addition to passive parental consent, students were asked to
+consent to participate in the study through an informed consent form included in the questionnaire packet. All students
+who were present on the day of survey administration elected
+to participate.
+Survey administration
+Six trained research assistants, the primary researcher, and
+a faculty member collected data. At least two of these
+individuals administered surveys to each physical education
+class, which ranged in size from 25 to 50. Students were
+first informed about the general nature of the investigation.
+Next, researchers made certain that students were sitting far
+enough from one another to ensure confidentiality. Students
+were then given survey packets and asked to answer all
+questions honestly. Researchers were available to answer
+questions that emerged once students began responding to
+survey items. When students had completed the surveys they
+were given the opportunity to have their data removed from
+analyses if they had not carefully considered each question.
+Each participant was also provided with a list of phone
+numbers to call (e.g., community counseling agencies)
+should they experience an emotional reaction to the questionnaires. Last, a raffle was held in each group in which one
+student won a $10 gift certificate to a local mall. On average
+it took students approximately 45 min to complete the
+survey.
+
+Measures
+Each participant first completed a demographic questionnaire that included questions about his/her sex, age, grade,
+and race. For race, participants were given six options:
+African-American (not Hispanic), Asian, White (not Hispanic), Hispanic, Native American, and Other (with a space
+to write in the most appropriate racial descriptor such as
+bi-racial). Only White and African-American students were
+included in the analyses; students who identified as Asian,
+Hispanic, Native American, and Other (n = 100) were excluded from the analyses.
+Students also completed items from the scales listed below. All scales were selected for their documented effective
+use in middle and high school populations and their strong
+psychometric properties. Because surveys were given to students’ in groups, and in the case of middle school students
+were read aloud, scale order was not counterbalanced.
+Self-reported bullying behavior
+The nine-item University of Illinois Bully Scale (UIBS;
+(Espelage and Holt, 2001) was used to assess bullying behavior including teasing, social exclusion, name-calling, and
+rumor spreading. Researchers developed this scale based on
+interviews with middle school students, a review of the research literature on existing bullying measures, and extensive
+factor analytic investigations (Espelage et al., 2000; Espelage
+et al., 2003). Students are asked to indicate how often in the
+past 30 days they have engaged in each behavior (e.g., “I
+teased other students” and “I upset other students for the fun
+of it”). Response options include “Never,” “1 or 2 times,” “3
+or 4 times,” “5 or 6 times,” and “7 or more times.” These
+response options allow for the assessment of the persistence
+of the bullying. Higher scores indicate more self-reported
+bullying behaviors. Espelage and Holt (Espelage and Holt,
+2001) found a Cronbach alpha coefficient of .87 and the Bullying Scale was found to be moderately correlated (r = .65)
+with the Youth Self-Report Aggression Scale (Achenbach,
+1991), suggesting convergent validity. This scale was also
+found to converge with peer nomination data (Espelage et al.,
+2003). This scale was not significantly correlated with the
+Illinois Victimization Scale (r = .12), providing evidence of
+discriminant validity (Espelage et al., 2003). A Cronbach
+alpha coefficient of .90 was found for the current sample.
+Self-reported victimization
+Victimization from peers was assessed using the University
+of Illinois Victimization Scale (UIVS; Espelage and Holt,
+2001). Students are asked how often the following things
+have happened to them in the past 30 days (i.e., “Other students called me names”, “Other students made fun of me,”
+Springer
+
+J Youth Adolescence
+
+“Other students picked on me,” and “I got hit and pushed by
+other students”). Response options include “Never,” “1 or 2
+times,” “3 or 4 times,” “5 or 6 times,” and “7 or more times.”
+Higher scores indicate more self-reported victimization. Further, the scale was found to converge with peer nomination
+data (Espelage et al., 2003). As noted above, this scale was
+not significantly correlated with the Illinois Bullying scale
+(r = .12), providing evidence of discriminant validity (Espelage et al., 2003). A Cronbach alpha coefficient of .86 was
+found for current study.
+Peer sexual harassment
+The AAUW Sexual Harassment Survey (American Association of University Women Educational Foundation, 1993)
+is a 14-item inventory designed to measure the frequency
+with which students are victimized by sexually harassing
+behaviors. Participants are asked to indicate how often other
+students engaged in particular behaviors aimed at the participant (e.g., made sexual comments, jokes, gestures, or
+looks) within the previous year. Items reflect verbal and physical harassment. Response options are “Not sure,” “Never,”
+“Rarely,” “Occasionally,” and “Often.” Coefficient alpha for
+this sample was .90. No additional validity or reliability information exists for this scale.
+Physical victimization in dating relationships
+The Victimization in Dating Relationships scale (Foshee,
+1996) is an 18-item inventory designed to measure physically violent victimization within dating relationships. Participants are asked to indicate how often individuals they
+went on dates with engaged in particular behaviors (e.g.,
+scratched me, kicked me) and are instructed to only count
+behaviors that their partners inflicted on them first. Violence
+inflicted due to self-defense therefore is not measured by the
+Victimization in Dating Relationships scale. There are four
+response options: “Never,” “1 to 3 times,” “4 to 9 times,” and
+“10 or more times.” For the current sample, the coefficient
+alpha was .94.
+Emotional abuse in dating relationships
+The Abusive Behavior Inventory (ABI; Shepard and Campbell, 1992) measures physical, emotional/psychological, and
+sexual abuse in dating relationships. Only the emotional
+abuse scale was used in this study. Nine items tapping a
+range of psychologically abusive behaviors (e.g., “How often has a dating partner said something to scare you?”) were
+administered. Response options ranged from “Never” (0)
+through “Often” (4), and participants were also given the opportunity to select ‘Not sure’ as a response. In the development sample, ABI items successfully differentiated individSpringer
+
+uals in abusive and non-abusive relationships, providing support for the ABI’s criterion validity (Shepard and Campbell,
+1992). The resulting alpha coefficient for the current study
+was .89.
+Anxiety/depression
+The anxiety/depression scale from the Youth Self-Report
+(YRS; Achenbach, 1991) was used to assess psychological
+functioning. This scale consists of 16 self-report items and
+students are asked to indicate the degree to which particular
+statements apply to them (e.g., “I feel lonely,” “I am nervous
+or tense”). Response options are “Not true,” “Somewhat or
+sometimes true,” and “Very true or Often true.” Numerous
+studies have supported this instrument’s reliability and validity (Achenbach, 1991; Bennett and Bates, 1995; Visser
+et al., 1999). A coefficient alpha coefficient was .90 for this
+study.
+Results
+Cluster analysis
+We conducted a k-means cluster analysis using SPSS and SYSTAT to create bully-victim subtypes. Items from the University of Illinois Bully and Victimization Scales (Espelage
+and Holt, 2001) were input for these analyses. Based on literature supporting that typically four groups of youth exist
+with respect to bullying and victimization (bullies, victims,
+bully/victims, and neither bullies nor victims), we hypothesized that these four clusters would emerge. We first utilized
+Ward’s algorithm (Ward, 1963) to derive cluster solutions.
+This method minimizes the variance within clusters at each
+stage of grouping (Borgen and Barnett, 1987). Comparative
+studies have found that Ward’s method is one of the more
+effective cluster-analytic approaches (Borgen and Barnett,
+1987). However, Ward’s method has also been criticized because of its tendencies to produce results that are heavily
+influenced by profile elevation (Aldenderfer and Blashfield,
+1984), and yield clusters with relatively equivalent numbers
+of observations (Hair and Black, 2000). Consequently, the
+complete linkage method was also utilized. This method
+combines cases with the smallest maximum distance at each
+stage of the agglomeration (Borgen and Barnett, 1987; Hair
+and Black, 2000). Results of cluster analyses utilizing both
+of these methods suggested that a four cluster solution was
+appropriate for the data.
+Following calculation of the cluster solution via these
+hierarchical methods, we re-analyzed the data utilizing
+a nonhierarchical clustering method, k-means iterative
+partitioning. This method requires that the number of
+clusters be specified in advance. Milligan (Milligan, 1980)
+has suggested that k-means clustering is an appropriate
+
+J Youth Adolescence
+
+follow-up analysis to hierarchical clustering techniques.
+Similarly, Kinder and his colleagues (Kinder et al., 1991)
+recommend a two-stage approach in which both hierarchical
+and nonhierarchical methods are used.
+Cluster descriptions
+Cluster one, defined as the “Uninvolved” cluster, included the
+majority of students (N = 400; 58.5%). These students had
+both the lowest mean bullying (M = 16.85, SD = 2.64) and
+the lowest mean peer victimization (M = 5.36, SD = 1.64)
+scores. Cluster two, characterized by youth who scored
+nearly one standard deviation above the bullying mean
+(M = 29.14, SD = 5.10) and almost at the mean for victimization (M = 6.48, SD = 2.29), was labeled the “Bullies”
+cluster (N = 102; 15%). The fewest students (N = 30; 4.4%)
+were classified as members of Cluster three, identified as
+the “Bully-victims” group because on average their bullying
+scores (M = 50.40, SD = 8.52) were three standard deviations above the sample mean, and their victimization scores
+(M = 8.30, SD = 4.08) were approximately one-half a standard deviation above the sample mean. Finally, cluster four
+was designated the “Victims” group (N = 92; 14%); on average, members of this group had scores near the mean for
+bullying (M = 23.38, SD = 6.11) and almost two standard
+deviations above the mean for victimization (M = 14.33,
+SD = 3.19). Differences among clusters on bullying (F (3,
+620) = 756.17, p < .001) and peer victimization (F (3,
+620) = 418.23, p < .001) scores were statistically significant
+(See Table 1). Further, post-hoc tests revealed statistically
+significant differences between all cluster pairings. In particular, bully-victims reported more bullying behaviors than
+members of any other cluster, whereas victims revealed more
+peer victimization than youth in all other clusters.
+In these models there also were significant interactions.
+For bullying behaviors, there was a significant interaction between cluster and race (F (3, 608) = 3.06, p < .05), however
+this effect was small (η2 = .02). With respect to peer victimization, there was no statistically significant interaction
+between cluster by sex and cluster by race (F (3, 719) = 3.66,
+p < .01).
+Cluster demographic characteristics. However, testing cluster differences on demographic characteristics using χ 2 analysis revealed statistically significant differences for sex (χ 2 (3, N = 624) = 11.73, p < .01), race
+(χ 2 (3, N = 624) = 55.43, p < .01), and school (χ 2 (3,
+N = 719) = 35.6, p < .01). With respect to sex, a greater percentage of females (69.7%) were in the uninvolved cluster
+than males (57.3%), whereas a greater percentage of males
+were in the three remaining groups (18.5% male vs. 14.6%
+female bullies; 6.8% male vs. 3.2% female bully-victims;
+17.4% male vs. 12.5% female victims). In terms of race,
+our hypothesis was supported; more White than African-
+
+American students were classified in the uninvolved group
+(72.7% White vs. 49.6% African-American), and a greater
+percentage of African-American youth comprised the bullies
+(28.4% African-American vs. 9.2% White) and bully-victim
+(8.6% African-American vs. 2.6% White) clusters. Conversely, although not a large difference, more White (15.6%)
+than African-American (13.4%) students were in the Victims
+cluster. Finally, a higher percentage of high school (74.8%)
+than middle school (55.5%) students were included in the
+uninvolved cluster. Middle school students were more representative than high school students in the bullies (22.3% vs.
+9.0%), bully-victims (5.8% vs. 3.6%), and victims (16.5%
+vs. 12.6%) clusters.
+Given that clusters differed by demographic characteristics, in subsequent analyses we included sex, race, and school
+in interaction terms.
+Dating violence and sexual harassment victimization
+by cluster membership
+We calculated three 4 (cluster) X 2 (sex) X 2 (race) ANOVAs
+to determine if mean scores on physical dating violence victimization, emotional abuse in dating relationships, and sexual harassment victimization differed across clusters.
+First, the main effect for race was evaluated in order to test
+the hypothesis that African-American students would report
+more sexual harassment and dating violence victimization
+than White students. In contrast to the hypothesis, main effects for race were not significant for sexual harassment
+victimization (F (1, 592) = 1.99, p > .05; η2 = .003), physical dating violence victimization (F (1, 592) = .19, p > .05;
+η2 = .000), or emotional dating violence (F (1, 592) = .72,
+p > .05; η2 = .001).
+As hypothesized, statistically significant results
+emerged for physical dating violence victimization (F
+(3, 592) = 18.38, p < .001; η2 = .09), suggesting that
+cluster membership was associated with dating violence
+experiences. Specifically, results indicated that individuals
+in the bully-victims cluster reported the most physical
+dating violence victimization, and that the mean of this
+group was significantly higher than the mean for any other
+cluster (See Table 2). Youth classified in the uninvolved
+cluster had physical dating violence victimization scores
+that were, on average, significantly lower than students in
+the bullies or bully-victims groups. Interaction terms for
+demographic characteristics (race, sex, school) by cluster
+were not statistically significant.
+Similar findings resulted when considering emotional
+abuse in dating relationships by cluster membership, and
+again, cluster membership was related to experiencing
+emotional abuse (F (3, 592) = 14.01, p < .001; η2 = .07).
+As shown in Table 2, students in the bully-victims cluster
+reported the most emotional abuse victimization in dating
+Springer
+
+J Youth Adolescence
+Table 1
+
+Bullying and peer victimization scores by cluster membership
+
+Bullying
+Scores by gender
+Males
+Females
+Scores by race
+White
+African-American
+Peer victimization
+Scores by gender
+Males
+Females
+Scores by race
+White
+African-American
+
+Uninvolved
+(N = 400)
+M
+SD
+
+Bullies
+(N = 102)
+M
+SD
+
+Victims
+(N = 92)
+M
+SD
+
+Bully-victims
+(N = 30)
+M
+SD
+
+16.85a
+
+2.64
+
+29.14a
+
+5.10
+
+23.38a
+
+6.11
+
+50.40a
+
+8.52
+
+17.28
+16.57
+
+2.89
+2.44
+
+29.35
+28.94
+
+5.50
+4.69
+
+24.33
+22.30
+
+6.39
+5.67
+
+50.32
+50.55
+
+8.37
+9.20
+
+16.67
+17.30
+5.36b
+
+2.66
+2.55
+1.64
+
+29.72
+28.83
+6.48b
+
+4.70
+5.31
+2.29
+
+22.57
+24.96
+14.33b
+
+6.28
+5.55
+3.19
+
+51.10
+50.05
+8.30b
+
+5.99
+9.66
+4.08
+
+5.26
+5.43
+
+1.57
+1.68
+
+6.85
+6.10
+
+2.55
+1.95
+
+14.71
+13.88
+
+3.30
+3.04
+
+8.79
+7.45
+
+4.39
+3.50
+
+5.00
+5.25
+
+1.68
+1.54
+
+7.19
+6.09
+
+2.39
+2.16
+
+14.70
+13.58
+
+3.29
+2.90
+
+8.80
+8.05
+
+5.05
+3.62
+
+Bullying mean is significantly different from all other groups, p < .01.
+
+b
+
+Victimization mean is significantly different from all other groups, p < .01.
+
+∗
+
+p < .01, ∗∗ p < .05
+
+relationships, and the mean for this group was significantly
+higher than means for the uninvolved and victims clusters.
+As hypothesized, members of the victims group reported
+the least emotional abuse in dating relationships. Interaction
+terms between sex, race, school, and cluster were not
+statistically significant.
+Finally, we evaluated the degree to which students from
+each cluster reported different amounts of peer sexual harassment victimization, and the overall model was statistically significant (F (3, 592) = 13.20, p < .001; η2 = .06).
+As with the other forms of victimization described above,
+bully-victims tended to experience the most peer sexual harassment, at a significantly higher level than members of any
+other cluster (Table 2). Additionally, in support of our hy-
+
+F(3, 620)418.23∗
+F(3, 608)2.45
+
+0.67
+0.01
+
+Uninvolved
+(N = 400)
+M
+SD
+
+Bullies
+(N = 102)
+M
+SD
+
+Victims
+(N = 92)
+M
+SD
+
+Bully-victims
+(N = 30)
+M
+SD
+
+F (3, 592) η2
+
+1.30a,c
+2.97a,c
+3.65a,b,c
+4.81a,b,c
+
+3.50a,e
+4.84a
+7.38a,e
+6.41a,d,e
+
+2.42f
+4.73f
+6.22b,f
+10.74b,d
+
+7.93c,e,f
+7.13c,f
+11.27c,e,f
+9.34c,e
+
+18.38∗
+14.01∗
+13.20∗
+22.15∗
+
+3.66
+4.61
+5.42
+5.42
+
+0.01
+
+We next compared clusters on anxiety/depression using a
+4 (cluster) X 2 (sex) X 2 (race) ANOVA. Results were
+consistent with previous research and indicated that clusters differed significantly on anxiety/depression scores (F
+(3, 592) = 22.15, p < .001; η2 = .10) (Table 2). Uninvolved
+youth reported the least anxiety/depression, with significant
+
+5.59
+4.85
+7.47
+6.02
+
+Means for uninvolved and victims are significantly different, p < .01.
+
+c
+
+Means for uninvolved and bully-victims are significantly different, p < .01.
+
+d
+
+Means for bullies and victims are significantly different, p < .01.
+
+e
+
+Means for bullies and bully-victims are significantly different, p < .01.
+
+f
+
+Means for victims and bully-victims are significantly different, p < .01,
+
+Springer
+
+0.02
+
+Anxiety/depression profiles by cluster membership
+
+Means for uninvolved and bullies are significantly different, p < .01.
+
+p < .001.
+
+F(3, 608)∗ 3.06
+
+pothesis, youths in the victims cluster reported significantly
+more peer sexual harassment victimization than uninvolved
+students but did not differ significantly from bullies. Interaction terms between sex, race, school, and cluster were not
+statistically significant.
+
+b
+
+∗
+
+0.79
+0.008
+
+Dating violence, sexual harassment victimization, and anxiety/depression by cluster membership
+
+Physical dating violence
+Emotional abuse
+Peer sexual harassment
+Anxiety/depression
+a
+
+F(3, 620)756.17∗
+F(3, 608)1.57
+
+F(3, 608)1.49
+
+a
+
+Table 2
+
+η2
+
+ANOVA
+
+4.66
+6.17
+6.79
+7.65
+
+12.18
+6.85
+12.18
+7.96
+
+ANOVA
+
+0.09
+0.07
+0.06
+0.10
+
+J Youth Adolescence
+
+lower means on average than members of any other group.
+Conversely, victims and bully-victims revealed the most anxiety/depression when compared to uninvolved and bullies.
+No interaction terms were statistically significant.
+
+lence had some of the highest anxiety/depression scores in
+the sample.
+
+Discussion
+Sexual harassment as a moderator between bully-victim
+subtype & anxiety/depression
+A regression analysis was conducted to evaluate the hypothesis that sexual harassment experiences moderate the relation
+between bully-victim subtypes and the dependent variable
+of anxiety/depression. For these analyses, total scores on
+the AAUW sexual harassment scale were converted to a
+categorical variable with three levels (low, moderate, high)
+using a tertial split. Bully-victim subtype, sexual harassment categorical variable, sex, race, and school were independent variables in a 4 (cluster) X 3 (sexual harassment
+level) X 2 (sex) X 2 (race) ANOVA with anxiety/depression
+as the dependent variable. ANOVA was used over regression in order to prevent the use of dummy variables for the
+cluster variable. Significant interactions were plotted following Aiken and West (1991) guidelines using ModGraph
+(Jose, 2003). A significant bully-victim subtype by sexual harassment interaction was found for anxiety/depression and
+means for each group are plotted in Fig. 1. As hypothesized, bully-victims and victims with the highest levels
+of sexual harassment reported the highest levels of anxiety/depression. No interactions with sex, race, or school were
+significant.
+Dating violence as a moderator between bully-victim
+subtype & anxiety/depression
+A final set of analyses evaluated the hypothesis that dating violence would moderate between bully-victim subtype
+and the dependent variable of anxiety/depression. For these
+analyses, emotional and physical forms of dating violence
+were collapsed in order to limit the number of tests conducted. Total scores on this composite were converted to a
+categorical variable with three levels (low, moderate, high)
+using a tertial split. Bully-victim subtype, dating violence
+categorical variable, sex, race, and school were independent variables in a 4 (cluster) X 3 (dating violence level) X
+2 (sex) X 2 (race) ANOVA with anxiety/depression as the
+dependent variable. A significant bully-victim subtype by
+dating violence composite interaction was found for anxiety/depression and means for each group are plotted in
+Fig. 2. The hypothesis that victims and bully-victims with
+more dating violence experiences would report more anxiety/depression was partially supported. Bully-victims with
+the lowest levels of dating violence had the lowest selfreported anxiety/depression scores. However, victims and
+bully-victims with moderate and high levels of dating vio-
+
+Results from this investigation support previous findings that
+adolescents can be grouped into four bully-victim subtypes
+and that students involved in bullying in any capacity experience more anxiety/depression than uninvolved students.
+Moreover, this research extends previous work on bullying
+through identifying that bully-victims are at greatest risk
+for dating violence and peer sexual harassment victimization. This study also documented that sexual harassment and
+dating violence serve as moderators between bully-victim
+subtypes and anxiety/depression. A detailed discussion of
+all findings follows.
+Bully-victim subtypes
+Consistent with previous research (Juvonen et al., 2003;
+Nansel et al., 2001), four subtypes of bully-victims emerged:
+bullies, victims, bully-victims, and uninvolved students. Of
+the adolescents surveyed, the majority (58.5%) were classified as uninvolved, 15% were identified as bullies, 14% were
+considered victims, and 4.4% were categorized as bullyvictims. These rates are in line with other investigations of
+middle and high school youth (Juvonen et al., 2003; Nansel
+et al., 2001). A greater percentage of males comprised the
+bully, bully-victim, and victim groups, whereas more females than males were considered uninvolved. This follows
+existing research suggesting that boys engage in more bullying than girls (Espelage et al., 2000; McDermott, 1996). As
+hypothesized, more African-American than White students
+were in the bully and bully-victim groups, which is consistent
+with Juvonen, Graham, and Schuster (Juvonen et al., 2003).
+The dearth of previous research along these lines prevents us
+from understanding why these differences emerged. It could
+simply be that the assessment of bullying in this study might
+be tapping normative types of peer group interactions and
+expressiveness among African-American youth (Kochman,
+1990).
+Dating violence and sexual harassment victimization
+by bully-victim subtype
+This study is one of the first to explore the extent to which
+peer victimization in one domain—in this case, the bullying continuum—is related to peer victimization in other
+domains—in this case, dating violence and peer sexual harassment. Consistent with hypotheses, bully-victims reported
+more physical dating violence and peer sexual harassment
+than members of any other group, and more emotional abuse
+Springer
+
+J Youth Adolescence
+
+15
+
+Depression/Anxiety Scores
+
+12
+
+9
+Low SH
+Moderate SH
+High SH
+6
+
+3
+
+0
+Uninvolved
+
+Victims
+
+Bully-victims
+
+Bullies
+
+Cluster
+Fig. 1 Sexual harassment moderates relation between bully-victim subtype & anxiety/depression
+
+in dating relationships than uninvolved students and victims. Given that bully-victims have already been identified
+as a particularly high-risk group (Kumpulainen et al., 1998;
+Nansel et al., 2003; Nansel et al., 2001), this adds additional
+evidence that bully-victims are a critical group to target in in-
+
+tervention efforts. In particular, it is important to discern why
+bully-victims are at heightened risk for victimization in other
+peer domains. It might be that peer victimization is only one
+component of bully-victims’ victimization experiences, and
+that they have also experienced other intra- and extra-familial
+
+Depression/Anxiety Scores
+
+15
+
+12
+
+9
+
+Low DV
+Mod DV
+High DV
+
+6
+
+3
+
+0
+Uninvolved
+
+Victims
+
+Bully-victims
+
+Cluster
+Fig. 2 Dating violence moderates relation between bully-victim subtype & anxiety/depression
+Springer
+
+Bullies
+
+J Youth Adolescence
+
+victimization. If this is the case, their re-victimization might
+be examined in light of models exploring common risk factors of victimization, such as the developmental victimology framework (Finkelhor and Dzuiba-Leatherman, 1994;
+Finkelhor and Kendall-Tackett, 1997) or theories focused on
+how effects of an initial victimization lead to subsequent peer
+victimization and perpetration.
+Victims also reported more peer sexual harassment than
+uninvolved students, which was consistent with expectations,
+but contrary to hypotheses, they also reported more dating
+violence victimization than uninvolved youth. This suggests
+that victims might be dating at similar rates as other youth,
+and that their pattern of school victimization extends beyond
+the school environment to other interpersonal relationships.
+This has interesting implications for considering how victims
+are characterized. Presumably when targeted at school by
+bullies, victims often are not friends with their perpetrator.
+This fits with the profile of a victim who tends to have few
+friends (Hodges et al., 1997). However, in the context of
+dating relationships one would assume there is at least a
+friendship between the two parties, and as such the dynamic
+is different. Is it that targets of bullies seek out dating partners
+who are likely to victimize them? Further research is needed
+to clarify the relation between being victimized at school and
+on dates.
+Anxiety/depression by bully-victim subtype
+As hypothesized, bully-victim status was related to psychological functioning. Specifically, uninvolved students reported the least anxiety/depression, adding additional support to the wide body of literature concluding that uninvolved
+students tend to be better adjusted than bullies, victims, or
+bully-victims (Schwartz, 2000; Swearer et al., 2001). Furthermore, victims and bully-victims had the highest anxiety/depression levels. However, unlike findings from some
+previous research (Schwartz, 2000; Swearer et al., 2001),
+although bullies reported less anxiety/depression than the
+victim clusters. It might be important in future investigations
+to assess anxiety and depression separately in order to compare findings to Swearer and colleagues, where bullies had
+the highest levels of depression (Swearer et al., 2001).
+Moderating effects of sexual harassment
+and dating violence
+Results supported our hypothesis that sexual harassment
+moderates the association between bully-victim status and
+anxiety/depression, and partially supported our hypothesis
+that dating violence moderates this relation. Specifically,
+bully-victims and victims who had experienced high levels of sexual harassment victimization reported more anxiety/depression than their counterparts who had experienced
+
+low or moderate levels of sexual harassment victimization.
+This finding is consistent with extant research on multiple
+victimization suggesting that adolescents who have experienced victimization in multiple domains experience more
+psychological distress than youth who have experienced singular or no victimization (Hibbard et al., 1990; Holt and
+Espelage, 2003; Hughes et al., 1989; Naar-King et al., 2002)
+One potential explanation for the exacerbating effect of
+sexual harassment and dating violence on the association
+between bully-victim subtype and anxiety/depression could
+be derived from attribution theory. Attribution style refers to
+how people tend to explain the causes of their own and other’s
+behavior (Aronson et al., 2002). Attributions tend to vary
+along three dimensions: locus, stability, and controllability.
+Locus is whether the cause is internal or external to the person, stability refers to whether the cause is stable or unstable
+over time, and controllability refers to whether or not a cause
+can be controlled by the person (Weiner, 1986). Graham
+and Juvonen (Graham and Juvonen, 2001) provided middle
+school students with two scenarios of hypothetical incidents
+of victimization and found students who were victims of peer
+victimization (bullying) endorsed significantly more characterological self-blaming attributions compared to nonvictims
+in response to imagined incidents of harassment. These authors did not, however, consider how these attributions might
+have been shaped by other victimization experiences. Studies
+in the future on the effect of multiple victimization experiences should consider the role of attributions.
+Limitations & implications
+Despite its efforts to examine multiple victimization experiences, this study is cross-sectional in nature and therefore inferences about causality cannot be made. As such, it was not
+possible to discern whether victimized students experienced
+anxiety/depression as a consequence of their victimization or
+whether these outcomes are reflect baseline functioning prior
+to victimization. Longitudinal investigations are needed to
+address this issue. In addition, only one outcome was assessed whereas victimization likely affects myriad factors.
+For instance, salient outcomes of dating violence that have
+at times been shown to differ for boys and girls, such as injury rates (e.g., Foshee, 1996), were not considered. Finally,
+adolescent dating violence is often reciprocal in nature, and
+future studies should attempt to assess the role of self-defense
+or abuse within the dyadic relationship.
+This study adds to a growing literature on children
+and adolescents that have experienced multiple forms of
+victimization. In the victimization literature, these children
+are referred to poly-victims and have been neglected in
+child victimization trauma theories (Finkelhor, Ormrod,
+and Turner, under review). This study examined the overlap
+among bullying victimization, sexual harassment, and dating
+Springer
+
+J Youth Adolescence
+
+violence and provides initial support for the co-occurrence of
+different forms of victimization. These findings indicate that
+clinicians that obtain referrals for students who are involved
+in bully-victim episodes should conduct a thorough assessment of victimization experiences. Clinicians should also
+target personality and behavioral factors that might place an
+individual child at-risk for subsequent victimization.
+
+
+
+References
+Achenbach TM (1991) Manual for the Youth Self-Report and 1991
+Profile
+Aldenderfer MS, Blashfield RK (1984) Cluster analysis. Newbury park.
+Sage Publications, California
+American Association of University Women Educational Foundation
+(1993) Hostile hallways: The AAUW survey on sexual harassment
+in America’s schools (No. 923012). Harris/Scholastic Research,
+Washington, DC
+American Association of University Women Educational Foundation (2001) Hostile hallways: Sexual harassment and bullying in
+schools. Harris/Scholastic Research, Washington, DC
+Aronson E, Wilson TD, Akert RM (2002) Social psychology, 4th edn.
+Prentice Hall
+Bennett DS, Bates JE (1995) Prospective models of depressive symptoms in early adolescence: Attributional style, stress, and support.
+J Early Adolesc 15:299–315
+Bookwala J, Frieze IH, Smith C, Ryan K (1992) Predictors of dating
+violence: A multivariate analysis. Violence Vict 7:297–309
+Borgen FH, Barnett DC (1987) Applying cluster analysis in counseling
+psychology research. J Couns Psychol 34(4):456–468
+Burcky W, Reuterman N, Kopsky S (1988) Dating violence among high
+school students. Sch Couns 35:353–358
+Carlson BE (1987) Dating violence: A research review and comparison
+with spouse abuse. Soc Casework: J. Contemp Soc Work 16–23
+Connolly J, Pepler D, Craig W, and Taradash A (2000) Dating experiences of bullies in early adolescence. Child Maltreat 5(4):299–310
+Espelage DL, Bosworth K, Simon TR (2000) Examining the social
+context of bullying behaviors in early adolescence. J Couns Dev
+78(3):326–333
+Espelage DL, Holt MK (2001) Bullying and victimization during
+early adolescence: Peer influences and psychosocial correlates.
+In: Geffner R, Loring M (eds) Bullying behaviors: Current issues,
+research, and interventions. The Haworth Press, Binghampton,
+NY
+Espelage DL, Holt MK, Henkel RR (2003) Examination of peer-group
+contextual effects on aggression during early adolescence. Child
+Dev 74(1):205–220
+Finkelhor D, Asdigian NL (1996) Risk factors for youth victimization:
+Beyond a lifestyles/routine activities theory approach. Violence
+Vict 11:3–20
+Finkelhor D, Browne A (1985) The traumatic impact of child sexual
+abuse: A conceptualization. Am J Orthopsychiatry 55:530–541
+Finkelhor D, Dziuba-Leatherman J (1994) Children as victims of violence: A national survey. Pediatrics 94(4):413–420
+Finkelhor D, Kendall-Tackett K (1997) A developmental perspective on
+the childhood impact of crime, abuse, & violent victimization. In:
+Cicchetti D, Toth S (eds) Developmental perspectives on trauma:
+Theory, research, and intervention. University of Rochester Press,
+New York, pp 1–32
+Foshee VA (1996) Gender differences in adolescent dating abuse: Prevalence, types, and injuries. Health Educ Res: Theory Pract 11:275–
+286
+Springer
+
+Foshee VA, Linder GF, Bauman CE, Langwick SA (1996) The safe
+dates project: Theoretical basis, evaluation, design, and selected
+baseline findings. Am J Prev Med 12:39–47
+Graham S, Juvonen J (2001) An attributional approach to peer victimization. In: Graham S (ed) Peer harassment in school: The plight
+of the vulnerable and victimized. Guilford Press, pp 49–72
+Hair JFJ, Black WC (2000) Cluster analysis. In: Yarnold P. R (ed)
+Reading and understanding MORE multivariate statistics. American Psychological Association, pp 147–205
+Harned MS (2000) The extent and impact of repeated and multiple
+victimization. Paper presented at the 72nd Annual Meeting of the
+Midwestern Psychological Association, Chicago, IL
+Hibbard RA, Ingersoll GM, Orr DP (1990) Behavioral risk, emotional
+risk, and child abuse among adolescents in a nonclinical setting.
+Pediatrics 86:896–901
+Hodges EVE, Malone MJ, Perry DG (1997) Individual risk and social
+risk as interacting determinants of victimization in the peer group.
+Dev Psychol 33(6):1032–1039
+Holt M, Espelage D (2005) Peer victimization among adolescents: A
+preliminary perspective on the co-occurrence of sexual harassment, dating violence, and bullying victimization. In: KendallTackett K, Giacomoni S (eds) Victimization of children and youth:
+Patterns of abuse, response strategies. Civic Research Institute,
+Kingston, NJ, pp 13.11–13.16
+Holt MK, Espelage DL (2003) A cluster analytic investigation of victimization among high school students: Are profiles differentially
+associated with psychological symptoms and school belonging?
+In: Elias MJ, Zins JE (eds) Bullying, peer harassment, and victimization in the schools: the next generation of prevention. The
+Haworth Press, Inc., New York, pp 81–98
+Hughes HM, Honore M, Parkinson D, Vargo M (1989) Witnessing spouse abuse and experiencing physical abuse: A “double
+whammy”? J Fam Violence 4(2):197–209
+James WH, West C, Deters KE, Armijo E (2001) Youth dating violence.
+Adolescence 35:455–465
+Juvonen J, Graham S, Schuster MA (2003) Bullying among young
+adolescents: The strong, the weak, and the troubled. Pediatrics
+112(6): 1231–1237
+Kinder BN, Curtiss G, Kalichman S (1991) Cluster analyses of
+headache-patient MMPI scores: A cross-validation., Psychological Assessment. American Psychological Assn., Vol. 3, pp 226–
+231
+Kumpulainen K, Rasanen E, Henttonen I (1998) Children involved
+in bullying: Psychological disturbance and the persistence of the
+involvement. Child Abuse Negl 23:1253–1262
+Lagerspetz KM (1982) Group aggression among school children in
+three schools. Scand J Psychol 23:45–52
+Malik S, Sorenson SB, Aneshensel CS (1997) Community and dating violence among adolescents: Perpetration and victimization. J
+Adolesc Health 21:291–302
+McDermott PA (1996) A nationwide study of developmental and gender
+prevalence for psychopathology in childhood and adolescence. J
+Abnorm Child Psychol. Kluwer Academic Publishers, vol. 24,
+pp 53–66
+Milligan GW (1980) An examination of the effect of six types of
+error perturbation on fifteen clustering algorithms. Psychometrika
+45(3):325–342
+Molidor CE (1995) Gender differences of psychological abuse in high
+school dating relationships. Child Adolesc Soc Work J 12:119–
+134
+Naar-King S, Silvern L, Ryan V, Sebring D (2002) Type and severity
+of abuse as predictors of psychiatric symptoms in adolescence. J
+Fam Violence 17(2): 133–149
+Nansel TR, Haynie DL, Simons-Morton BG (2003) The association of
+bullying and victimization with middle school adjustment. J Appl
+Sch Psychol 19(45–61)
+
+J Youth Adolescence
+Nansel TR, Overpeck M, Pilla RS, Ruan WJ, Simons-Morton BG,
+Scheidt P (2001) Bullying behaviors among US youth: Prevalence
+and association with psychosocial adjustment. J Am Med Assoc
+285:2094–2100
+O’Keefe M (1998) Factors mediating the link between witnessing interparental violence and dating violence. J Fam Violence 13:39–57
+O’Keefe M, Treister L (1998) Victims of dating violence among high
+school students: Are the predictors different for males and females? Violence Against Women 4(2):195–223
+Parker JG, Asher SR (1987) Peer relations and later personal adjustment: Are low-accepted children at risk? Psychol Bull 102(3):357–
+389
+Rook KS (1992) Detrimental aspects of social relationships: Taking
+stock of an emerging literature. In: Baumann U (ed) Meaning
+and measurement of social support. Hemisphere Publishing Corp.,
+pp 157–169
+Rook KS (1998) Investigating the positive and negative sides of personal relationships: Through a lens darkly? In: Cupach WR (ed)
+Dark side of close relationships. Lawrence Erlbaum Associates,
+Publishers, pp 369–393
+
+Roscoe B, Callahan JE (1985) Adolescents’ self-report of violence in
+families and dating relations. Adolescence 20:545–553
+Schwartz D (2000) Subtypes of victims and aggressors in children’s
+peer groups. J Abnorm Child Psychol 28(2): 181–192
+Shields A, Cicchetti D (2001) Parental maltreatment and emotion dysregulation as risk factors for bullying and victimization in middle
+childhood. J Clin Child Psychol 30(3): 349–363
+Swearer SM, Song SY, Cary PT (2001) Psychosocial correlates in bullying and victimization: The relationship between depression, anxiety, and bully/victim status. In: Geffner RA, and Loring M (eds)
+Bullying behavior: Current issues, research, and interventions. Haworth Maltreatment and Trauma Press/The Haworth Press, Inc.,
+Binghamton, NY, pp 95–121
+Visser JH, Van Der Ende J, Koot HM, Verhulst FC (1999) Continuity
+of psychopathology in youths referred to mental health services. J
+Am Acad Child Adolesc Psychiatry 38:1560–1568
+Ward JH (1963) Hierarchical grouping to optimize an objective function. J Am Stat Assoc 58:236–244
+Weiner B (1986) An attributional theory of motivation and emotion.
+Guilford Press, New York
+
+Springer
+
+View publication stats
+
+

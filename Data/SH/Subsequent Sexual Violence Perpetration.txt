@@ -1,0 +1,816 @@
+Journal of Adolescent Health 50 (2012) 60 – 65
+
+www.jahonline.org
+Original article
+
+Bullying Perpetration and Subsequent Sexual Violence Perpetration Among
+Middle School Students
+Dorothy L. Espelage, Ph.D.a,*, Kathleen C. Basile, Ph.D.b, and Merle E. Hamburger, Ph.D.b
+a
+b
+
+Department of Educational Psychology, University of Illinois, Champaign, Illinois
+Division of Violence Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia
+
+Article history: Revised November 22, 2010; Accepted July 27, 2011
+Keywords: Bullying; Sexual violence; Sexual harassment; Homophobic teasing; Perpetration
+
+A B S T R A C T
+
+Purpose: This study examines the association between bullying experiences and sexual violence (SV)
+perpetration among a sample of middle school students (n ⫽ 1391; males and females in grades 5– 8) across
+ﬁve middle schools in a Midwestern state.
+Methods: We include waves 1 and 2 of a larger longitudinal study that aimed to track the overlap between
+bullying and SV victimization and/or perpetration across a 3-year period. Wave 1 data were collected in the
+spring of 2008, and wave 2 data were collected in the fall of 2008. Student participants completed a series of
+scales in a paper and pencil survey. After missing data imputation, a total sample of 1391 students was
+analyzed.
+Results: Using cutoff scores, 12% of males and 12% of females could be considered bully perpetrators.
+Thirty-two percent of the boys (22% of girls) reported making sexual comments to other students, 5% of boys
+(7% of girls) spread a sexual rumor, and 4% of boys (2% of girls) pulled at someone’s clothing. Bullying
+perpetration and homophobic teasing were signiﬁcant predictors of sexual harassment perpetration over
+time.
+Conclusions: Given the overlap among bullying, homophobic teasing perpetration, and SV perpetration,
+future studies should address the link among these forms of aggression so that prevention programs can be
+enhanced to address gender-based bullying and sexual harassment.
+䉷 2012 Society for Adolescent Health and Medicine. All rights reserved.
+
+Youth bullying experiences and sexual violence (SV) perpetration are major public health problems, and although existing
+literature suggests that they may share some correlates, there is
+no established empirical link in the literature between bullying
+and co-occurring or subsequent SV perpetration during the middle school years [1]. Despite this lack of evidence, rape prevention educators have increasingly focused on implementing bullying prevention in schools because it is easier to gain access to
+schools with bullying prevention than with SV prevention programs. Thus, it is imperative that research be conducted on the
+
+* Address correspondence to: D.L. Espelage, Ph.D., University of Illinois, 226
+Education Building, 1310 S. 6th Street, Champaign, IL 61820.
+E-mail address: espelage@illinois.edu (D.L. Espelage).
+The ﬁndings and conclusions in this report are those of the authors and do not
+necessarily represent the ofﬁcial position of the Centers for Disease Control and
+Prevention.
+
+overlap of bullying perpetration and SV perpetration during
+early adolescence.
+A large U.S. study estimated that 30% of 6th through 10th
+grade students reported moderate-to-frequent involvement in
+bullying at school; 13% as bullies only and 11% as victims only [2].
+Overall, “A student is being bullied or victimized when he or she
+is exposed, repeatedly and over time, to negative actions on the
+part of one or more students” [3], and includes verbal, physical,
+and relational aspects [4]. SV encompasses a continuum of acts
+from unwanted noncontact exposures of a sexual nature (e.g.,
+verbal harassment) to forcible penetration [5]. Examining completed penetration only, the 2007 Youth Risk Behavior Survey, a
+national survey of students in grades 9 –12, found a lifetime
+reported prevalence of unwanted physically forced sexual intercourse of 10.5% for females and 4.5% for males [6]. Furthermore,
+Banyard et al [7] found that of a sample of 980 adolescents in
+grades 7–12, 10% of males and 2.5% of females reported perpe-
+
+1054-139X/$ - see front matter 䉷 2012 Society for Adolescent Health and Medicine. All rights reserved.
+doi:10.1016/j.jadohealth.2011.07.015
+
+D.L. Espelage et al. / Journal of Adolescent Health 50 (2012) 60 – 65
+
+trating sexual coercion (e.g., unwanted kissing, touching, or intercourse). Sexual harassment perpetration is common among
+school-aged adolescents, with one national study reporting peer
+harassment rates of 66% and 52% for boys and girls, respectively
+[8].
+Homophobia is deﬁned as negative attitudes and behaviors
+directed toward individuals who identify as or are perceived to
+be lesbian, gay, bisexual, or transgender [9]. In many ways, the
+behaviors that constitute homophobic teasing overlap conceptually with “bullying” or “SV,” as it may include, for example,
+relational aggression, or sexual harassment, or assault. Rivers
+[10] reported that name-calling, being hit or kicked, as well as
+teasing, were frequent forms of bullying experienced by lesbian,
+gay, and bisexual students (60%, 82%, and 58%, respectively).
+Homophobic teasing may play an important role in the link
+between bullying perpetration and SV perpetration. What conceptually distinguishes homophobic teasing from bullying and
+SV appears to be the direct intention of homophobic teasing to
+express and promote masculinity for all students, not just lesbian, gay, and bisexual youth.
+Only four studies have reported positive associations between bullying and SV experiences. The ﬁrst study conducted by
+Gruber and Fineran [11] focused on bullying and sexual harassment victimization, and the other three examined bullying perpetration and sexual harassment perpetration [12–14]. These
+studies indicated that youth who engage in bullying also engage
+in sexual harassment. Although theoretical overlaps exist in the
+bullying and SV literature [1], the current study attempted to
+examine the empirical link between bullying perpetration and
+SV perpetration among an understudied population—young adolescents. We propose the existence of a bully-SV pathway in
+which bullying perpetration and homophobic teasing are hypothesized to be predictive of SV perpetration over time among a
+large sample of middle school students. We posit that bullying
+might be a precursor to SV perpetration. It stands to reason that
+the need for control and dominance that underlies bullying is
+transferred to increasingly escalating forms of aggression and
+into relationships characteristic of the developing adolescent.
+That is, bullying in the form of name-calling and rumor spreading
+has been associated with homophobic teasing [1], which creates
+an environment in which adolescent peer groups make fun of
+students who express behaviors that are not consistent with
+their gender. For example, boys are expected to act masculine
+and girls are expected to be feminine [15]. We posit that when
+students exchange homophobic teasing, then SV perpetration
+might develop. In other words, a bully perpetrator who also
+uses homophobic teasing may turn to SV perpetration when
+opposite-gender attraction develops and restricted gender expression is promoted.
+This article provides prevalence estimates of bullying perpetration, homophobic teasing, and two subtypes of SV perpetration: (1) sexual harassment, including unwanted sexual comments, sexual rumor spreading, or groping [6], and (2) forced
+sexual contact, including unwanted nonpenetrative or penetrative forced sexual acts. We hypothesize that males would display
+more SV perpetration and homophobic teasing than females, but
+no gender differences would emerge for bullying perpetration
+[16]. We expect that African American and Caucasian students
+would report similar levels of SV and bullying perpetration, given
+the lack of racial differences in the theoretical or empirical literature [17]. The bully-SV pathway begins during early adolescence,
+as the content of bullying becomes more sexualized and cross-
+
+61
+
+sex peer interactions become more frequent. We hypothesize
+that bullying perpetration would be signiﬁcantly associated with
+SV perpetration over time. This study represents the ﬁrst step in
+building empirical support for the bully-SV pathway theory.
+Methods
+Participants
+In spring and fall 2008, students completed a survey designed
+to collect information about their attitudes and experiences at
+school as part of a project being funded by the Centers for Disease
+Control and Prevention. The participants included 1391 students
+from four Midwestern middle schools (grades, 5– 8). The sample
+included 49.8% females, and students ranged in age from 10 to 15
+years (mean ⫽ 13.9; standard deviation ⫽ 1.05); 59% (n ⫽ 820)
+identiﬁed as African American and 41% identiﬁed as Caucasian
+(n ⫽ 571). Students were administered self-report surveys during
+free periods or health/gym classes during a 40-minute session, with
+groups of students ranging in size from 20 to 25 students; the
+students were given a highlighter and pencil as a token of appreciation.
+Consent/assent procedures
+Institutional review board approval to use a waiver of active
+consent was obtained from the University of Illinois, and a certiﬁcate of conﬁdentiality was granted by Centers for Disease
+Control and Prevention. Parents were asked to sign and return
+the parent information letter only if they preferred that their
+child not participate in the study. Before data collection, investigators attended parent–teacher conference meetings and staff
+meetings, and the study was announced in school newsletters
+and via e-mails to parents. Parents were provided with consent
+forms for their child’s participation, and assent was obtained
+from students at each wave of data collection. An informational
+packet was sent by mail and e-mail to parents of students in the
+ﬁve middle schools.
+Multiple safeguards were implemented to prevent students
+from becoming upset by the content of the surveys. First, an
+assent script was read to students that emphasized that completing the task was voluntary because they could skip any question
+or stop participating at any point. After this script was read,
+students indicated their assent by signing their name on the
+survey coversheet. Second, an appropriately trained doctorallevel psychology student was present at every survey administration to provide immediate support for a student, if necessary,
+and direct him/her to appropriate resources. Third, students
+were given a card with researcher contact information in case
+more information about the study or a referral was needed.
+Multiple self-help resource numbers were included on the card.
+Fourth, students were reminded verbally about school-based
+resources available (e.g., guidance counselors) in the beginning
+and end of survey administration.
+Survey measures
+SV perpetration. A modiﬁed version of the American Association
+of University Women (AAUW) sexual harassment survey [18]
+was used to measure the frequency with which students perpetrated SV behaviors in the past year. Response options included
+Not sure, Never, Rarely, Sometimes, and Often. The AAUW scale
+
+62
+
+D.L. Espelage et al. / Journal of Adolescent Health 50 (2012) 60 – 65
+
+Table 1
+Factor analysis of AAUW sexual violence items wave 1
+Item
+
+Factor 1 (Sexual harassment)
+
+Factor 2 (Forced sexual contact)
+
+Made sexual comments, jokes, gestures, or looks
+Showed, gave, or left sexual pictures, photographs, messages, or notes
+Pulled their clothing off or down
+Wrote sexual messages/grafﬁti about them on bathroom walls, etc
+Spread sexual rumors about them
+Said they were gay or lesbian
+Touched, grabbed, or pinched them in a sexual way
+Pulled at their clothing in a sexual way
+Blocked their way or cornered them in a sexual way
+Forced them to kiss you
+Forced them to do something sexual, other than kissing
+Made them touch your private parts when they did not want to
+
+.79
+.75
+.72
+.70
+.69
+.68
+.62
+.40
+.39
+.10
+.04
+.02
+
+.10
+.02
+.12
+.24
+.21
+.20
+.03
+.10
+.04
+.70
+.67
+.66
+
+␣
+
+.81
+
+.73
+
+Factor loadings for items on their primary scale are indicated in bold.
+
+was subjected to an exploratory factor analysis using principal
+axis factoring, and a two-factor solution was indicated through
+the scree test, Kaiser-Meyer-Olkin measure of sampling adequacy (.72), and Bartlett’s test of sphericity (␹2 ⫽ 2209.40, df ⫽
+105, p ⬍ .001). In the two-factor rotated solution, factor one
+(sexual harassment) contained nine items (e.g., making sexual
+comments, spreading rumors, and pulling at clothing of another
+student), had internal consistency (␣ ⫽ .81), and accounted for
+23.62% of the variance in the factor score (factor loadings ranging
+from .39 through .79). Factor two (forced sexual contact) contained three items (i.e., forcing someone to kiss you, forcing
+someone to do something sexual besides kissing, and forcing
+someone to touch your private parts), demonstrated internal
+consistency (␣ ⫽ .73), and accounted for 6.05% of the variance in
+the factor score (with factor loadings ranging from .66 through
+.70; Table 1). Three items that cross-loaded or had loadings lower
+than .30 on their primary factor loading were deleted.
+
+with peer nominations of bullying [4] and demonstrated internal
+consistency (␣ ⫽ .86) in this study.
+
+Homophobic teasing. The ﬁve-item agent scale of the Homophobic Content Agent Target scale [19] assessed homophobic teasing
+perpetration epithets during the previous 30 days. Students read
+the following sentence: Some kids call each other names homo,
+gay, lesbo, fag, or dyke. “How many times in the last 30 days did YOU
+say these words to . . .,” and then were asked how often they said
+these words to a friend, someone you did not like, someone you
+did not know well, someone you thought was gay, and someone
+you did not think was gay. Response options include Never, 1 or 2
+times, 3 or 4 times, 5 or 6 times, or 7 or more times. Evidence for the
+scale’s construct validity was found through it being a distinct
+scale in factor analyses, and convergence and divergence validity with similar and dissimilar scales [19]. Higher scores
+indicate more homophobic teasing, and the scale demonstrated internal consistency (␣ ⫽ .80).
+
+Results
+
+Bullying perpetration. The nine-item Illinois Bully Scale [20] assessed the frequency of teasing, name-calling, social exclusion,
+and rumor spreading. Students were asked how often in the past
+30 days they had teased other students, upset other students for
+the fun of it, excluded others from their group of friends, helped
+harass other students, and so forth. Response options include
+Never, 1 or 2 times, 3 or 4 times, 5 or 6 times, or 7 or more times.
+Higher scores indicate greater bullying perpetration. The construct validity of this scale has been supported via exploratory
+and conﬁrmatory factor analyses, which has been previously
+published [20]. Also, scale scores have been strongly correlated
+
+Data analysis plan
+Only 2% to 3% of items at wave 1 and 3% to 4% of items at wave
+2 were missing. A multiple imputation procedure was used to
+preserve the integrity of each group of respondents and create a
+parsimonious dataset [21]. Multivariate analyses of variance
+were then conducted to test differences in scale scores across
+gender and race. Correlational analyses were examined to determine the extent to which bullying perpetration and SV perpetration were associated with age, and the extent to which the
+associations between bullying and SV perpetration differed
+across gender and race. Two separate regression analyses were
+run to test the hypothesis that bullying perpetration and homophobic teasing are associated with SV perpetration.
+
+Prevalence of bullying, homophobic teasing, and SV perpetration
+subtypes by gender. Prevalence of bullying perpetration and homophobic teasing was calculated as the number of students
+whose scale scores were one standard deviation above the mean.
+Using this as a cutoff, 12% of males and 12% of females could be
+considered bully perpetrators. In addition, 20% of females and
+34% of males reported homophobic teasing others. Given the
+dearth of literature on SV perpetration among middle school
+students, prevalence data are presented for selected items to
+inform future conceptualizations of SV. In relation to the sexual
+harassment perpetration scale, 34% of the boys (28% of girls)
+reported making sexual comments to other students in the past
+year, 5% of boys (7% of girls) spread a sexual rumor, and 4% of
+boys (2% of girls) pulled at someone’s clothing. Forced sexual
+contact in the form of touching someone’s private parts was
+reported by 1% of boys and a negligible number of girls. On the
+homophobic content-agent scale, 26% of boys (24% of girls) reported homophobic teasing directed at a friend.
+Gender and race differences on study scales. Gender and race
+differences on scale measures were examined to determine
+whether analyses needed to be conducted separately for these
+groups. It was hypothesized that males would display more SV
+perpetration and homophobic teasing than females, but no gender differences would emerge for bullying perpetration. We hy-
+
+D.L. Espelage et al. / Journal of Adolescent Health 50 (2012) 60 – 65
+
+63
+
+Table 2
+Mean bullying, homophobic teasing, and sexual violence perpetration scale scores
+Males (n ⫽ 698)
+African
+American
+
+Sexual harassment wave 1
+Sexual harassment wave 2
+Forced sexual contact wave 1
+Forced sexual contact wave 2
+Bullying perpetration wave 1
+Homophobic teasing perpetration wave 1
+
+Females (n ⫽ 693)
+White
+
+African
+American
+
+ANOVA F-statistics
+White
+
+M
+
+SD
+
+M
+
+SD
+
+M
+
+SD
+
+M
+
+SD
+
+2.12
+2.06
+1.99
+1.99
+1.52
+1.80
+
+.26
+.19
+.07
+.27
+.56
+.83
+
+2.12
+2.08
+2.00
+2.02
+1.34
+1.64
+
+.22
+.19
+.09
+.26
+.48
+.77
+
+2.11
+2.07
+1.99
+2.01
+1.52
+1.71
+
+.24
+.19
+.06
+.27
+.58
+.86
+
+2.06
+2.06
+2.00
+2.00
+1.29
+1.43
+
+.18
+.24
+.06
+.18
+.36
+.65
+
+Gender
+
+Race
+
+Gender
+X race
+
+8.03
+.17
+.01
+.01
+.76
+11.83**
+
+3.92
+.47
+4.29
+.25
+49.89***
+25.50
+
+4.69
+.93
+.67
+2.89
+.55
+2.11
+
+** p⬍.01.
+*** p⬍.001.
+
+pothesized that African American and Caucasian students would
+be similar in self-reports of SV, homophobic teasing, and bullying
+perpetration. Multivariate analyses of variance were conducted
+to test these hypotheses, with gender and race as the independent variables, and the following as dependent variables: (a)
+sexual harassment perpetration at waves 1 and 2; (b) forced
+sexual contact perpetration waves 1 and 2; (c) bullying perpetration wave 1; and (d) homophobic teasing toward others wave 1.
+Given the large sample size, only signiﬁcant differences with
+effect sizes greater than .03 (␩2) were interpreted.
+For the set of dependent variables, there was a signiﬁcant
+main effect for gender (Wilks ␭ ⫽ .99, p ⬍ .01, ␩2 ⫽ .01); however,
+the effect size was too low to interpret as relevant. However, a
+signiﬁcant race main effect was found (Wilks ␭ ⫽ .96, p ⬍ .001,
+␩2 ⫽ .04), but the interaction for gender and race did not reach
+signiﬁcance (Wilks ␭ ⫽ .99, p ⬎ .05, ␩2 ⫽ .01). Follow-up univariate analyses of variance are presented in Table 2 and indicated
+that African American students reported greater levels of bullying perpetration at wave 1 than white students (p ⬍ .001, ␩2 ⫽
+.04), although this effect size of .04 suggested that race explained
+only 4% of the differences in bullying perpetration. As hypothesized, African American and Caucasian students were similar on
+their reports of SV perpetration and homophobic teasing perpetration. In Table 3, correlations between age and the study measures indicate that bullying perpetration and SV perpetration did
+not signiﬁcantly relate to age.
+Correlations. Table 3 provides correlations among study variables for males and females separately. Overall, the patterns
+among the correlations were similar among males and females.
+Of particular interest was the signiﬁcant correlation between
+
+bullying perpetration and sexual harassment perpetration
+within wave 1 (males: r ⫽ .40, females: r ⫽ .39), but these associations were lower for bullying perpetration at wave 1, with
+sexual harassment perpetration at wave 2 (males: r ⫽ .24, females: r ⫽ .21). Homophobic teasing directed toward others and
+bullying perpetration were signiﬁcantly correlated at wave
+1 (males: r ⫽ .56, females: r ⫽ .55). However, bullying perpetration at wave 1 was not associated with forced sexual contact
+perpetration at waves 1 or 2 for males and females (males: rs ⫽
+.03, .01; females: rs ⫽ .07). These associations did not differ when
+the correlations were calculated for African American and white
+students separately.
+Multivariate associations. Two regression analyses were computed to examine the hypotheses further at the multivariate
+level and to determine the degree to which bullying and homophobic teasing toward others at wave 1 predicted SV at wave
+2, adjusting for age, gender, race, and wave 1 SV rates (Table 4).
+For both analyses, bullying perpetration, homophobic teasing,
+and the two SV subtypes at wave 1 were entered as predictors.
+The outcome variables were wave 2 sexual harassment perpetration and wave 2 forced sexual contact perpetration.
+In the ﬁrst model predicting sexual harassment perpetration
+at wave 2, the overall model was signiﬁcant (F ⫽ 15.64; p ⬍ .001;
+R2 ⫽ .06; Table 4). The strongest predictor of sexual harassment
+perpetration at wave 2 was bullying perpetration at wave 1, even
+after controlling for sexual harassment perpetration at wave 1
+(␤ ⫽ .15); greater bullying perpetration at wave 1 was associated
+with greater sexual harassment perpetration at wave 2. The
+second and third strongest predictors were sexual harassment
+perpetration at wave 1 and homophobic teasing toward others at
+
+Table 3
+Study scale correlations by gender
+
+Age
+Sexual harassment wave 1
+Sexual harassment wave 2
+Forced sexual contact wave 1
+Forced sexual contact wave 2
+Bullying perpetration wave 1
+Homophobic teasing wave 1
+
+Age
+
+Sexual harassment
+wave 1
+
+Sexual harassment
+wave 2
+
+Forced sexual
+contact wave 1
+
+Forced sexual
+contact wave 2
+
+Bully perpetration
+wave 1
+
+Homophobic teasing
+wave 1
+
+—
+
+.06
+—
+.21***
+.12***
+.04
+.39***
+.36***
+
+⫺.03
+.14***
+—
+.08***
+.38**
+.21***
+.21***
+
+⫺.05
+.18***
+.00
+—
+.09*
+.07
+.11**
+
+.01
+.04
+.40***
+.04
+—
+.07
+.08
+
+.03
+.40***
+.24***
+.03
+.01
+—
+.55***
+
+.04
+.43***
+.18***
+.02
+⫺.02
+.56***
+—
+
+.04
+⫺.03
+.03
+.01
+.04
+.03
+
+Males top right diagonal; Females bottom left diagonal.
+* p ⬍ .05.
+** p ⬍ .01.
+*** p ⬍ .001.
+
+64
+
+D.L. Espelage et al. / Journal of Adolescent Health 50 (2012) 60 – 65
+
+Table 4
+Regression analyses with bullying and homophobic teasing predicting sexual violence perpetration
+Sexual harassment perpetration
+wave 2 as outcome
+
+Predictor variable
+Age
+Gender
+Race
+Sexual harassment perpetration wave 1
+Forced sexual contact perpetration wave 1
+Bullying perpetration wave 1
+Homophobic teasing wave 1
+
+Forced sexual contact perpetration
+wave 2 as outcome
+
+B
+
+SEb
+
+␤
+
+b
+
+SEb
+
+␤
+
+⫺.01
+⫺.01
+⫺.01
+.09
+.02
+.02
+.03
+
+.01
+.01
+.01
+.03
+.09
+.02
+.01
+
+⫺.04
+⫺.02
+⫺.02
+.08**
+.01
+.15***
+.08**
+
+⫺.01
+⫺.01
+.01
+.02
+.19
+.02
+.01
+
+.01
+.01
+.01
+.03
+.09
+.02
+.01
+
+⫺.01
+⫺.01
+.02
+.02
+.06*
+.03
+.01
+
+* p ⬍ .05.
+** p ⬍ .01.
+*** p ⬍ .001.
+
+wave 1 (␤s ⫽ .08). Gender and race were not signiﬁcant predictors in the model. Two-way interactions for gender and race with
+other predictors were not signiﬁcant, indicating that this model
+seems to hold for males and females, and black and white students. These models yielded the same results as the model with
+all students.
+A similar model was run with forced sexual contact at wave 2
+as the outcome. This model was nonsigniﬁcant (F ⫽ 1.36; p ⬎
+.005; R2 ⫽ .01; Table 4).
+Discussion
+This study found support for the hypothesized bully-SV pathway theory. Similar to the previous studies [11–14], bullying
+during wave 1 signiﬁcantly predicted sexual harassment at wave
+2. These ﬁndings suggest that a pathway may exist starting in
+early middle school, where traditional bullying perpetration
+transforms into more gendered harassment and aggressive behavior in the form of homophobic teasing and sexual harassment. We suspect that, according to the bully-SV pathway, as
+adolescents who perpetrate traditional bullying mature, they
+increase their use of homophobic epithets. We hypothesized that
+as these bullies engage in more interactions with oppositegender peers, they are more likely to perpetrate SV. The current
+study is suggestive of this because it conﬁrms a strong association between bullying perpetration and subsequent sexual harassment perpetration for both boys and girls, and conﬁrms that
+homophobic teasing is also correlated with co-occurring bullying perpetration and later sexual harassment perpetration. In
+addition, more similarities were found between African American and Caucasian students than differences, and the bully-SV
+pathway was signiﬁcant after controlling for race.
+A secondary, yet still important goal of this article was to
+determine what subtypes of SV are perpetrated among middle
+school students, a population in which SV has not been investigated fully. Results of factor analysis supported a two-factor
+solution of SV perpetration—sexual harassment and forced sexual contact. As studies continue to examine the precursors of SV
+in later adolescence, use of these different subtypes of SV will be
+helpful.
+Some recent discussion has emerged in the literature about
+whether the behaviors that are assessed by the AAUW scale [18]
+are measuring sexual harassment or simply assessing “potentially offensive sexual behavior,” given the limited ability to
+determine whether the perpetration/victimization elicited neg-
+
+ative reactions [22]. Some have argued that young adolescents
+might express their sexual attraction toward their same-age
+peers through sexual teasing or in other inappropriate ways [23].
+We do agree that the intentions of the perpetrator of SV might
+not be malicious in all cases; however, given the dearth of literature with this population, we believe it is premature to dismiss
+this perpetration and simply call it “offensive behavior.” It is
+important to note that homophobic teasing and sexual comments may be simply “offensive behavior” to some but may have
+wider ranging consequences for others (e.g., lesbian and gay
+students) if they create an unsafe school climate. We encourage
+scholars to continue to assess these SV perpetration behaviors.
+Although we were somewhat surprised by ﬁndings that the
+prevalence of SV perpetration among this sample did not vary
+greatly overall by gender, and the bully/SV pathway model was
+not more predictive for males than females, we suspect this is
+explained by the age of the sample (10 –15 years; average, 13.9
+years) and the types of SV that are encompassed in the sexual
+harassment factor, the only signiﬁcant outcome. What is clear
+from our results, as captured in the sexual harassment outcome,
+is the overwhelming prevalence of verbally based SV perpetration among this young adolescent sample. Boys and girls reported making sexual comments and calling other students gay
+and/or lesbian at rates of 28%–39%, with boys reporting slightly
+higher perpetration rates. These types of less severe SV may be
+more typical for young adolescents to perpetrate, but we speculate that as we follow these boys and girls through high school,
+we will see the gender gap widen, with boys reporting higher
+rates of perpetration, particularly on the items that comprise the
+forced sexual contact factor, including rape perpetration (“forced
+them to do something sexual other than kissing”). Although
+reporting for the three items comprising the forced sexual contact scale was extremely low in the current sample, we suspect
+this will increase for males as they age, based on previous studies
+showing that males are more likely than females to perpetrate
+these more severe types of SV and that SV perpetration is occurring in late adolescence and early adulthood [24,25]. This hypothesis also relates to homophobic teasing and is supported by
+recent studies that have indicated that homophobic perpetration
+is associated with hypermasculinity and heterosexist attitudes
+[26].
+An important next step is to further elucidate this proposed
+model and to understand the role of homophobic teasing in the
+relationship between bullying perpetration and SV perpetration.
+Future studies should consider the gender of the perpetrator and
+
+D.L. Espelage et al. / Journal of Adolescent Health 50 (2012) 60 – 65
+
+the victim. For example, male bullies who perpetrate against
+female victims may be more likely to go on to perpetrate SV
+against girls. Qualitative work with youth would also be useful to
+disentangle the meanings of and connections among SV, bullying, and homophobic teasing. Finally, additional research with
+diverse samples is needed to test and replicate the proposed
+model. This study represents a ﬁrst step in understanding the
+empirical links among bullying, homophobic teasing, and some
+forms of SV perpetration among a sample of young adolescents.
+Acknowledgments
+The authors acknowledge the passing of their co-author, Dr.
+Merle E. Hamburger, who passed away when this paper was
+under review. This paper is dedicated to his memory for his
+dedication and contributions to youth violence and sexual violence research and prevention.
+The research was supported by the National Center for Injury
+Prevention and Control, Centers for Disease Control & Prevention, CDC Cooperative Agreement (number 1U01/CE001677) to
+D.E. (PI).
+References
+[1] Basile KC, Espelage DL, Rivers I, et al. The Theoretical and empirical links
+between bullying behavior and sexual violence perpetration. Aggr Viol
+Behav 2009;14:336 – 47.
+[2] Nansel TR, Overpeck M, Pilla RS, et al. Bullying behavior among US youth:
+prevalence and association with psychosocial adjustment. JAMA 2001;285:
+2094 –100.
+[3] Olweus D, ed. Bullying at school: What we know and what we can do.
+Cambridge, MA: Blackwell Publishing, 1993.
+[4] Espelage DL, Holt MK, Henkel RR. Examination of peer group contextual
+effects on aggression during early adolescence. Child Dev 2003;74:205–20.
+[5] Basile KC, Saltzman LE. Sexual violence surveillance: Uniform deﬁnitions
+and recommended data elements. Version 1.0. Atlanta, GA: Centers for
+Disease Control and Prevention, National Center for Injury Prevention and
+Control, 2002.
+[6] Centers for Disease Control and Prevention. Youth Risk Behavior Surveillance—
+United States, 2009. June 4. MMWR 2010;59:No. SS–5.
+[7] Banyard V, Cross C, Modecki K. Interpersonal violence in adolescence:
+Ecological correlates of self reported perpetration. J Interpers Violence
+2006;21:1314 –32.
+
+65
+
+[8] American Association of University Women Educational Foundation.
+(1993). Hostile hallways: Bullying, teasing, and sexual harassment in schools.
+Washington, DC: Harris/Scholastic Research.
+[9] Wright LW, Adams HE, Bernat J. Development and validation of the homophobia scale. J Psychopathol Behav Assess 1999;21:337– 47.
+[10] Rivers I. The bullying of sexual minorities at school: Its nature and longterm correlates. Educ Child Psychol 2001;18:33– 46.
+[11] Gruber JE, Fineran S. Comparing the impact of bullying and sexual harassment victimization on the mental and physical health of adolescents. Sex
+Roles 2008;59:1–13.
+[12] DeSouza ER, Ribeiro J. Bullying and sexual harassment among Brazilian high
+school students. J Interpers Violence 2005;20:1018 –38.
+[13] Pepler DJ, Craig WM, Connolly JA, et al. A developmental perspective on
+bullying. Aggr Behav 2006;32:376 – 84.
+[14] Pelligrini AD. A longitudinal study of heterosexual relationships, aggression, and sexual harassment during the transition from primary school
+through middle school. J Appl Dev Psych 2001;22:119 –33.
+[15] Kimmel MS, Mahler M. Adolescent masculinity, homophobia and violence:
+Random school shootings, 1982–2001. Amer Beh Sci 2003;46:1439 –58.
+[16] Card NA, Stucky BD, Sawalani GM, Little TD. Direct and indirect aggression
+during childhood and adolescence: A meta-analytic review of gender differences, intercorrelations, and relations to maladjustment. Child Dev
+2008;79:1185–229.
+[17] Espelage D, Horne A. School violence and bullying prevention: From research based explanations to empirically based solutions. In: Brown S, Lent
+R, eds. Handbook of Counseling Psychology, 4th edition. Hoboken, NJ: John
+Wiley and Sons, 2008:588 –98.
+[18] Hostile hallways: The AAUW Survey on Sexual Harassment in America’s
+Schools 2001; Washington, DC: American Association of University Women
+Educational Foundation, Harris/Scholastic Research, 2001.
+[19] Poteat VP, Espelage DL. Exploring the relation between bullying and homophobic verbal content: The Homophobic Content Agent Target (HCAT)
+scale. Violence Vict 2005;20:513–28.
+[20] Espelage DL, Holt MK. Bullying and victimization during early adolescence:
+peer inﬂuences and psychosocial correlates, In: Geffner R, Loring M, eds.
+Bullying Behaviors: Current Issues, Research, and Interventions. Abington,
+UK: Taylor & Francis, 2001.
+[21] KÅrnÅ A, Voeten M, Little TD, et al. A large-scale evaluation of the KiVa
+antibullying program. Child Dev 2011;82:311–30.
+[22] Lacasse A, Purdy KT, Mendelson MJ. The mixed company they keep: potentially offensive sexual behaviors among adolescents. Int J Behav Dev 2003;
+27:532– 40.
+[23] Petersen JL, Hyde JS. A longitudinal investigation of peer sexual harassment
+victimization in adolescence. J Adolesc 2009;32:1173– 88.
+[24] Borowsky IW, Hogan M, Ireland M. Adolescent sexual aggression: Risk and
+protective factors. Pediatrics 1997;100:1– 8.
+[25] Ozer EJ, Tschann JM, Pasch LA, Flores E. Violence perpetration across peer
+and partner relationships: Co-occurrence and longitudinal patterns among
+adolescents. J Adolesc Health 2004;34:64 –71.
+[26] Poteat VP. Peer group socialization of homophobic attitudes and behavior
+during adolescence. Child Dev 2007;78:1830 – 42.
+
+

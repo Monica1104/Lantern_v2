@@ -1,0 +1,927 @@
+A R T I C L E
+
+BYSTANDER EDUCATION:
+BRINGING A BROADER
+COMMUNITY PERSPECTIVE TO
+SEXUAL VIOLENCE PREVENTION
+Victoria L. Banyard, Elizabethe G. Plante,
+and Mary M. Moynihan
+University of New Hampshire
+
+䡲
+Recent research documents the problem of sexual violence across
+communities, often finding its causes to be embedded in community and
+cultural norms, thus demonstrating the need for community-focused
+solutions. In this article we synthesize research from community psychology
+on community change and prevention with more individually focused
+studies of sexual violence prevention programs and bystander behavior
+in emergency and crime situations. The purpose of bringing together this
+research is to outline a new area of focus for sexual violence prevention:
+the mobilization of prosocial behavior on the part of potential bystanders.
+This approach has utility for increasing community receptivity to
+prevention messages, by decreasing resistance to them, and for increasing
+the likelihood of community members taking an active role in prevention
+and intervention. The specific case of sexual violence prevention on
+college campus communities illustrates this approach. © 2004 Wiley
+Periodicals, Inc.
+
+INTRODUCTION
+Sexual violence is a widespread problem across communities ~e.g., Abbey, Ross, &
+McDuffie 1996; Fisher, Cullen, & Turner, 2000; Himelein, 1995; Koss, Gidycz, &
+Wisniewski, 1987; Synovitz & Byrne, 1998!. A growing literature on prevention efforts
+confirms the increasing recognition of this problem ~e.g., Lonsway, 1996! but also
+This project was supported by Grant No. 2202-WG-BX-0009 awarded by the National Institute of Justice,
+Office of Justice Programs, U.S. Department of Justice. Points of view in this document are those of the
+authors and do not necessarily represent the official position or policies of the U.S. Department of Justice.
+Correspondence to: Victoria L. Banyard, Department of Psychology, University of New Hampshire, 10
+Library Way, Durham, NH 03824. E-mail: vlb@cisunix.unh.edu
+
+JOURNAL OF COMMUNITY PSYCHOLOGY, Vol. 32, No. 1, 61–79 (2004)
+© 2004 Wiley Periodicals, Inc.
+Published online in Wiley InterScience (www.interscience.wiley.com). DOI: 10.1002/jcop.10078
+
+62
+
+•
+
+Journal of Community Psychology, January 2004
+
+demonstrates mixed results on efficacy. This outcome calls for more empirical evaluation of sexual violence prevention programs and the continued development of
+program innovations that are grounded in strong theoretical literature about mechanisms of proposed change ~e.g., Lonsway, 1996; Yeater & Donohue, 1999!. In this
+article we begin with an overview of recent reviews of the sexual violence prevention
+literature. Such a review is an important starting point for the discussion of the next
+steps in the development of prevention programs. We then posit that the broader
+literature in social and community psychology offers significant application in terms
+of new theoretical concepts for expanding sexual-violence prevention efforts within
+the high-risk community of college campuses as an illustrative example.
+Specifically, we highlight the importance of interventions with a bystander focus
+that go beyond an emphasis on the individual level discussed by previous researchers
+~e.g., Berkowitz, 2002! or beyond a focus only on men ~e.g., Foubert, 2000; Foubert &
+Marriott, 1997; Schwartz & DeKeseredy, 1997! to models of community levels of
+change. In addition, we review the literature on theories of community readiness to
+change ~e.g., Edwards, Jumper-Thurman, Plested, Oetting, & Swanson, 2000!, competent communities and social action ~e.g., Dalton, Elias, & Wandersman, 2001 for a
+review!, and studies of helping and bystander intervention behavior ~e.g., Shotland &
+Goodstein, 1984!. From this review, we move to our proposal of a theoretical model
+for an added avenue of sexual violence prevention education. Our conceptual model
+focuses on increasing community members’ receptivity to prevention messages through
+training and supporting bystander behaviors. The purpose of this model is to help all
+community members become more sensitive to issues of sexual violence and teach
+them skills to intervene with the intent to prevent assaults from occurring and provide
+support to survivors who may disclose.
+
+THE IMPORTANCE OF A FOCUS ON
+SEXUAL VIOLENCE AND CAMPUS
+AS AN AT-RISK COMMUNITY
+To date, an array of empirical research documents the problem of sexual violence.
+Koss and Harvey ~1991! in summarizing a variety of research, report that one in five
+women has experienced sexual violence in their lifetime. And, while women are
+victims far more often then men, 9.43% of all rapes and sexual assaults—nearly one
+in ten—happen to men ~U.S. Department of Justice, 1996!. Approximately 50% of
+college women experience some form of unwanted sexual activity ~Abbey, Ross, &
+McDuffie, 1996; Himelein, 1995; Koss, Gidycz, & Wisniewski, 1987; Synovitz & Byrne,
+1998!. The recent National College Women Sexual Victimization study ~Fisher, Cullen,
+& Turner, 2000! finds a rate of 2.8% of women experience the most serious forms of
+sexual violence, rape, or attempted rape during the college academic year. Studies
+such as the one conducted by Larimer, Lydum, Anderson, and Turner ~1999! show
+that college men also report unwanted sexual experiences.
+Moreover, a great deal of research demonstrates that exposure to sexual violence
+is associated with a multiplicity of negative outcomes. These results include increased
+substance use, depressive symptoms, health risk behaviors, and symptoms of Posttraumatic Stress Disorder among various samples of survivors ~e.g., Acierno, Brady,
+Gray, Kilpatrick, Resnick, & Best, 2002; Arata & Burkhart, 1996; Banyard, Williams, &
+Siegel, 2001; Brener, McMahon, Warren, & Douglas, 1999; Campbell & Soeken, 1999;
+
+Bystander Education
+
+•
+
+63
+
+Larimer et al., 1999!. Researchers found these effects across clinical, community, and
+college samples.
+Discussions of causal factors fit best within an ecological model ~Bronfenbrenner,
+1980!. For example, Koss and Dinero ~1989! found risk factors for victimization among
+college students at all levels of the ecological model including intrapersonal factors
+such as past abuse history and situational variables including the presence of alcohol
+and alcohol use. Studies of risk for perpetration are similar and include variables held
+by the individual such as rape myth acceptance ~e.g., Nagayama & Barongan, 1997 for
+a review!, or drug and alcohol use ~e.g., Schwartz & Nogrady, 1996!, as well as the key
+role of community norms and beliefs. For example, Schwartz and Nogrady ~1996!
+highlight the importance of norms within the broader community of men. Using
+specially created measures of peer support for such things as patriarchal attitudes,
+rape myths, and attachment to friends who themselves have engaged in sexually
+coercive behaviors, Schwartz and DeKeseredy ~2000! found higher rates of sexual
+violence across the community on campuses with higher levels of “male peer support”
+for sexual violence.
+Feminist analyses of the causes of sexual violence also point to the need to take a
+broader ecological perspective by examining the ways in which larger community and
+societal issues such as gender inequality, along with male social control and entitlement, permeate the foundation of attitudes that condone violence against women,
+blame individuals for their own victimization, and pair sexuality and aggression ~e.g.,
+Brownmiller, 1975; Koss et al., 1994; Rafter & Stanko, 1982; Sanday, 1981, 1996;
+Stanko, 1985, 1990, 1995; Yllo, 1993; Yodanis, Godenzi, & Stanko, 2000!. Such theoretical perspectives suggest that sexual violence will be eliminated only when broader
+social norms are also addressed and a broader range of audiences is reached.
+SEXUAL VIOLENCE PREVENTION IN A BROADER
+COMMUNITY CONTEXT
+Views about the causes of sexual violence provide the foundation of information on
+which practitioners base interventions and prevention programs. Breitenbecher’s ~2000!
+review highlights the overall effectiveness of many of these programs. She reports, for
+example, that these programs’ outcomes provide support for the positive impact on a
+variety of sexual violence prevention strategies. Particularly in relation to the college
+population’s attitudes about sexual violence, findings substantiate positive changes in
+adversarial sexual beliefs, increased knowledge about sexual violence, and reduction
+of risky dating behaviors such as use of alcohol.
+Such positive findings notwithstanding, some researchers criticize sexual violence
+prevention efforts for focusing too much on individuals or small groups, such as
+athletes or fraternity members, at the neglect of attending to wider social change ~e.g.,
+Swift & Ryan-Finn, 1995!. Swift and Ryan-Finn state, “prevention approaches must go
+beyond changing individuals to changing the system that creates and maintains sexual
+abuse” ~1995, p. 20!. The history of the rape crisis center movement and studies of its
+effectiveness underscore the importance of social change through community education at a primary prevention level as well as work at the secondary and tertiary ones to
+expand safety nets for victims ~e.g., Koss & Harvey, 1991!. In their review of research
+on the effectiveness of rape crisis centers, Koss and Harvey note that, “whatever
+qualities may distinguish these programs from one another, none is ‘separatist’ in its
+orientation to social and community change. Instead, each is a leader and a partici-
+
+64
+
+•
+
+Journal of Community Psychology, January 2004
+
+pant in community affairs, able to catalyze change in other settings ~Koss & Harvey,
+1991, p. 151!.” A key component of success, then, is the ability to engage the broader
+community in attitude and behavioral change efforts. We need prevention efforts at
+all levels of the ecological model.
+GETTING THE COMMUNITY TO LISTEN
+In addition to the issues noted above, part of the challenge of sexual violence prevention in a community context also consists of finding ways to get the community to
+listen to the message. By examining this challenge in terms of prevention at the
+community level, researchers at the Tri-ethnic Center for Prevention Research at
+Colorado State University describe how communities may vary in their readiness to
+change around a particular prevention effort. They bring together Prochaska and
+DiClemente’s transtheoretical model of change—a widely used model for understanding individuals’ readiness to change a variety of health behaviors ~Grimley, Prochaska,
+Velicer, Blais, & DiClemente, 1994!—and models of community development to inform
+their prevention efforts in the area of substance abuse ~Edwards et al., 2000; Oetting
+et al., 1995; Plested, Smitham, Jumper-Thurman, Oetting, & Edwards, 1999!. The
+researchers describe a series of interviews to be conducted with key informants in
+communities to gain an understanding of where a community is in its receptiveness to
+broader community change and social norms initiatives. The model indicates that
+different prevention strategies will be most effective as communities move from “no”
+or “little awareness” of the problem toward preparation to addressing the problem
+and ultimately to expanding and making permanent efforts to address the problem.
+Assessing where communities are in their readiness to change around certain social
+problems will enhance the effectiveness of prevention efforts.
+Using Edwards et al.’s ~2000! community-readiness model may perhaps help us
+envision some next stages of change for sexual violence prevention. Some communities have moved beyond the historical perspective that sexual violence does not exist
+or is a problem only in other places to noticing and developing crisis centers that deal
+with the problem. Many communities have moved to the stage of “professionalization”
+in terms of the high quality of services offered by crisis centers. Even so, these same
+communities may tend to rely solely on such centers to deal with the problem, thereby
+absolving the broader community from sharing the responsibility for sexual-violence
+prevention. We hold that future developments must focus on efforts to have all community members take responsibility for playing a role in ending sexual and interpersonal violence on campus. Again, using the specific case of college communities,
+Potter et al. ~2000! state, “The mere existence of such @sexual violence# programs is
+not enough, however. The intent of the programs and their content must be conveyed
+to all members of the university community in a clear and consistent manner . . . to
+further spread the campus community expectation that such behavior is not acceptable” ~p. 1351!. The work of Edwards et al. ~2000, cited above! also suggests that
+alterations in prevention efforts must continue as communities move forward in making changes. What seems most significant to the current discussion about this work is
+the way it puts emphasis on the importance of receptivity and resistance of a community to prevention ideas.
+The sexual violence prevention literature indicates the level of difficulty associated with receptivity to prevention messages. Research suggests that no one program
+works for all participants, and individual differences ~e.g., history of sexual violence!
+
+Bystander Education
+
+•
+
+65
+
+may impact the effectiveness of program messages ~e.g., Heppner, Neville, Smith,
+Kivlighan, & Gershuny, 1999; Lonsway, 1996!. Breitenbecher ~2000! notes mixed findings from prevention programs on such things as attitudes toward women and reports
+of the likelihood of using sexually coercive behaviors. She reviews the relative lack of
+evidence supporting the conclusion that existing prevention programs increase empathy for sexual violence victims, improve sexual communication around issues such as
+consent, or reduce endorsement of the notion that interpersonal violence is acceptable.
+A central problem for such programs then, is the lack of receptivity to their
+prevention messages. Schewe and O’Donohue ~1993!, for example, critically assess
+sexual violence prevention programs that focus heavily on women as potential victims
+and teach strategies for self-protection. They discuss the limitations of such an approach
+both in terms of the injustice to women by putting the responsibility for prevention on
+their shoulders and in terms of the lack of efficacy of such an approach. Women may
+get the message that they are supposed to control men’s sexuality and that women are
+responsible for all aspects of sexual encounters, what Koss and Harvey ~1991! describe
+as the “rape avoidance approach” ~p. 114!. Some critics focus on problems related to
+motivating participants to be involved enough to think deeply about prevention material and apply it to their own lives. Lonsway ~1996! notes that, “it is likely that beliefs
+regarding rape will indeed be held with heightened intensity and commitment, and to
+that extent resistance would seem to be virtually inevitable when attempting to produce change” ~p. 252!. Other critics express concern that, depending on the delivery
+of the message, some men may erroneously “hear” a prevention message targeting
+them as potential rapists only while women see themselves mainly as potential victims.
+Participants may develop a great deal of defensiveness toward viewing themselves in
+such roles, hence increasing resistance to sexual violence prevention messages. In
+their work on this specific problem, Heppner et al. ~1995; 1999! found that men may
+be more likely to engage in peripheral processing during sexual violence prevention
+programs because they see the message of the education program as negative toward
+men. In conclusion, it is crucial for sexual violence prevention that programs get both
+men and women to really listen to prevention messages and find ways to target all
+community members rather than select groups of at-risk individuals.
+NEXT STEPS
+Consequently, we need to go further in our efforts to enhance the receptivity of
+prevention program messages. Koss and Harvey ~1991! carefully detail the importance
+and applicability of community psychology principles and analyses to the problem of
+sexual violence. Even so, the empirical sexual violence prevention literature reviewed
+earlier in this article shows that much more emphasis being placed on rape avoidance
+~e.g., Schewe & O’Donohue, 1993 for a review!, criminal justice policies versus health
+promotion ~e.g., Berkowitz, 2002; Potter et al., 2000!, and more individual-centered
+efforts with small groups of students. A full community perspective demands that we
+not stop here but that we continue to build individual and community competence in
+the face of sexual violence and more fully engage all community members in the
+process of sexual violence prevention. This latter involvement must go beyond teaching men how to stop being perpetrators or women how to avoid being victims but
+must also “combine educational activities to build individual competence with action
+strategies to create new social supports for those at risk” ~Koss & Harvey, 1991, p. 280!.
+In addition, we must develop further approaches to support feminist and community
+
+66
+
+•
+
+Journal of Community Psychology, January 2004
+
+psychology strategies that focus on social action and changing community norms ~e.g.,
+Schwartz & DeKeseredy, 1997!. Such work can only occur in the context of programs
+that increase community members’ receptivity to and engagement with prevention
+messages and decrease defensive resistance while teaching prevention skills that are
+applicable and useful to a wider array of community members. To assist us with this
+process, we use a theoretical model that builds on the work of Koss and Harvey ~1991!
+but that targets the area of sexual violence prevention with a focus on placing a sense
+of responsibility and empowerment for ending sexual violence on the shoulders of all
+community members. By placing community change and work in community psychology at the center of program development, we may be able to develop and implement
+additional program tools that decrease resistance and foster community responsibility.
+In addition, these programs should also provide training to develop skills to de-escalate
+risky situations to prevent sexual violence and help community members to be effective allies for survivors.
+In this regard, Bond’s ~1995! articulation of a framework for preventing workplace
+harassment is instructive. Using the ecological model to map risk factors for sexual
+harassment in the workplace, she highlights the need to move beyond a focus on
+variables within individuals to “understand how the environment shapes and constrains behavior” ~p. 165!. She outlines the need for prevention efforts focused on
+creating “empowering climates” ~p. 164!, which allocate resources and power such that
+all members of the organization are supported. Bond describes such climates as
+consisting not only of a set of policies and procedures prohibiting harassment, but
+broader values that are embraced by the organization and that create a climate in
+which harassment is unlikely to occur. Key components include “an ethic of caring
+and responsibility . . . and increased contextual thinking” ~p. 165!. She goes on to
+explain that a sense of caring comes about when individuals in an organization see
+themselves as interconnected with others and when cooperation is encouraged and
+valued. In this way, for example, women’s views of the impact of sexual harassment
+can move to the center of discussions of harassment rather than more male views that
+tend to focus on the intent of the perpetrator. Bond also stresses the need for promoting “contextual thinking” ~p. 167! to move away from an exclusive focus on individuals as it neglects appreciation of how contextual variables constrain or support
+individual behaviors and choices. Organizational policies and values that promote
+appreciation of context, she asserts, should help to reduce individual-blaming attitudes. Bond states ~1995!, “An empowering climate is one that adopts an ethos beyond
+the dominant stories that support, hide, or deny sexual harassment. This process
+involves creating new norms where it is clear to all that harassment is unacceptable.
+An empowering climate needs to incorporate new stories based on caring, responsibility, and empathy. The new stories need to be less linear and incorporate an understanding of how context shapes behavior” ~p. 168!. Following from this, we outline
+below a theoretical model for creating such new stories in the context of sexual
+violence prevention curricula in communities such as college campuses.
+THE ROLE OF THE BYSTANDER
+The review of the literature above suggests the need for further developments in
+sexual violence prevention. These efforts should continue to draw from theoretical
+models in such fields as social and community psychology. Doing so will strengthen
+the ability of prevention messages to overcome resistance and defensiveness of par-
+
+Bystander Education
+
+•
+
+67
+
+ticipants, decrease victim-blaming messages whether intentional or not, and find ways
+to engage the broader community in tangible behaviors that promote a “rape-free
+culture” ~Sanday, 1996!. To address such issues, previous work draws upon the social
+psychology literature on persuasion ~e.g., Lonsway, 1996! and work on social norms
+~e.g., Berkowitz, 2002, 2003!. Even so, another body of theoretical and empirical
+literature that may be equally fruitful as a foundation for innovation in prevention
+remains underutilized: the extensive literature on helping behavior and bystander
+intervention. Below we provide a critical overview of this literature and the implications it may have as a theoretical model for a community approach to sexual violence
+prevention with a focus on college campus communities as an example.
+Factors that Impact Bystander Intervention
+A number of studies on helping behavior and bystander intervention focus on aspects
+of individuals and situations that promote or inhibit helping in emergencies ~see
+Batson, 1998; Bar-Tal, 1976 for reviews!. Findings from this body of literature suggest
+that larger groups often inhibit helping through what has been termed “diffusion of
+responsibility” or the belief that someone else will step in to help ~e.g., Darley &
+Latane, 1968; Morgan, 1978; see Myers, 1999 for a review!. Nevertheless, this process
+is more complex than it initially appears. Other researchers note that more cohesive
+groups who communicate and develop consensus around helping are more likely to
+promote intervention ~e.g., Harada, 1985!. Harada states, “. . . if the degree of consensus to help is strong enough, people will be more helpful when in the presence of
+others” ~1985, p. 178!. Likewise, having role models who help and witnessing others
+provide help in other situations can facilitate intervention ~see Batson, 1998; Myers,
+1999 for reviews!. In addition, perception of victim distress promotes intervention
+~e.g., Yee & Greenberg, 1998!. Finally, some literature suggests that requests for help
+make it easier for bystanders to take a more active role ~e.g., Shaffer, Rogel, &
+Hendrick, 1975!. Additionally, models of community readiness to change suggest that
+broader community norms may also play a role in facilitating bystander willingness to
+intervene. Edwards et al. ~2000! discuss how efforts to change individual behaviors
+cannot occur outside an analysis of the broader social context of attitudes that may
+support or hinder such changes. Schwartz and DeKeseredy ~2000! highlight ways in
+which peer norms promote sexual violence; further work is needed on community
+variables that inhibit it ~e.g., Berkowitz, 2003!.
+Research also shows that intervention and giving help are less likely in situations
+where the perception of an emergency or need for help is ambiguous ~e.g., Harada,
+1985!. Brickman et al. ~1982! discuss the importance of individual’s attributions for
+both who is seen as culpable for the problem and who is viewed as responsible for the
+solution. In situations where victims are seen as being to blame for their problems,
+help is less likely to be forthcoming ~e.g., Brickman et al., 1982; Batson, 1998!. Researchers have also investigated factors such as the impact of the bystander’s mood, sense of
+responsibility including nature of relationship to the person in need of help, locus of
+control, or esteem-orientation ~see Dozier & Miceli, 1985 and Myers, 1999 for reviews;
+Huston, Ruggiero, Conner, & Geis, 1981; Michelini, Wilson, & Messe, 1975; Tice &
+Baumeister, 1985; Yee & Greenberg, 1998; Wispe, 1980!. Finally, some research suggests that skill level of bystanders is also important, with active bystanders more likely
+to have had previous training in emergency intervention or a strong sense of their
+own physical strength ~e.g., Huston et al., 1981!.
+
+68
+
+•
+
+Journal of Community Psychology, January 2004
+
+Yet another group of studies focuses in more detail on the decision-making process for bystanders. This process includes consideration of the potential costs to
+bystanders of intervening or of not intervening, and the complex decision-making
+process that individuals may use when trying to decide what they will do ~e.g., Dozier
+& Miceli, 1985; Fritzsche, Finkelstein, & Penner, 2000; Shaleff & Shichor, 1980!. This
+research suggests that bystander intervention and helping will be increased in situations where costs of intervening are reduced.
+In addition, research shows that these more general findings are important to
+understanding bystander intervention in the case of crime and interpersonal violence.
+Shotland and Goodstein ~1984! argue that bystanders can help deter crime through
+direct interventions, such as directly disrupting a crime in progress or indirectly by
+reporting to the authorities. They also discussed the role bystanders’ presence can
+play in creating an environment that increases criminals’ perceptions that committing
+a crime in this particular situation would be highly risky. “There is evidence that the
+mere presence of bystanders reduces crime and that criminals try to avoid being
+observed while committing crimes” ~Shotland & Goodstein, 1984, p. 17!.
+Bystander research is now being applied to the field of interpersonal violence.
+Researchers describe bystanders in relation to child abuse, partner violence, and peer
+bullying ~e.g., Christy & Voigt, 1994; Harari, Harari, & White, 1985; Laner, Benin, &
+Ventrone, 2001; Shotland & Straw, 1976; Slaby & Stringham, 1994!. Other researchers
+are making efforts to link this literature to sexual violence prevention ~e.g., Berkowitz,
+2002; Foubert, 2000; Katz, 1994; Schwartz & DeKeseredy, 1997!. Fundamentally this
+literature suggests that active bystander intervention in cases of interpersonal violence
+is possible and often influenced by characteristics of the situation and the individual
+bystander, consistent with the broader literature. Of particular interest in this research
+is the finding that knowing that an abuser and victim are related seems to decrease a
+bystander’s likelihood of intervening. This is of particular importance given the finding that persons who know the victim are often the perpetrators of interpersonal
+violence such as sexual assault and domestic violence. In fact, more than 70% of rape
+or sexual assault victims know their attackers, compared to about half of all violent
+crime victims ~Rennison, 1999!.
+A key component of bystander research is also its attention to skills. That is to say,
+in a situation in which a person is being attacked, people who have the appropriate
+capacity and beliefs will have an intention to intervene. Drawing from these models,
+then, one may hypothesize that if bystanders are taught these skills and beliefs, they
+may be more likely to intervene with regard to rape, attempted rape, sexual violence,
+and intimate partner violence incidents on the college campus. Lanier et al. ~2001!,
+for example, found that participant reports of experience dealing with fights was a
+predictor of bystander intervention in a case of physical violence, although training in
+things such as self-defense or lifesaving did not make significant contributions to
+willingness to intervene. This finding suggests that training bystanders is important
+but that this training needs to be specific to the type of situation in which they may
+be called upon to act. According to Christy and Voigt ~1994!, an intervening bystander
+is someone who feels personally responsible to stop the witnessed abuse. Their study
+also shows that “intervening bystanders felt certain about how to intervene” ~p. 841!.
+This is a key to the “if ” in bystander activity. People must know how to intervene and
+what to expect. “The notion that certainty about how to respond to the demand
+situation might be reason for bystander action was first implied in the results of a
+Darley and Latane ~1968! study, where almost one third of the non-interveners reported
+
+Bystander Education
+
+•
+
+69
+
+that they did not know what to do in response to the victims call for help” ~Christy &
+Voigt, 1994, p. 841!.
+SUMMARY
+Thus, the literature on helping and bystanders teaches us a number of things. To
+maximize the likelihood that bystanders will engage in prosocial helping behavior,
+they need to have an awareness of the problem and its negative impact on the victim.
+They will be more likely to help if they are asked to make a commitment to help and
+to see themselves as partially responsible for solving the problem. They also need to
+view victims as not the cause of their own problems. Finally, bystanders need to feel
+that they possess the skills to intervene and have the opportunity to view individuals
+who model such behaviors. Building a repertoire of such skills will also help as
+bystanders engage in costs0benefits analyses of helping so that they can assess situations to apply indirect as well as direct help and understand the consequences of
+nonintervention. One important cost or benefit may be the extent to which intervention enhances or threatens the individual’s status in the group or community. This
+reinforces the need for understanding a bystander approach within community levels
+of intervention. We take up these issues in the following discussion.
+
+PROMOTING BYSTANDER INTERVENTION
+IN SEXUAL VIOLENCE PREVENTION
+The research literature focuses much more on explaining and describing bystander
+behavior than on developing effective interventions to promote it. Yet this broader
+literature on understanding helping behavior and bystander intervention has potentially important links to sexual violence prevention efforts. Moreover, using the empirical and theoretical literature on “the bystander effect” may act as an important model
+for sexual violence prevention. In addition to supporting and explaining key aspects
+of sexual violence prevention that have already been identified and substantiated by
+research, this model adds new components to programming. The model’s focus on
+wider community audiences and its potential role in changing community norms
+embeds it within ecological and feminist models of the causes of sexual violence
+calling for broader community approaches that target both men and women and
+move beyond individual levels of analysis ~e.g., Koss & Harvey, 1991!.
+As a basis for prevention programming, a focus on bystanders has several positive
+outcomes. It can help create new situational and community norms for intervention
+to prevent sexual violence, provide role models of helping behavior, and build a
+repertoire of specific skills for bystanders. In addition, it can create attitude change
+that fosters a bystander’s sense of responsibility for intervening, sense of competence
+for intervening, and an appropriate understanding of sexual violence to facilitate
+identifying situations where intervention may be necessary. It may do this in the
+context of a program message that does not implicitly or explicitly label participants
+as victims or perpetrators but as potential witnesses, bystanders, or allies, thereby
+decreasing defensiveness toward the prevention material and reducing potential victimblaming attitudes ~e.g., Katz, 1994!. Furthermore, such a focus holds the promise of
+creating wider community change. If using a bystander model increases community
+
+70
+
+•
+
+Journal of Community Psychology, January 2004
+
+receptivity and support for intervening against sexual violence, it may reduce implicit
+societal support for sexual violence over and above limited opportunities that individual community members may have to intervene. It may also create community
+norms in support of community responsibility for prevention, increasing an overall
+sense of community, and decreasing any threats to status that an individual may
+perceive as a consequence of intervening in a risky situation. Additionally, it may also
+build community supports to promote the safety of bystanders. Thus, such programs
+may work to build a broader sense of community and help alter group and community norms to a greater extent than other programs. The bystander model gives all
+community members a specific role, with which they can personally identify and adopt
+in preventing the community problem of sexual violence. This role includes interrupting situations that could lead to assault before it happens or during an incident,
+speaking out against social norms that support sexual violence, and having skills to be
+an effective and supportive ally to survivors.
+What is additionally important about this perspective is that it may also provide an
+entry into broader community change. It does this through its potential for increased
+receptivity to the prevention message, the way it provides roles for all community
+members to play in prevention, and its link to “empowering climates” ~Bond, 1995,
+p. 164!. If community members are more receptive to the sexual violence prevention
+message by being able to view themselves not necessarily as perpetrators or victims,
+several other prosocial outcomes may follow. That is, community members may also
+be more likely to take in the sexual violence prevention message, increasing their
+empathy for survivors and decreasing their tolerance for behaviors of other community members across the full continuum of harassing and violent behavior.
+Furthermore, by presenting material about sexual violence in the context of discussions about sense of community and the interconnections between members of the
+community, individual and groups may begin to take on broader challenges in creating social change around these issues. Altogether these changes may make shifts in
+community norms about behavior more likely ~e.g., Berkowitz, 2003!. Dalton et al.
+review research on effective or “competent communities” ~2001, p. 213!. Characteristics of these communities include environments where individuals have an impact on
+one another and share a strong sense of community including, “the perception of
+similarity to others, an acknowledged interdependence with others, a willingness to
+maintain this interdependence by giving to or doing for others what one expects from
+them . . . ” ~Sarason, 1974 cited in Dalton et al., 2001, p. 193!. A focus on bystander
+intervention fits well within such a framework. It may be argued that a bystander
+focused prevention message, with its emphasis on shared responsibility, will work to
+foster such a sense of community and promote more competent communities around
+the issue of sexual violence. This also fits with work by Bond ~1995! on empowering
+organizational climates. Indeed, factors such as building an “ethic of caring and
+responsibility” and “contextual thinking,” which she describes as critical components
+of “empowering climates” ~Bond, 1995, p. 167! are also central assumptions of the
+bystander model.
+Moreover, the bystander message, with its central feature of community responsibility, may encourage participants to add their efforts to creating community levels
+of change since the responsibility for action rests not only with potential perpetrators
+or victims but with all members of the community. Indeed, a prosocial bystander
+perspective provides all community members with a positive role to play in ending
+sexual violence. This fits with discussions of the need for positive messages in preven-
+
+Bystander Education
+
+•
+
+71
+
+tion ~e.g., Berkowitz, 2002! and also with research on components of citizen action. As
+noted above, Dalton et al. ~2001! reviewed the growing literature on citizen participation in social action and empowerment. They describe key components of what
+motivates individuals to become active in social change movements in their community including a high sense of community and awareness and concern about community problems ~e.g., Chavis & Wandersman, 1990!. Again, a bystander prevention
+approach teaches all community members about the problem of sexual violence, with
+the intention of increasing concern about this issue, while also fostering a sense of
+shared community responsibility for solving the problem. Similarly to Bond ~1995!,
+Zimmerman ~1995! discusses the components of empowerment but in the context of
+being an active citizen in one’s community. He describes the importance of critical
+awareness of the problem, a condition also shown to be crucial in the bystander
+literature and notes actual competencies and skills such as actively listening to others,
+building coalitions with others, and planning specific strategies to create change
+~Dalton et al., 2001 for a review!. All of these are components of a bystander model
+that asks each person to take responsibility for the community problem of sexual
+violence but also teaches skills to empower participants to be competent allies to
+survivors and to work with others to de-escalate risky situations.
+Furthermore, a bystander approach integrates favorably with findings from sexual
+violence prevention literature about what we already know works. Strong messages
+that challenge sexual violence myths make community members more aware of sexual
+violence, its prevalence, and consequences. This message, along with programs that
+promote empathy for sexual violence victims, will also decrease the ambiguity in
+situations where risk for sexual violence is high, an important component of bystander
+behavior discussed in the empirical literature reviewed earlier. Previous research on
+the effectiveness of sexual violence prevention programs that include these elements
+suggest that they will be effective as components of bystander-focused programs as
+well. Indeed, this focus includes both the “citizen inoculation” and “environmental
+action” components that Koss and Harvey ~1991! identify as key aspects of sexual
+violence prevention from a community perspective. This focus is also in keeping with
+an empowerment model that moves beyond a “deficit-oriented” approach, which
+instills fear in potential victims, to a focus on building competence ~Koss & Harvey,
+1991, pp. 257–259!.
+But a bystander focus also goes beyond traditional programs. In particular, bystanders are asked to make a commitment to intervene. This is achieved through role
+modeling by group leaders and discussing examples of bystanders in the wider community and society, and by demonstrating ways in which bystanders can play an active
+role in sexual violence prevention beyond not becoming a perpetrator or victim.
+Using the bystander literature as a focus of prevention programs will also provide
+skill-building opportunities for both direct and indirect intervention, to increase helping behavior without placing bystanders’ own safety in jeopardy. Finally, a bystander
+approach can work within broader community models of change by providing a
+perspective that shows how all community members have a direct stake and role to
+play in sexual violence prevention, including community attitude change. Even so,
+previous discussions that note bystanders in relation to sexual violence prevention
+have tended to focus exclusively on the utility of this approach for men ~e.g., Berkowitz, 2002; Foubert, 2000; DeKeseredy, Schwartz, & Alvi, 2000! or have tended to
+embed that discussion within more individual models of change ~e.g., Berkowitz,
+2002!. It also seems clear from a review of the broader helping and bystander litera-
+
+72
+
+•
+
+Journal of Community Psychology, January 2004
+
+ture that such an approach has more broad and important applicability to improving
+sexual violence prevention for both men and women and among a wider range of
+community members. On a college campus, for example, it would include students,
+staff, faculty, and administrators.
+
+Using Bystander Research as the Basis for Prevention:
+Case Examples
+Several authors discuss programs designed to increase bystander intervention related
+to crime. Descriptions of these programs, however, are relatively few in number, so
+broad conclusions based on their efficacy are difficult to assess at present. Bickman
+~1975! evaluated the use of a media campaign to increase bystander intervention in
+relation to crime on a college campus. The results were mixed: Changes in attitudes
+toward helping were shown; changes in behavior were not. Bickman ~1984! also
+reviewed a variety of community projects such as neighborhood watch programs that
+aim to increase bystanders’ intervention and reporting of crime. Most of these programs, however, were not evaluated and so determining their efficacy is difficult.
+Kalafat, Elias, and Gara ~1993! applied research on bystander intervention to the
+prevention of adolescent suicide. They discuss their research in the context of calls to
+shift from prevention focused on teens as suicide victims to a focus on teens as
+rescuers. Thus, they focus on the combination of bystander factors including bystanders’ views of social norms, diffusion of responsibility that can occur when there are
+multiple bystanders, and the ambiguity in the mind of the bystander about whether
+there is a need for action. Kalafat et al. ~1993! found that these factors identified in
+the bystander literature were indeed predictive of whether or not teens indicated that
+they would intervene by telling an adult about a suicidal peer and they discuss the
+importance of these findings for developing prevention programs that focus on teaching teens how to take action.
+Recent examples of applications of a bystander approach to violence prevention
+are also available. Slaby and Stringham ~1994! encourage a focus on bystander roles as
+part of comprehensive violence prevention efforts. However, the specifics of this
+approach are not elaborated and most of their discussion is devoted to skills to avoid
+victimization. Katz’s ~1994! Mentors in Violence Prevention ~MVP! program at Northeastern University encourages prosocial bystanding and is one example in the literature of a more developed program. This program uses athletic metaphors and works
+to encourage trained community leaders to intervene in a variety of situations where
+racism, sexism, and gendered violence may be occurring. In addition to including the
+staples of rape prevention curricula more generally—that is, exercises to build victim
+empathy and presentation of information about gendered violence—the multi-session
+program also includes such things as discussion of scenarios where a bystander might
+need to intervene, ~e.g., when a teammate discloses that they have been physically
+assaulted by an intimate partner!. Though discussion of this program does not appear
+in the published literature, initial internal evaluation of this program has shown some
+effectiveness in terms of changing individual attitudes of groups such as high-schoolaged male and female participants ~Ward, 2001!.
+DeKeseredy and colleagues ~2000! highlight ways in which “profeminist” men can
+play a role in ending violence against women and provide case studies to illustrate
+their points. They describe a number of activities in which men on campus engage to
+
+Bystander Education
+
+•
+
+73
+
+end violence including protesting against stores that carry pornography, participating
+in awareness programs, attending classes or lectures to actively pursue information on
+women’s issues, and being members of collective anti-violence campaigns. Their work
+is not a description of an organized sexual violence prevention program but summarizes activities in which men on the campuses they have studied spontaneously participated. In another application of the bystander approach, Berkowitz ~2002! summarizes
+key elements of how his bystander stages of intervention can become an important
+component of sexual violence prevention that targets men, but he does not offer a
+description of a specific program or research to support it.
+Foubert ~2000! and Foubert and Marriott ~1997! have empirically demonstrated
+the effectiveness of engaging men in sexual violence prevention through messages
+focusing on how to help a sexual violence survivor. They describe and experimentally
+evaluated a one-hour program to boost men’s empathy for survivors in the aftermath
+of rape that features a video of a male victim. The program then moves to a discussion
+of specific strategies for helping a rape survivor recover. Yet other avenues of bystander
+intervention remain to be explored; although most programs present bystanders as
+helpful allies to survivors after an incident of sexual violence, they do not go on to
+teach how bystanders may also play roles in risky situations with friends, acquaintances, or strangers before an incident occurs. Furthermore, a more complete understanding of the impact of such an approach on both men and women is needed.
+Seeking to address some of the previous limitations, we have created our own
+version of a bystander intervention program. We have developed both a single and
+multi-session program for single sex groups of men and women. We describe the
+longer of the programs below, though the single session is an abbreviated version of
+the multi-session one.
+Each component of the program is based on the empirical literature on bystander
+behavior. As mentioned previously, research has identified the following predictors of
+successful bystander intervention: group size, recognizing a situation as a problem,
+being asked to intervene, witnessing interventions by role models and possessing skills
+to intervene. For purposes of our prevention program, we have incorporated those
+predictors that we can reinforce through education: recognizing inappropriate behavior, skill building, requesting a commitment to intervene, and role modeling. Consistent with recommendations found in the general prevention literature, the program
+includes educational, motivational, and skill-building components. Participants begin
+with discussions of their definitions of community and the importance of an ecological approach to social problems and the role of sense of community. Throughout the
+program, the facilitators ~a woman and man working as a team! serve as role models.
+In the first session, we designed the program to introduce students gradually to
+the notion of bystander responsibility, examine issues relating community membership, and ask them to draw upon their own experiences ~e.g., when they witnessed an
+intervention or intervened to help someone!. Examples are not limited to sexual
+violence, but open to all types of helping behaviors. To initiate this discussion, facilitators offer local, regional, and national examples of both successful and unsuccessful
+interventions. We have found that examples that have occurred on our own campus
+are particularly effective.
+We designed the second session of the program to increase awareness of sexual
+violence and give students an opportunity to apply bystander responsibility to sexual
+violence. We incorporate an exercise to build victim empathy through visualization
+and include knowledge about the scope and causes of sexual violence that are grounded
+
+74
+
+•
+
+Journal of Community Psychology, January 2004
+
+in statistics, research, and needs assessments conducted in the community in which
+the prevention program is taking place. This includes, for example, statistics about the
+number of sexual assaults reported to the local campus rape crisis center, case studies
+of rapes on the local campus where bystanders had multiple opportunities to intervene but chose to do nothing, and a recent local community study of sexual violence
+on campus, ~Banyard et al., 2000!. We also use interactive exercises to model and teach
+skills about how to be an active bystander at all points on the sexual violence continuum—
+before sexual violence occurs ~e.g., hearing sexist comments in community!, during a
+risky situation ~e.g., at a party where one observes physical conflict between partners
+or sees an overly intoxicated person being taken upstairs by a group of others!, and
+afterward ~e.g., friend discloses about abuse!. These and similar scenarios can include
+both situations where a community member might have the opportunity to de-escalate
+a risky situation and prevent sexual violence or interrupt its occurrence but also
+include opportunities for community members to support survivors after an incident
+of sexual violence has occurred. Using the example of a college campus, scenarios
+might include walking a friend home from a party, talking to a dorm counselor or
+advisor, contacting the rape crisis center on behalf of a friend who asks for information or help, or refusing to keep silent about information about an incident of sexual
+violence.
+Finally, we put together the third session to increase awareness among participants
+about the importance of personal safety, resources available to aid them during intervention, and understanding the decision-making process behind successful bystander
+intervention. The participants explore individual strategies that reflect the appropriate level of intervention needed for the inappropriate behavior. Facilitators role-play,
+give the participants scenarios, and then ask them to practice intervention strategies
+and share their observations with others. Skill building is achieved through group
+discussion and role-playing of scenarios designed to highlight bystander options. The
+program emphasizes understanding appropriate levels of intervention, being mindful
+of personal safety, and different personal options bystanders may employ depending
+on the nature of the situation. Students receive information about campus resources
+that they can use to support their role as an active bystander ~e.g., the campus crisis
+center can help a friend who may disclose about being a victim of sexual assault!.
+Here, facilitators who may have experience with successful interventions serve as role
+models for expected behaviors.
+Consistent with the bystander literature, peer group leaders role model appropriate behavior and participants become knowledgeable about factors that help and
+hinder bystanders. Participants are asked to sign a pledge and make a commitment to
+actively intervene. They also discuss in great detail the pros and cons of intervention
+including how to keep themselves safe as an active bystander. Using an experimental
+design, we are in the process of empirically evaluating this program with men and
+women. This is but one more example of how a bystander approach may be operationalized in sexual violence prevention.
+CONCLUSION
+Given the importance of sexual violence prevention across an array of communities,
+the need continues for both innovative and carefully evaluated studies grounded in
+developed theory ~e.g., Lonsway, 1996; Yeater & O’Donohue, 1999!. The mobilization
+of prosocial behavior on the part of bystanders stands out as a potentially feasible
+
+Bystander Education
+
+•
+
+75
+
+model for presenting programs aimed at preventing sexual violence and intervening
+to help victims of sexual violence. This model is embedded in calls for prevention
+efforts that take a wider community approach rather than simply targeting individuals
+as likely perpetrators or victims. As noted above, this model has several other features
+that lead us to regard it as a strong candidate for developing and evaluating sexual
+violence prevention programs. The foregoing review of literature on community readiness to change and research on bystander behavior in emergency and crime situations
+provide a conceptually compelling case for moving forward with such efforts in sexual
+violence prevention. What is more, the model fits well with emerging discussions in
+the field of the applicability of social norms theory to violence prevention ~e.g.,
+Berkowitz, 2002, 2003! and notions of the development of “profeminist masculinity”
+in the service of prevention violence against women ~DeKeseredy et al., 2000!.
+In sum, this model is differentiated from others in that sexual violence prevention
+is conceptualized in a broader community context, in its potential to overcome resistance and defensiveness of participants in sexual violence prevention programs, and
+its movement away from victim-blaming messages—whether these messages are intended
+or unintentional. Furthermore, this approach is seen as having the ability to make all
+community members more aware of sexual violence, its prevalence and consequences.
+In addition, it gives them strong messages that challenge sexual violence myths and
+promotes empathy for sexual violence victims regardless of whether the victim is a
+friend, acquaintance, or stranger. It imparts skills for decreasing the ambiguity in
+situations where the risk for sexual violence is high either before or during an incident of abuse, as well as skills for being an effective ally to sexual violence survivors.
+This approach includes a message that is adapted for primary prevention in that
+everyone in the community can have a role to play. It moves the focus away from just
+those most at risk for becoming victims or perpetrators. Thus, the impact of the
+program may readily extend to changing the broader group and community norms.
+The predictable outcome is that it will teach all community members to identify
+themselves as prosocial bystanders who have a role to play in supporting victims or
+interrupting potential sexual violence.
+While a number of programs have begun to focus on program development in
+this area ~e.g., Foubert, 2000; Katz, 1994!, much work remains to be done. Many
+programs have not been rigorously evaluated using experimental designs or have been
+evaluated only with samples of men. Outcome measures have focused mainly on
+attitude change and behavioral intent rather than actual behaviors. The impact of
+bystander intervention on the prevalence of sexual violence in communities remains
+to be assessed. Furthermore, most programs are multifaceted and studies are needed
+of which program elements are key to observed outcome effects. Community psychologists are uniquely positioned to contribute to this endeavor. Their knowledge of the
+broader context of community readiness to change may inform the design of more
+developmentally based or incremental programs built on careful needs assessments of
+different community contexts. Their knowledge of broader tools for community change
+can inform program design while their skills in evaluation research can help to assess
+a broader array of individual, group, and community outcomes at all levels of the
+ecological model. To date, most outcome measures have focused on individual attitudes and behaviors. Community psychologists can add consideration of these programs’ impact on variables such as sense of community, citizen participation in
+community change, and the like. We are hopeful that the concepts presented here
+and the future evaluation of our program further contribute to this effort.
+
+76
+
+•
+
+Journal of Community Psychology, January 2004
+
+REFERENCES
+Abbey, A., McAuslan, P., & Ross, L.T. ~1998!. Sexual assault perpetration by college men: The
+role of alcohol, misperception of sexual intent, and sexual beliefs and experiences. Journal
+of Social and Clinical Psychology, 17, 167–195.
+Abbey, A., Ross, L.T., & McDuffie, D. ~1996!. Alcohol and dating risk factors for sexual assault
+among college women. Psychology of Women Quarterly, 20, 147–169.
+Acierno, R., Brady, K., Gray, M., Kilpatrick, D., Resnick, H., & Best, C.L. ~2002!. Psychopathology following interpersonal violence: A comparison of risk factors in older and younger
+adults. Journal of Clinical Geropsychology, 8, 13–23.
+Arata, C.M., & Burkhart, B.R. ~1996!. Post-traumatic stress disorder among college student
+victims of acquaintance assault. Journal of Psychology and Human Sexuality, 8, 79–92.
+Banyard, V.L., Plante, E., Ward, S., Cohn, E.S., Moorhead, C., & Walsh, W. ~2000!. Revisiting our
+understanding of unwanted sexual experiences on campus: A comparison of 1988 and
+2000. Unpublished manuscript, University of New Hampshire.
+Banyard, V.L., Williams, L.M., & Siegel, J.A. ~2001!. The long-term mental health consequences
+of child sexual abuse: An exploratory study of the impact of multiple traumas in a sample
+of women. Journal of Traumatic Stress, 14, 697–715.
+Bar-Tal, D. ~1976!. Altruistic behavior in emergency situations. In D. Bar-Tal ~Ed.!, Prosocial
+behavior ~pp. 85–109!. Washington, DC: Hemisphere Publishing.
+Batson, C.D. ~1998!. Altruism and prosocial behavior. In D.T. Gilbert, S.T. Fiske, & G. Lindzey
+~Eds.!, The handbook of social psychology II ~pp. 282–316!. Boston, MA: McGraw-Hill.
+Berkowitz, A.D. ~2002!. Fostering men’s responsibility for preventing sexual assault. In P.A.
+Schewe ~Ed.!, Preventing violence in relationships: Interventions across the lifespan ~pp. 163–
+196!. Washington, DC: American Psychological Association.
+Berkowitz, A.D. ~2003!. Applications of social norms theory to other health and social justice
+issues. In W. Perkins ~Ed.!, The social norms approach to preventing school and college age
+substance abuse: A handbook for educators, counselors, and clinicians ~pp. 259–279!. San
+Francisco, CA: Jossey-Bass.
+Bickman, L. ~1984!. Bystander intervention in crimes: Research and application. In E. Staub,
+D. Bar-Tal, J. Karylowski, & J. Reykowski ~Eds.!, Development and maintenance of prosocial
+behavior ~pp. 457– 470!. New York: Plenum Press.
+Bickman, L. ~1975!. Bystander intervention in a crime: The effect of a mass-media campaign.
+Journal of Applied Social Psychology, 5, 296 –302.
+Bond, M.A. ~1995!. Prevention and the ecology of sexual harassment: Creating empowering
+climates. In C.F. Swift ~Ed.!, Sexual assault and abuse: Sociocultural context of prevention
+~pp. 147–173!. New York: Haworth Press.
+Breitenbecher, K.H. ~2000!. Sexual assault on college campuses: Is an ounce of prevention
+enough? Applied and Preventive Psychology, 9, 23– 52.
+Brener, N.D., McMahon, P.M., Warren, C.W., & Douglas, K.A. ~1999!. Forced sexual intercourse
+and associated health-risk behaviors among female college students in the United States.
+Journal of Consulting and Clinical Psychology, 67, 252–259.
+Brickman, P., Rabinowitz, V.C., Karuza, J., Jr., Coates, D., Cohn, E., & Kidder, L. ~1982!. Models
+of helping and coping. American Psychologist, 37, 363–384.
+Bronfenbrenner, U. ~1980!. Ecology of childhood. School Psychology Review, 9, 294 –297.
+Brownmiller, S. ~1975!. Against our will: Men, women, and rape. New York: Simon & Schuster.
+Campbell, J., & Soeken, K.L. ~1999!. Forced sex and intimate partner violence: Effects on
+women’s risk and women’s health. Violence Against Women, 5, 1017–1035.
+Chavis, D.M., & Wandersman, A. ~1990!. Sense of community in the urban environment: A
+
+Bystander Education
+
+•
+
+77
+
+catalyst for participation and community development. American Journal of Community
+Psychology, 18, 83–116.
+Christy, C.A., & Voigt, H. ~1994!. Bystander responses to public episodes of child abuse. Journal
+of Applied Social Psychology, 24, 824 –847.
+Dalton, J.H., Elias, M.J., & Wandersman, A. ~2001!. Community psychology: Linking individuals
+and communities. Belmont, CA: Wadsworth Thomson Learning.
+Darley, J.M., & Latane, B. ~1968!. Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8, 377–383.
+DeKeseredy, W.S., Schwartz, M.D., & Alvi, S. ~2000!. The role of profeminist men in dealing with
+women on the Canadian college campus. Violence Against Women, 6, 918–935.
+Dozier, J.B., & Miceli, M.P. ~1985!. Potential predictors of whistle-blowing: A prosocial behavior
+perspective. Academy of Management Review, 10, 823–836.
+Edwards, R.W., Jumper-Thurman, P., Plested, B.A., Oetting, E.R., & Swanson, L. ~2000!. Community readiness: Research to practice. Journal of Community Psychology, 28, 291–307.
+Fisher, B.S., Cullen, F.T., & Turner, M.G. ~2000!. The sexual victimization of college women:
+Findings from two national-level studies. Washington, DC: National Institute of Justice and
+Bureau of Justice Statistics.
+Foubert, J.D. ~2000!. The longitudinal effects of a rape-prevention program on fraternity
+men’s attitudes, behavioral intent, and behavior. Journal of American College Health, 48,
+158–163.
+Foubert, J.D., & Marriott, K.A. ~1997!. Effects of a sexual assault peer education program on
+men’s beliefs in rape myths. Sex Roles, 36, 259–268.
+Fritzsche, B.A., Finkelstein, M.A., & Penner, L.A. ~2000!. To help or not to help: Capturing
+individuals’ decision policies. Social Behavior and Personality, 28, 561– 578.
+Grimley, D., Prochaska, J.O., Velicer, W.F., Blais, L.M., & DiClemente, C.C. ~1994!. The transtheoretical model of change. In T.M. Brinthaupt & R.P. Lipka ~Eds.!, Changing the self:
+Philosophies, techniques, and experiences ~pp. 201–227!. Albany, N Y: State University of
+New York Press.
+Harada, J. ~1985!. Bystander intervention: The effect of ambiguity of the helping situation and
+the interpersonal relationship between bystanders. Japanese Psychological Research, 27,
+177–184.
+Harari, H., Harari, O., & White, R.V. ~1985!. The reaction to rape by American male bystanders.
+The Journal of Social Psychology, 125, 653– 658.
+Heppner, M.J., Humphrey, C.F., Hillenbrand-Gunn, T.L., & Debord, K.A. ~1995!. The differential effects of rape prevention programming on attitudes, behavior, and knowledge. Journal
+of Counseling Psychology, 42, 508– 518.
+Heppner, M.J., Neville, H.A., Smith, K., Kivlighan, D.M., & Gershuny, B.S. ~1999!. Examining
+immediate and long-term efficacy of rape prevention programming with racially diverse
+college men. Journal of Counseling Psychology, 46, 16 –26.
+Himelein, M.J. ~1995!. Risk factors for sexual victimization in dating: A longitudinal study of
+college women. Psychology of Women Quarterly, 19, 31– 48.
+Huston, T.L., Ruggiero, M., Conne, R., & Geis, G. ~1981!. Bystander intervention into a crime:
+A study based on naturally-occurring episodes. Social Psychology Quarterly, 44, 14 –23.
+Kalafat, J., Elias, M., & Gara, M.A. ~1993!. The relationship of bystander intervention variables
+to adolescents’ responses the suicidal peers. The Journal of Primary Prevention, 13,
+231–244.
+Katz, J. ~1994!. Mentors in Violence Prevention ~MVP! Trainer’s Guide. Northeastern University’s Center for the Study of Sport in Society. Boston: Northeastern University.
+Koss, M.P., & Dinero, T.E. ~1989!. Discriminant analysis of risk factors for sexual victimization
+
+78
+
+•
+
+Journal of Community Psychology, January 2004
+
+among a national sample of college women. Journal of Consulting and Clinical Psychology,
+57, 242–250.
+Koss, M.P., Gidcyz, C.A., & Wisniewski, N. ~1987!. The scope of rape: Incidence and prevalence
+of sexual aggression and victimization in a national sample of higher education students.
+Journal of Consulting and Clinical Psychology, 55, 162–170.
+Koss, M.P., Goodman, L.A., Browne, A., Fitzgerald, L.E., Keita, G.P., & Russo, N.F. ~1994!. No
+safe haven: Male violence against women at home, at work and in the community. Washington, DC: American Psychological Association.
+Koss, M.P., & Harvey, M.R. ~1991!. The rape victim: Clinical and community interventions.
+Newbury Park, CA: Sage Publications.
+Laner, M.R., Benin, M.H., & Ventrone, N.A. ~2001!. Bystander attitudes towards victims of
+violence who’s worth helping? Deviant Behavior: An Interdisciplinary Journal, 22, 23– 42.
+Lanier, C. ~2001!. Rape accepting attitudes. Violence Against Women, 7, 876 –885.
+Larimer, M.E., Lydum, A.R., Anderson, B.K., & Turner, A.P. ~1999!. Male and female recipients
+of unwanted sexual contact in a college student sample: Prevalence rates, alcohol use, and
+depression symptoms. Sex Roles, 40, 295–308.
+Lonsway, K.A. ~1996!. Preventing acquaintance rape through education: What do we know?
+Psychology of Women Quarterly, 20, 229–265.
+Michelini, R.L., Wilson, J.P., & Messe, L.A. ~1975!. The influence of psychological needs on
+helping behavior. The Journal of Psychology, 91, 253–258.
+Morgan, C.J. ~1978!. Bystander intervention: Experimental test of a formal model. Journal of
+Personality and Social Psychology, 36, 43– 55.
+Myers, D.G. ~1999!. Social psychology ~6th ed.!. Boston: McGraw Hill.
+Nagayama, G.C., & Barongan, C. ~1997!. Prevention of sexual aggression. American Psychologist, 52, 5–14.
+Oetting, E.R., Donnermeyer, J.F., Plested, B.A., Edwards, R.W., Kelly, K., & Beauvais, F. ~1995!.
+Assessing community readiness for prevention. The International Journal of the Addictions, 30, 659– 683.
+Plested, B., Smitham, D.M., Jumper-Thurman, P., Oetting, E.R., & Edwards, R.W. ~1999!. Readiness for drug use prevention in rural minority communities. Substance Use and Misuse, 34,
+521– 544.
+Potter, R.H., Krider, J.E., & McMahon, P.M. ~2000!. Examining elements of campus sexual
+violence policies. Violence Against Women, 6, 1345–1362.
+Rafter, N.H., & Stanko, E.A. ~Eds.!. ~1982!. Judge, lawyer, victim, thief: Women, gender roles,
+and criminal justice. Boston: Northeastern University.
+Rennison, C.M. ~1999!. Criminal victimization, 1998; Changes 1997–98 with trends 1993–98.
+Washington, DC: Bureau of Justice Statistics, U.S. Department of Justice.
+Sanday, P. ~1981!. The socio-cultural context of rape: A cross-cultural study. Journal of Social
+Issues, 37, 5–27.
+Sanday, P.R. ~1996!. Rape-prone versus rape-free campus cultures. Violence Against Women, 2,
+191–208.
+Sarason, S.B. ~1974!. The psychological sense of community: Prospects for a community psychology. San Francisco: Jossey-Bass.
+Schewe, P.A. ~Ed.! ~2002!. Prevention violence in relationships: Interventions across the lifespan.
+Washington, DC: American Psychological Association.
+Schewe, P.A., & O’Donohue, W. ~1993!. Rape prevention: Methodological problems and new
+directions. Clinical Psychology Review, 13, 667– 682.
+Schwartz, M.D., & DeKeseredy, W.S. ~1997!. Sexual assault on the college campus: The role of
+male peer support. Thousand Oaks, CA: Sage Publications.
+
+Bystander Education
+
+•
+
+79
+
+Schwartz, M.D., & DeKeseredy, W.S. ~2000!. Aggregation bias and woman abuse: Variations by
+male peer support, region, language, and school type. Journal of Interpersonal Violence,
+15, 555– 565.
+Schwartz, M.D., & Nogrady, C.A. ~1996!. Fraternity membership, rape myths, and sexual aggression on a college campus. Violence Against Women, 2, 148–162.
+Shaffer, D.R., Rogel, M., & Hendrick, C. ~1975!. Intervention in the library: The effect of
+increased responsibility on bystanders’ willingness to prevent theft. Journal of Applied
+Social Psychology, 5, 303–319.
+Shaleff, L.S., & Shichor, D. ~1980!. Victimological aspects of bystander involvement. Crime and
+Delinquency, 26, 193–202.
+Shotland, R.L., & Goodstein, L.I. ~1984!. The role of bystanders in crime control. Journal of
+Social Issues, 40, 9–26.
+Shotland, R.L., & Straw, M.K. ~1976!. Bystander response to an assault: When a man attacks a
+woman. Journal of Personality and Social Psychology, 34, 990–999.
+Slaby, R.G., & Stringham, P. ~1994!. Prevention of peer and community violence: The pediatrician’s role. Pediatrics, 94, 608– 616.
+Stanko, E.A. ~1985!. Intimate intrusions: Women’s experience of male violence. London: Routledge & Kegan Paul.
+Stanko, E.A. ~1990!. Everyday violence: How women and men experience sexual and physical
+danger. London: Pandora.
+Stanko, E.A. ~1995!. Review of No safe haven: Male violence against women at home, at work,
+and in the community by Koss et al. ~1994!. Violence Against Women, 1, 102–105.
+Staub, E. ~1993!. The psychology of bystanders, perpetrators, and heroic helpers. International
+Journal of Intercultural Relations, 17, 315–341.
+Swift, C.F., & Ryan-Finn, K. ~1995!. Perpetrator prevention: Stopping the development of sexually abusive behavior. In C.F. Swift ~Ed.!, Sexual assault and abuse: Sociocultural context of
+prevention ~pp. 13– 44!. New York: Haworth Press.
+Synovitz, L.B., & Byrne, T.J. ~1998!. Antecedents of sexual victimization: Factors discriminating
+victims from nonvictims. Journal of American College Health, 46, 151–158.
+Tice, D.M., & Baumeister, R.F. ~1985!. Masculinity inhibits helping in emergencies: Personality
+does predict the bystander effect. Journal of Personality and Social Psychology, 49, 420– 428.
+US Department of Justice. ~1996!. National Crime Victimization Survey, Bureau of Justice Statistics. Retrieved July 24, 2003, from http:00www.mv.com0ipusers0nhcadsv0nhcframes.html
+Ward, K.J. ~2001!. Mentors in Violence Prevention Program Evaluation 1999–2000. Unpublished report, Northeastern University, Boston.
+Wispe, L. ~1980!. The role of moods in helping behavior. Representative Research in Social
+Psychology, 11, 2–15.
+Yeater, E.A., & O’Donohue, W. ~1999!. Sexual assault prevention programs: Current issues,
+future directions, and the potential efficacy of interventions with women. Clinical Psychology Review, 19, 739–771.
+Yee, J.L., & Greenberg, M.S. ~1998!. Reactions to crime victims: Effects of victims’ emotional
+state and type of relationship. Journal of Social and Clinical Psychology, 17, 209–226.
+Yllo, K. ~1993!. Through a feminist lens: Gender, power, and violence. In R.J. Gelles & D. Loseke
+~Eds.!, Current controversies on family violence ~pp. 47– 62!. Thousand Oaks, CA: Sage.
+Yodanis, C., Godenzi, A., & Stanko, E. ~2000!. The benefits of studying costs: A review and
+agenda for studies on the economic costs of violence against women. Policy Studies, 21,
+263–276.
+Zimmerman, M.A. ~1995!. Psychological empowerment: Issues and illustrations. American Journal of Community Psychology, 23, 581– 600.
+
+

@@ -1,0 +1,817 @@
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyright
+
+Author's personal copy
+
+Journal of Experimental Social Psychology 44 (2008) 1402–1408
+
+Contents lists available at ScienceDirect
+
+Journal of Experimental Social Psychology
+journal homepage: www.elsevier.com/locate/jesp
+
+Reports
+
+Effects of exposure to sex-stereotyped video game characters on tolerance
+of sexual harassment q
+Karen E. Dill *, Brian P. Brown, Michael A. Collins
+Lenior-Rhyne College, School of Social and Behavioral Sciences, P.O. Box 7335, Hickory, NC 28601, USA
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 24 August 2007
+Revised 16 May 2008
+Available online 18 June 2008
+Keywords:
+Stereotypes
+Media
+Aggression
+Sexism
+Power
+Sexual harassment
+Rape myths
+Violence against women
+
+a b s t r a c t
+The violent video game literature has previously not extended to the domain of violence against women.
+The current investigation tested the effects of exposure to sex-typed video game characters versus images
+of professional men and women on judgments and attitudes supporting aggression against women.
+Results showed experimental effects of short-term exposure to stereotypical media content on sexual
+harassment judgments but not on rape myth acceptance. A signiﬁcant interaction indicated that men
+exposed to stereotypical content made judgments that were more tolerant of a real-life instance of sexual
+harassment compared to controls. Long-term exposure to video game violence was correlated with
+greater tolerance of sexual harassment and greater rape myth acceptance. This data contributes to our
+understanding of mass media’s role in socialization that supports violence against women.
+Ó 2008 Elsevier Inc. All rights reserved.
+
+According to Price Waterhouse Coopers, over the next 5 years the
+video game industry will be the fastest growing of any entertainment category, and will earn a projected $55 billion internationally
+by 2008 (Vargas, 2007). Most top-selling games and most of kids’
+favorite games are violent (Anderson & Bushman, 2001; Dill, Gentile,
+Richter, & Dill, 2005; Funk, Germann, & Buchman, 2000). A growing
+body of research demonstrates a causal connection between exposure to video game violence and aggressive behavior, thoughts and
+feelings (Anderson & Bushman, 2001; Anderson & Dill, 2000; Anderson, Gentile, & Buckley, 2007; Bartholow, Sestir, & Davis, 2005; see
+Anderson et al., 2003 for a review). To date, effects research on video
+game violence has not extended to the domain of violence against
+women. This is a clear gap in the literature, especially given the
+growing concern about sexist gender portrayals in video games
+(Brenick, Henning, Killen, O’Connor, & Collins, 2007; Burgess,
+Stermer, & Burgess, 2007; Dill & Thill, 2007; Scharrer, 2004; Walsh,
+Gentile, VanOverbeke, & Chasco, 2002). The current investigation
+is designed to bridge that gap by providing data showing a causal
+relationship between sexist gender portrayals in video games and
+two measures linked to violence against women: sexual harassment
+judgments and rape-supportive attitudes.
+Of all the forms of mass media popular with youth, video games
+perpetuate perhaps the most uniform and unsubtle sex role ste-
+
+q
+
+The authors wish to thank Bruce Bartholow, Jeanne Funk, Craig Anderson and
+Melinda Burgess for helpful comments on an earlier draft of this manuscript.
+* Corresponding author.
+E-mail address: dillk@lrc.edu (K.E. Dill).
+0022-1031/$ - see front matter Ó 2008 Elsevier Inc. All rights reserved.
+doi:10.1016/j.jesp.2008.06.002
+
+reotypes. According to Dill and Thill (2007) popular gaming magazines portray 83% of male video game characters as violent.
+Commonly, male video game characters are hyper-masculine
+(‘‘macho”) and many scenes (32%) glamorize violence. These characterizations have important implications for gamers in that research has shown hyper-masculinity and hostile masculinity to
+foster sexual aggression (Malamuth, Heavy, & Linz, 1993; Murnen,
+Wright, & Kaluzny, 2007; Scharrer, 2005).
+Female video game characters are consistently shown as beautiful, busty, scantily clad sex objects (Burgess et al., 2007; Dill &
+Thill, 2007; Scharrer, 2004). Women in video games also are under-represented and marginalized; games rarely depict female heroes (Dill et al., 2005; Scharrer, 2004). Even when a game has a
+female lead, she is still likely to be sexually objectiﬁed as exempliﬁed by Tomb Raider’s Lara Croft (Mikula, 2003).
+Dill and Thill (2007) asked teenagers to describe typical male
+and female video game characters. Teens described female characters as being sexually promiscuous, wearing revealing clothing and
+as thin with large breasts. In contrast, they viewed typical male
+characters as physically powerful, dominant, violent, mean and
+cocky. These conceptions of masculinity and femininity can have
+real-life implications for how video game players view the roles
+and abilities of men and women.
+Violence towards women in gaming
+There are also current trends in gaming towards gloriﬁcation of
+violence towards women and the perpetuation of a crass view of
+
+Author's personal copy
+
+K.E. Dill et al. / Journal of Experimental Social Psychology 44 (2008) 1402–1408
+
+sexuality (Walsh et al., 2002). The Grand Theft Auto (GTA) series of
+games, consistently among the top-sellers worldwide (see Top 25
+PS2 Games of All Time, 2007), provides a pertinent example. In
+GTA: Vice City the violent male hero can hire a prostitute–depicted
+in scenes where a car rocks back and forth and the characters trade
+sexual quips. Often these quips are sexually demeaning to both
+men and women, including jibes from the prostitute such as
+‘‘You in me yet?” Vice City also rewards violence against women:
+if the male hero kills the prostitute after they have sex, he gets
+his money back. When a male character punches a female prostitute, she does not respond by screaming or saying ‘‘no,”—negative
+responses likely to happen in real social interactions—but rather is
+programmed to retort, ‘‘I like it rough” and to punch back. Seventyﬁve percent of American boys under 17 have played a Grand Theft
+Auto game, though they carry a Mature rating indicating that sales
+to anyone under age 17 are prohibited (Walsh et al., 2002).
+A theoretical model of media sexism effects
+Anderson and colleagues’ General Aggression Model (e.g.,
+Anderson et al., 2007) describes how knowledge structures about
+aggression are formed and how they are accessed, considered,
+and acted upon in relevant situations. In terms of the present
+investigation, exposure to negative gender stereotypes in video
+games will contribute to schemas and scripts about social relations
+between men and women. For example, if a boy learns that males
+are powerful and dominant and women are objects to be subjugated and used, these ideas will take root in his developing social
+conscience and broadly inﬂuence his attitudes and behaviors towards women. The current investigation, then, ﬁts conceptually
+within the broad framework of the General Aggression Model,
+exemplifying how stereotypical images in the media cause beliefs
+that foster violence against women.
+Theories of hegemonic masculinity (Connell, 1987; Lull, 2003)
+assert that modern media project myths about male dominance
+and female submission in order to support a patriarchal social
+structure. In other words, media stereotypes do not reﬂect reality—for example, few real men look or act like a prototypical muscle-bound, weapon-toting video game character –but rather
+construct a stylized view of masculinity and femininity that inﬂuences the beliefs, feelings and actions of members of the culture.
+According to Ambivalent Sexism Theory (AST; e.g., Glick et al.,
+2004) many societies view men as aggressive and self-serving,
+but ultimately as superior to women because the traditionally
+masculine characteristics of dominance and instrumentality are
+widely valued. Females, in contrast, are ‘‘wonderful but weak,” in
+other words, women are more likeable, but clearly subordinate.
+Across a variety of cultures, being male is equated with social status, and this fact leads to real gender inequality. Research based on
+a broad international sample found that where the stereotype of
+men as ‘‘bad but bold” was most pronounced, women suffered
+from lower literacy rates, held less prestigious jobs and had lower
+incomes (Glick et al., 2004).
+Recently, Murnen et al. (2007) conducted a meta-analysis investigating the theory that the patriarchal structure of society supports sexual violence against women. They analyzed data from
+39 studies related to masculine ideology and sexual aggression. Results showed evidence for a consistent relationship between measures of stereotypical male dominance and sexual aggression.
+Perpetuating images of men as dominant and aggressive and women as demeaned supports violence against women.
+Burt’s (1980) classic work on Rape Myth Acceptance (RMA)
+raised consciousness about how cultural myths support rape. Rape
+myths are false stereotypes about rape, such as the idea that women secretly enjoy rape. Burt (1980) said that rape is the logical
+outcome of a partriarchal social structure. In essence, rape myths
+
+1403
+
+are ‘‘cognitive justiﬁcations for sexual aggression,” that ‘‘create a
+climate that allows rape to occur” (Murnen et al., 2007, p. 362;
+see also Looby, 2001; Mastronardi, 2003; Stark, 2007).
+The theme that emerges from these theories is one of a social
+hierarchy where masculinity is hegemonic: where men dominate
+and women are subjugated. The most important theoretical factor
+here is social power. When the media presents demeaned images
+of women, they encourage the use of power against women. That
+can mean physical or sexual aggression or sexual harassment in
+the workplace or school.
+Media effects studies pertaining to rape and sexual harassment
+The primary reason for the current investigation is that it meaningfully extends the video game violence literature to the arena of
+violence against women; no such study currently exists in the literature. However, there are studies showing a causal connection
+between sexist representations in other forms of media and variables relevant to violence against women. Milburn, Mather, and
+Conrad (2000) exposed male and female college students to either
+a control ﬁlm or a 22-min compilation of scenes rated in a pre-test
+to be non-violent but to sexually degrade and objectify women.
+Results showed that males who viewed the degraded, objectiﬁed
+women were more likely to endorse rape myths.
+Johnson, Adams, Ashburn, and Reed (1995) studied the effects
+of exposure to non-violent, but degraded and objectiﬁed women
+in rap videos on male and female adolescents using a treatment
+group and a no-treatment control. Results showed a signiﬁcant
+interaction between ﬁlm exposure and gender on acceptance of
+violence against women. While boys’ acceptance of violence
+against women was not altered by the manipulation, girls who
+watched the non-violent but degrading rap videos showed signiﬁcantly more acceptance of dating violence than girls who did not
+see the videos (see also Lanis & Covell, 1995). This study shows
+that when girls see women demeaned in the media, they are more
+accepting of dating violence.
+
+Sexual harassment
+Sexual harassment (SH) encompasses a wide variety of behaviors
+and can range in severity from degrading remarks to unwanted
+sexual advances and sexual assault. Statistics indicate that SH is
+widespread in high schools, colleges, and in the workplace. About
+40–50% of women and girls in these settings who were surveyed reported experiencing sexual harassment (Crawford & Unger, 2004).
+Like rape, SH was once miscast as sexually motivated behavior,
+but is now understood as aggressive behavior (O’Leary-Kelly, Paetzold, & Grifﬁn, 2000). SH harms victims in a variety of ways
+including emotionally and physically. In the job or university
+setting, it can also result in economic sanctions and limits on
+advancement (Looby, 2001). As with domestic violence against
+women, men who harass often do so to coerce women and exercise
+power and control over them (Looby, 2001; Stark, 2007).
+To what extent are speciﬁc negative media stereotypes applied to other women? Ferguson and colleagues (2005) exposed
+participants to either promiscuous or non-promiscuous women
+taken from tapes of the Jerry Springer Show. Later, they read a
+sexual harassment scenario and rated the promiscuity of the female victim. Results showed that those who saw the promiscuous women on Jerry Springer rated the sexual harassment victim
+as less traumatized and more responsible for the harassment
+than did participants in the control condition. Furthermore, the
+authors demonstrated that it was the act of stereotype application—of attributing promiscuity to women other than those seen
+on Jerry Springer—that caused them to blame an unrelated victim
+
+Author's personal copy
+
+1404
+
+K.E. Dill et al. / Journal of Experimental Social Psychology 44 (2008) 1402–1408
+
+of sexual harassment. The conclusion: when people generalize
+lessons learned from sexist media images, unrelated women
+may suffer the consequences.
+The current investigation
+We investigated the effects of sexist video game content (macho,
+aggressive males and objectiﬁed females) on two outcomes: (1)
+sexual harassment judgments and (2) rape-supportive attitudes,
+described below. We also measured chronic exposure to video
+game violence and related this factor to sexual harassment judgments and rape-supportive attitudes. Ferguson et al. (2005) noted
+‘‘there has been little empirical research on how the mass media
+might affect perceptions of sexual harassment” (p. 479). To add to
+this media effects literature, we designed our own instrument for
+the present study, which included a real-life account of sexual
+harassment between a college student and a professor and a series
+of judgments about this account. Our hypotheses were as follows:
+H1: Exposure to images of sex-typed video game characters
+(macho, aggressive males and objectiﬁed females) will result in
+greater tolerance of sexual harassment.
+Ferguson et al. (2005, p. 480) reported that there have been
+studies showing gender effects on sexual harassment judgments,
+studies showing no gender effects and studies showing mixed results. Citing these studies as precedent, they made no gender predictions for their sexual harassment outcomes. Based on this
+rationale, we also made no gender predictions. However, we frame
+this as a research question:
+RQ1: How will gender inﬂuence sexual harassment judgments
+and how will gender interact with exposure to images of sex-typed
+video game characters?
+H2: Exposure to images of sex-typed video game characters
+(macho, aggressive males and objectiﬁed females) will cause
+increases in rape supportive attitudes.
+Johnson et al. (1995) showed that viewing objectiﬁed women
+did not change males’ level of support for dating violence.
+However, Lanis and Covell (1995) found that viewing objectiﬁed
+women increased male’s rape and violence-supportive beliefs,
+but that viewing both objectiﬁed and progressive images of
+women decreased female’s judgments on these same outcomes.
+Clearly, gender effects in this domain are complex. We therefore
+made no predictions about gender effects for H2. Again, we frame
+this as a research question:
+RQ2: How will gender inﬂuence rape-supportive attitudes and
+how will gender interact with exposure to images of sex-typed
+video game characters?
+One known investigation (Dill, 2008) demonstrated a correlation between violent video game exposure and RMA and negative
+attitudes towards women. Extending this research, we propose:
+H3: Participants’ self-reported exposure to violent video games
+will correlate negatively with progressive sexual harassment
+judgments.
+H4: Participants’ self-reported exposure to violent video games
+will correlate positively with rape-supportive attitudes.
+
+Methods
+Participants
+Participants (N = 181; 120 females, 61 males; mean age 18.82
+years) were students at a private liberal arts college in North Carolina enrolled in an introductory psychology course. The four available sections of introductory psychology (ranging in size from 17
+to 32 students) were randomly assigned to either the experimental
+or control conditions.
+
+Procedure
+After signing a consent form, participants received instructions
+and then viewed one of two PowerPoint presentations, containing
+either the experimental or the control images. To increase task focus, we told participants that, at the end of the study, we would
+test their memory for the images they viewed and that those scoring highest on this memory test would be eligible to win a $25 gift
+certiﬁcate to a popular store. Participants completed the questionnaires, presented in one of two random orders to control for order
+effects, and were debriefed. During the entire experiment, care was
+taken to ensure they were neither exchanging information nor discussing the images. Gift certiﬁcates were awarded as promised.
+Experimental manipulation
+The experimental group viewed a PowerPoint presentation of
+images of sex-typed video game characters similar to those described by Dill and Thill (2007). The games covered in the presentations included GTA: Vice City, GTA: San Andreas, Dead or Alive
+Xtreme Beach Volleyball 2, BMX XXX, Saint’s Row, Resident Evil and
+Gears of War. See Fig. 1 for an example image.
+Control group participants viewed press photos of current US senators and congresspersons—half male and half female (see Fig. 1). Our
+goal was to present images of both men and women as respected professionals. Both PowerPoint presentations were set to automatically
+display each image for ten seconds and to continuously loop for a total
+of ten minutes. The experimental and the control presentations each
+had a total of 32 images (16 males and 16 females).
+It is important to note that, theoretically, these stimuli served as
+both a manipulation and as a prime. As previous research shows
+(Dill & Thill, 2007, Study 2), college students are aware of sexist
+stereotypes in video games. Seeing only the images presented in
+this study should affect participants. However, because most
+American youth have grown up in the video game culture, the
+images in the experimental condition also serve as a prime for all
+the other sexist images of video game characters they have seen
+in their lifetimes, thus making the manipulation more powerful.
+Materials
+Sexual harassment judgments
+The authors created a measure of sexual harassment judgments
+(SHJ) for the current investigation (see Appendix). Participants read
+a real-life story of sexual harassment perpetrated by a male college
+professor against a female student. This was adapted from The Silent
+Treatment by Naomi Wolf (2004). The scenario was chosen in part for
+its complexity and ambiguity. The nuances of the social situation described create a story that is more open for interpretation and therefore offers what we hope is a more sensitive measure of sexual
+harassment. Subjects responded to seven questions about their
+judgments of the event. Participants rated the incident as constituting sexual harassment and as a serious and damaging offense. They
+also reported their empathy for the victim, and the extent to which
+they blamed the victim. Two items measured their choice of punishment for the perpetrator. The entire measure is included in the
+Appendix. We crafted the judgment questions to be open, balanced,
+and not leading. For example, rather than asking simply ‘‘Is this sexual harassment?” we asked, ‘‘If the student’s story is true, would you
+personally believe that Prof. Bloom is guilty of sexual harassment?”
+We created a sexual harassment composite score by summing
+scores on the seven-item scale. Six of the items used 0–9 scales.
+Each punishment checklist item was assigned a value from 0 to
+7. The ﬁnal composite score could range from 0 to 61. Higher
+scores indicated more progressive sexual harassment judgments
+(SHJ). Scale reliability was .786 based on a sample size of 179
+(two participants were excluded due to missing data).
+
+Author's personal copy
+
+K.E. Dill et al. / Journal of Experimental Social Psychology 44 (2008) 1402–1408
+
+1405
+
+Fig. 1. Two stimuli used in the current investigation: A stereotypical (experimental) female (Left) and a professional (control) female (Right). The videogame image is a screen
+shot from the video game BMX XXX published in 2002 by Acclaim Entertainment. The professional image is Senator Mary Landrieu (D-La) – http://landrieu.senate.gov/.
+
+Rape-supportive attitudes. The 20-item short form of Muehlenhard and Felt’s (1998) Sexual Beliefs Scale is designed to measure speciﬁc attitudes linked to violence against women. These
+attitudes, organized into ﬁve subscales include the following
+content areas: Leading On Justiﬁes Force, Token Refusals, Women Like Force, No Means Stop, and Men Should Dominate. This
+scale is far less commonly used than Burt’s (1980) measure of
+RMA and thus will provide new data to the literature on media
+violence effects generally, and video game violence and stereotype effects speciﬁcally. Reliability statistics (alphas) for these
+subscales were good, ranging from .714 (Token Refusals) to
+.944 (No Means Stop).
+Composite scores of the twenty-item Sexual Beliefs Scale could
+range from 0 to 60 with higher scores indicating greater rape supportive beliefs. Scale reliability was .834 based on a sample size of
+180 (one participant was excluded due to missing data).
+Video game questionnaire-Checklist version (VGQ-C). We created a
+simpliﬁed version of Anderson and Dill’s (2000) measure of violent
+video game play. We asked ‘‘Which type of video games do you play
+most often?” Participants responded by checking all game types that
+applied from the following list: action, ﬁrst-person shooter, sports,
+ﬁghting, adventure, strategy, role playing game, puzzle, racing, music and dancing. They then rated how often they play video games on
+a scale ranging from 0 (never) to 5 (often). They also indicated how
+many hours per weekday and per weekend day they typically play
+video games. We calculated Violent Video Game Exposure (VVGE)
+by adding together the number of violent video games (action, ﬁrst
+person shooter, and ﬁghting) and multiplying that by how often
+the subjects played video games.
+Results
+Full factorial models for sexual harassment judgments and rapesupportive attitudes
+First, we ran a full factorial ANOVA with the experimental
+manipulation (Media Content: Sex-Typed Video game Images vs.
+Professional Images) and sex of subject as independent variables
+
+and the composite score for sexual harassment judgments as the
+dependent variable. Results indicated a main effect of the Media
+Content variable (F(1, 175) = 4.15, p < .05, g2 = .023) and a main effect of sex (F(1, 175) = 13.63, p < .0001, g2=.072). There was also a
+signiﬁcant interaction between Media Content and sex of subject
+(F(1, 175) = 9.33, p < .01, g2 = .051). Tolerance for sexual harassment was greatest for males in the Stereotypical group
+(M = 41.0), followed by males in the control group (M = 47.64),
+and females in the control group (M = 48.47). The group with the
+least tolerant attitudes towards sexual harassment were the
+females in the Stereotypical group (M = 49.8) (Fig. 2).
+Based on the observed pattern of means, we ran a 3-to-1
+contrast to determine if males in the Stereotypical group scored
+signiﬁcantly lower than the other three groups. This 3-to-1
+contrast was signiﬁcant (t(175) = 4.667, p < .001). Post-hoc
+comparisons also revealed a signiﬁcant difference between males
+in the Stereotypical and Professional groups (mean difference = 6.64, p < .002), but not between females in the Stereotypical
+and Professional groups (mean difference = 1.33, p > .05).
+Next we ran the same full factorial model, but with Rape-Supportive Attitudes as the dependent measure. The only signiﬁcant
+factor in this model was sex of subject (F(1, 176) = 16.72,
+p < .0001, g2=.087) with males (M = 1.08) scoring signiﬁcantly
+higher on the Rape-Supportive Attitudes measure than females
+(M = 0.84).
+Video game violence exposure (VVGE). Males reported playing
+video games an average of 7.26 h per week, while females played
+an average of 2.71 h per week. Composite scores of the VVGE
+variable indicated that males (M = 4.0) reported playing
+signiﬁcantly more violent video games than did females
+(M = .6833), (F(1, 177) = 60.45, p < .0001, g2=.255).
+First we ran correlations and found, as hypothesized, that some
+signiﬁcant relationships did exist between VVGE and our outcome
+measures. Speciﬁcally, VVGE was negatively correlated with sexual
+harassment judgments (r = .232, p < .001) such that those with
+more reported long-term exposure to violent video games increased tolerance towards sexual harassment. Also, VVGE was signiﬁcantly correlated with Rape Supportive Attitudes, r = .239,
+
+Author's personal copy
+
+Sexual harassment judgments
+
+1406
+
+K.E. Dill et al. / Journal of Experimental Social Psychology 44 (2008) 1402–1408
+
+search should examine the possibilities surrounding the notion
+that exposure to common stereotypes of men and women in video
+games might fuel adversarial relations between men and women.
+
+50
+
+Men
+Women
+
+49
+48
+
+Long-term versus short-term exposure
+
+47
+46
+45
+44
+43
+42
+41
+40
+
+Stereotypical
+
+Professional
+
+Media content group
+Fig. 2. Sexual harassment judgments as a function of media content exposure
+(Stereotypical or Professional) and participant sex. The scale for sexual harassment
+judgments ranged from 0 (least progressive) to 61 (most progressive).
+
+p < .001. Subjects with higher violent video game exposure showed
+greater Rape Supportive Attitudes. We then ran these same correlations using exposure only to ﬁrst person shooter games. Results
+indicated slightly larger correlations between exposure to ﬁrst person shooter games and sexual harassment judgments (r = .327,
+p < .001) and Rape Supportive Attitudes (r = .256, p < .0001).
+Next we added VVGE (both the general composite and the shooter games variable) as an independent variable to the full factorial
+ANOVAs reported above to determine if more complex relationships could be demonstrated. Results indicated no signiﬁcant
+effects of VVGE either on sexual harassment judgments or on
+Rape-Supportive Attitudes (p > .05). However, the other results
+reported above remained essentially unchanged.
+Discussion
+Results indicate support for H1—that a short-term experimental
+manipulation of exposure to media content (sex-typed images
+versus professional images) altered judgments about sexual
+harassment. Detailed analysis revealed that males who saw the
+sex-typed images were most tolerant of sexual harassment when
+judging a real-life case of sexual harassment between a female college student and her male professor. There was no experimental
+support for H2 in that sex of subject was the only signiﬁcant
+variable in the full factorial analysis.
+Media exposure interaction with sex on sexual harassment judgments
+An intriguing ﬁnding that resulted from this investigation was
+the signiﬁcant interaction that occurred with the sexual harassment judgments. Analyses revealed that men showed a greater tolerance for sexual harassment of a young woman by an older man
+(her professor). Most interestingly, the males who were exposed
+to the objectiﬁed female video game characters were the most tolerant of any of the groups towards sexual harassment. Furthermore, the trend was for the females who were exposed to these
+same demeaning and objectiﬁed images of women to react by
+decreasing their tolerance for sexual harassment—even compared
+to women who had just seen empowered female political ﬁgures.
+This may be because when women see that they are being stereotyped as lesser than men—as objectiﬁed and demeaned compared
+to powerful men—they are energized to advocate for the just treatment of women. Taken together then, media images of demeaned
+women cause men to advocate keeping women ‘‘in their place,”
+while they cause women to advocate for social justice. Future re-
+
+Although more complex models did not indicate signiﬁcant
+effects of long-term exposure to video game violence, simpler
+correlational analyses did reveal signiﬁcant relationships between long-term violent video game exposure and less progressive sexual harassment judgments and greater rape supportive
+attitudes. These correlations are similar to those reported in earlier research (Dill, 2008). It may be that the checklist measure of
+long-term video game violence exposure used here is a weaker
+measure than the game-listing version used in a variety of other
+investigations. Furthermore, there is a difference between the
+still images used in the experimental manipulation and the live
+action game content that the long-term measure represents.
+While these results add to the very small literature correlating
+long-term exposure to video game violence with attitudes supporting violence against women, more research is needed to elucidate these relationships.
+The experimental and control groups
+In this experiment, we designed the experimental versus control conditions in a unique way. A textbook experimental versus
+control condition would have been more convincingly achieved
+by comparing video game characters that were sex-typed with
+those who were not. That design has clear strengths. In the present
+study, our two conditions were designed to differ from each other
+on the dimension of the social status of women: namely whether
+the females were presented as demeaned and objectiﬁed (disrespected) versus as positive and professional (respected). Also the
+males were strong in both conditions, but they were stereotypically manly (most notably, aggressive) in the sex-typed condition,
+but, like the women, were respectable professionals in the comparison condition. These categories were inspired by the work of Lanis
+and Covell (1995) on magazine images of demeaned versus
+esteemed women and also by the theories described above. A critical theoretical variable in the representation of women is social
+status. A common thread in research on media and women is that
+women suffer from representations that demean them as compared to men. These themes are present in Hegemonic Masculinity
+Theory and in Ambivalent Sexism Theory. They are also relevant to
+research on representations of women in pornography and its
+relationship to violence against women. We believe our conditions
+spoke to what was theoretically most important.
+There is also a practical aspect to media research that was
+important in guiding our design of the experimental and control
+conditions. As past research in our lab has shown (Dill & Thill,
+2007, Study 2) the vast majority of male video game characters
+are aggressive and manly in the sense of hegemonic masculinity
+(including social power and dominance). Most female video game
+characters are objectiﬁed and demeaned. These are sex-role stereotypes that youth are exposed to in real life. Therefore they represent their real experiences with socialization better than would
+the creation of artiﬁcial avatars. As an example of this point, in earlier research in our lab we attempted to measure positive behavior
+enacted by video game characters. Unfortunately, we found few
+positive behaviors to code. When research assistants started asking
+whether an armed male video game character assisting another
+character to break out of prison could be coded as a positive behavior, it was clear that true positive behaviors were scarce. On the
+other hand, it is encouraging to note that people really are exposed
+to examples of respected male and female professionals such as the
+
+Author's personal copy
+
+1407
+
+K.E. Dill et al. / Journal of Experimental Social Psychology 44 (2008) 1402–1408
+
+actual congresspersons we showed our subjects. In that sense, our
+study had greater validity than would artiﬁcially created avatars.
+In the end, we believe we demonstrated a difference between
+how men and women reacted when exposed to negative, sextyped images versus professional images—both of which were
+realistic in their own ways. We know they behaved differently
+from each other but not how they would have behaved compared
+to a no treatment control group or a control group that was
+designed differently. It does remain a weakness of the design that
+the congresspersons were real people and the video game characters were not. Could we have designed or located avatars that
+would have evoked the kind of success and respect one attributes
+to senators? Especially because there is so little published
+research in this area, future research will add to our body of
+knowledge in this regard. One important outcome this research
+demonstrates is that exposure to different kinds of media images
+of women changes the level of tolerance some people have for
+judgments and attitudes relevant to violence against women.
+For example, exposure to demeaning images of women may
+cause males to be more tolerant of sexual harassment towards
+women in their workplace or school.
+A strength of this investigation is that it is the ﬁrst experimental
+investigation of short-term exposure to negative sex role stereotypes of video game characters. It extends the video game violence
+effects literature into the domain of aggression against women.
+These experimental results on sexual harassment judgments also
+have real world consequences since males are more likely than
+females to play violent video games, and since men are often in
+positions of power. Our results suggest that men may disregard
+women’s reports of sexual harassment, blame the victim and
+assign weaker punishments to perpetrators, thus condoning sexual
+harassment and punishing victims. Sexual harassment is both a
+form of aggression against women and a form of gender discrimination and is a serious and widespread social problem. Given the
+popularity of video games, especially among young men, and the
+typicality of sex role stereotypes in games and game magazines,
+the effects reported here are important.
+Past research has shown that when sexual harassment involved
+a man touching a woman, ratings of the harassment tended to be
+uniformly high, whereas verbal harassment scores were affected
+by exposure to negative female stereotypes in the media (Ferguson
+et al., 2005). The scenario employed in our study (see Appendix)
+involved a male professor putting his hand on a female student’s
+thigh. The victim was a high-achieving, independent-minded
+female student. Past research (Berndahl, 2007; Maass, Cadinu,
+Guarniari, & Grasselli, 2003) indicates that men are more likely
+to sexually harass so-called ‘‘uppity” (independent, androgynous)
+women and feminist women. Our research therefore adds to this
+literature. Future research should address what characteristics of
+harassment scenarios are sensitive to manipulations of sex-stereotyped content.
+Within the context of the General Aggression Model (Anderson
+et al., 2007), the stimuli used in this study presumably primed
+associated thoughts. In the experimental group, this included
+knowledge structures relevant to a male-dominated socio-cultural
+structure. Though we did not measure affect, priming may also
+have activated associated affect. Future research could test
+whether these types of stimuli evoke affective responses and
+whether they mediate or moderate attitudinal and/or behavioral
+outcomes.
+Video game images and stories are a dynamic part of our
+social worlds, providing information about what we should or
+could do, think and feel. Even young people who are not avid
+gamers are familiar with gender stereotypes in video games
+(Dill & Thill, 2007) but, at the same time, do not believe their
+attitudes and behaviors are negatively inﬂuenced by exposure
+
+to these stereotypes (Brenick, Henning, Killen, O’Connor, & Collins, 2007). The current investigation calls those attitudes into
+question and suggests an important line of inquiry for future
+research.
+Appendix Social. attitudes questionnaire
+From ‘‘The Silent
+newyorkmetro.com
+
+Treatment”
+
+by
+
+Naomi
+
+Wolf—from
+
+Instructions: The following story is about a student’s experiences
+with one of her college professors. Please read the story and answer the questions that follow it.
+‘‘. . .What actually happened in late fall, 1983? I was a senior,
+majoring in English. Harold Bloom was one of Yale’s most illustrious professors. . ..
+I, personally, was at once drawn to him intellectually and
+slightly scared of him. I had audited a famous course he taught,
+and he had reached out to me then and invited me to talk with
+him. Since he was so intellectually selective, I was ‘‘sick with
+excitement” at the prospect. . .
+Bloom agreed to meet with me weekly. At my adviser’s suggestion, he wrote me a letter of reference for my Rhodes Scholarship
+application. Then I could not get a meeting with him. The semester
+was slipping away. . .Finally, Bloom suggested that he come to the
+house I shared with one of his editorial assistants and her boyfriend. At dinnertime. I agreed.
+The four of us ate a meal. He had, as promised, brought a
+bottle of Amontillado, which he drank continually. I also drank.
+We had set out candles—a grown-up occasion. The others eventually left and—ﬁnally!—I thought we could discuss my poetry
+manuscript. I set it between us. He did not open it. He did
+not look at it. He leaned toward me and put his face inches
+from mine. ‘‘You have the aura of election upon you,” he
+breathed.
+I hoped he was talking about my poetry. I moved back and took
+the manuscript and turned it around so he could read.
+The next thing I knew, his heavy, boneless hand was hot on my
+thigh.
+I lurched away. ‘‘This is not what I meant,” I stammered. The
+whole thing had suddenly taken on the quality of a bad horror ﬁlm.
+The ﬂoor spun. By now my back was against the sink, which was as
+far away as I could get. He moved toward me. I turned away from
+him toward the sink and found myself vomiting. Bloom
+disappeared.
+When he reemerged—from the bedroom with his coat—a
+moment later, I was still frozen, my back against the sink.
+He said: ‘‘You are a deeply troubled girl.” Then he went to
+the table, took the rest of his sherry, corked the bottle, and
+left.”
+Circle your answer on the scales below:
+1) If the student’s story is true, would you personally believe that
+Prof. Bloom is guilty of sexual harassment?
+0
+1 2 3 4 5 6 7 8 9
+Not at all guilty
+Deﬁnitely guilty
+
+2) If Prof. Bloom admitted doing what the student accused him of
+doing, how harshly do you think he should be punished?
+0
+1 2 3 4 5 6 7 8 9
+No punishment
+Severe punishment
+3) If the story about Prof. Bloom is true, which of the following punishments do you think the he would deserve? Assume they are in
+order from least to greatest punishment. (Check one).
+
+Author's personal copy
+
+1408
+
+K.E. Dill et al. / Journal of Experimental Social Psychology 44 (2008) 1402–1408
+
+_
+_
+_
+_
+_
+
+No punishment
+being asked to apologize to the student
+being given a verbal reprimand from his supervisor
+being given a written reprimand from his supervisor
+being warned that repeating this type of behavior may
+result in his getting ﬁred in the future
+_ being forced to take time off his job without pay
+_ being ﬁred from his job
+4) To what extent do you think the student is to blame for the
+professor touching her thigh? In other words, did the student do
+something to cause the professor’s behavior?
+0
+1 2 3 4 5 6 7 8 9
+Clearly
+Not at all
+responsible for
+responsible for
+Professor’s
+Professor’s
+behavior
+behavior
+
+5) Should the student’s complaint be taken seriously?
+0
+1 2 3 4 5 6 7 8 9
+No her complaint
+Yes, her complaint
+is trivial
+is serious
+
+6) Do you feel sorry for the student in the story?
+0
+1 2 3 4 5 6 7 8
+No, not at all sorry
+
+9
+Yes, very sorry
+
+7) How damaging do you think professor’s behavior was to the
+student?
+0
+1 2 3 4 5 6 7 8 9
+Not at all damaging
+Very damaging
+
+References
+Anderson, C. A., Berkowitz, L., Donnerstein, E., Huesmann, L. R., Johnson, J. D., Linz,
+D., et al. (2003). The inﬂuence of media violence on youth. Psychological Science
+in the Public Interest, 4(3), 81–110.
+Anderson, C. A., & Bushman, B. J. (2001). Effects of violent video games on aggressive
+behavior, aggressive cognition, aggressive affect, physiological arousal, and
+prosocial behavior: A metaanalytic review of the scientiﬁc literature.
+Psychological Science, 12, 353–359.
+Anderson, C. A., & Dill, K. E. (2000). Video games and aggressive thoughts, feelings,
+and behavior in the laboratory and in life. Journal of Personality and Social
+Psychology, 78, 772–790.
+Anderson, C. A., Gentile, D. A., & Buckley, K. E. (2007). Violent video game effects on
+children and adolescents. New York: Oxford.
+Bartholow, B. D., Sestir, M. A., & Davis, E. (2005). Correlates and consequences of
+exposure to video game violence: Hostile personality, empathy, and aggressive
+behavior. Personality and Social Psychology Bulletin, 31, 1573–1586.
+Berndahl, J. (2007). Sexual harassment of uppity women. Journal of Applied
+Psychology, 92, 425–437.
+Brenick, A., Henning, A., Killen, M., O’Connor, A., & Collins, M. (2007). Social
+reasoning about stereotypic images in video games: Unfair, legitimate, or ‘‘just
+entertainment”? Youth and Society, 38, 395–419.
+Burgess, M. C. R., Stermer, S. P., & Burgess, S. R. (2007). Sex, lies, and videogames:
+The portrayal of male and female characters on videogame covers. Sex Roles, 57,
+419–433.
+
+Burt, M. (1980). Cultural myths and supports for rape. Journal of Personality and
+Social Psychology, 38, 217–230.
+Connell, R. W. (1987). Gender and power. Stanford, CA: Stanford University Press.
+Crawford, M., & Unger, R. (2004). Women and gender: A feminist psychology. Boston:
+McGraw-Hill.
+Dill, K. E. (2008). Do anti-social video games foster sexism and violence against
+women? A study of pro-rape, anti-women attitudes among gamers. [Under
+contract to be published by Greenwood Press in Violence against women in
+families and relationships edited by Evan Stark and Eve S. Buzawa].
+Dill, K. E., Gentile, D. A., Richter, W. A., & Dill, J. C. (2005). Violence, sex, race, and age
+in video games: A content analysis. In E. Cole & J. Henderson Daniel (Eds.),
+Featuring females: Feminist analyses of the media. Washington, DC: American
+Psychological Association.
+Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender
+roles: Young people’s perceptions mirror sexist media depictions. Sex Roles, 57,
+851–865.
+Ferguson, T., Berlin, J., Noles, E., Johnson, J., Reed, W., & Spicer, C. V. (2005). Variation
+in the application of the ‘‘promiscuous female” stereotype and the nature of the
+application domain: Inﬂuences on sexual harassment judgments after exposure
+to the Jerry Springer Show. Sex Roles, 52, 477–487.
+Funk, J. B., Germann, J. N., & Buchman, D. D. (2000). Preference for violent electronic
+games, self-concept and gender differences in young children. American Journal
+of Orthopsychiatry, 70, 233–241.
+Glick, P., Fiske, S. T., Masser, B., Manganelli, A. M., Huang, L., Castro, Y. R., et al.
+. Journal of Personality and Social Psychology, 86, 713–772.
+Johnson, J. D., Adams, M. S., Ashburn, L., & Reed, R. (1995). Differential gender effects
+on exposure to rap music on African-American adolescents’ acceptance of teen
+dating violence. Sex Roles, 33, 597–606.
+Lanis, K., & Covell, C. (1995). Images of women in advertisements: Effects on
+attitudes related to sexual aggression. Sex Roles, 32, 639–649.
+Looby, E. J. (2001). The violence of sexual harassment: Physical, emotional and
+economic victimization. In D. S. Sandhu (Ed.), Faces of violence: Psychological
+correlates concepts and intervention strategies. Hauppauge, NY: Nova Science.
+Lull, J. (2003). Hegemony. In G. Dines & J. M. Humez (Eds.), Gender race, and class in
+media: A text reader. Thousand Oaks, CA: Sage.
+Malamuth, N. M., Heavy, C. L., & Linz, D. (1993). Predicting men’s antisocial behavior
+against women: The interaction model of sexual aggression. In R. Hirshman, G.
+Hall, & J. Graham (Eds.), Sexual aggression: Issues in etiology, assessment and
+treatment. Philadelphia: Taylor & Francis.
+Maass, A., Cadinu, M., Guarniari, G., & Grasselli, A. (2003). Sexual harassment under
+social identity threat: The computer harassment paradigm. Journal of Personality
+and Social Psychology, 85, 853–870.
+Mastronardi, M. (2003). Adolescence and media. Journal of Language and Social
+Psychology, 22(1), 83–93.
+Mikula, M. (2003). Gender and video games: The political valency of Lara Croft.
+Journal of Media & Cultural Studies, 17(1), 79–87.
+Milburn, M. A., Mather, R., & Conrad, S. D. (2000). The effects of viewing R-rated
+movie scenes that objectify women on perceptions of date rape. Sex Roles, 43,
+645–664.
+Muehlenhard, C. L., & Felts, A. S. (1998). Sexual beliefs scale. In C. M. Davis, W. L.
+Yarber, R. Bauserman, G. Schreer, & S. L. Davis (Eds.), Handbook of sexualityrelated measures. Thousand Oaks: Sage.
+Murnen, S. K., Wright, C., & Kaluzny, G. (2007). If boys will be boys, then girls will be
+victims? A meta-analytic review of the research that relates masculine ideology
+to sexual aggression. Sex Roles, 46, 359–375.
+O’Leary-Kelly, A. M., Paetzold, R. L., & Grifﬁn, R. W. (2000). Sexual harassment as
+aggressive behavior: An actor-based perspective. Academy of Management
+Review, 25, 372–388.
+Scharrer, E. (2004). Virtual violence: Gender and aggression in video game
+advertisements. Mass Communication and Society, 7, 393–412.
+Scharrer, E. (2005). Hypermasculinity, aggression and television violence: An
+experiment. Media Psychology, 7, 353–376.
+Stark, E. (2007). Coercive control. New York: Oxford.
+Top 25 PS2 Games of All Time: You are Not E for Our Countdown of the Coolest Sony
+Software There Is (2007, March). Retrieved July 5, 2007 from http://ps2.ign.com/
+articles/772/772296p3.html.
+Vargas, J. A. (2007). Shadow Player. Washington Post [online edition], Retrieved July
+5, 2007 from http://www.washingtonpost.com/wp-dyn/content/article/2006/
+05/10/AR2006051002449.html.
+Walsh, D., Gentile, D. A., VanOverbeke, M., & Chasco, E. (2002). Mediawise video
+game
+report
+card.
+Retreived
+January
+15,
+2003,
+from
+http://
+www.mediafamily.org/research/report_vgrc_2002-2.shtml.
+Wolf, N. (2004). The Silent Treatment. New York Magazine, Retrieved August 23,
+2007 from http://nymag.com/nymetro/news/features/n_9932/.
+
+

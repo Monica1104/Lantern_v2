@@ -1,0 +1,1591 @@
+University of Southern Maine
+
+USM Digital Commons
+School of Social Work
+
+7-2008
+
+Comparing the Impact of Bullying and Sexual
+Harassment Victimization on the Mental and
+Physical Health of Adolescents
+James Gruber
+University of Michigan - Dearborn
+
+Susan Fineran
+University of Southern Maine, sfineran@maine.edu
+
+Follow this and additional works at: http://digitalcommons.usm.maine.edu/swo
+Part of the Gender and Sexuality Commons, Social Psychology and Interaction Commons, and
+the Social Work Commons
+Recommended Citation
+Gruber, J., & Fineran, S. (2008). Comparing the Impact of Bullying and Sexual Harassment Victimization on the Mental and Physical
+Health of Adolescents. Sex Roles, 59(1/2), 1-13.
+
+This Article is brought to you for free and open access by USM Digital Commons. It has been accepted for inclusion in School of Social Work by an
+authorized administrator of USM Digital Commons. For more information, please contact jessica.c.hovey@maine.edu.
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+
+Comparing the Impact of Bullying and Sexual Harassment Victimization on the Mental and
+Physical Health of Adolescents
+
+James Gruber
+
+Susan Fineran
+
+James E. Gruber, Ph.D. is Professor, University of Michigan at Dearborn, Sociology
+Department. Susan Fineran, Ph.D. is Associate Professor, University of Southern Maine School
+of Social Work. Address correspondence to James E. Gruber, Ph.D., University of Michigan Dearborn, Behavioral Sciences Dept., 4012 CASL Building, 4901 Evergreen Road, Dearborn,
+MI 48128.Telephone: 313-593-5611 [e-mail: jegruber@umich.edu
+
+Header: ADOLESCENT SEXUAL HARASSMENT AND BULLYING
+
+1
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+
+Abstract
+A sample of 522 middle and high school students from a school district in a northeastern state in
+the U.S. was used to address two questions about bullying and sexual harassment: Is one more
+frequent than the other, and are there gender or sexual orientation differences in this regard?
+And, does one have greater adverse health effects than the other, and, if so, for whom? Bullying
+occurred more frequently than sexual harassment for both girls and boys but not among sexual
+minorities. Girls were bullied or harassed as frequently as boys, but sexual minorities
+experienced higher levels of both. Compared to bullying, sexual harassment had adverse effects
+on more health outcomes. These adverse effects were especially notable among girls and sexual
+minorities.
+
+Keywords: Sexual harassment; bullying; adolescents; health; gender differences
+
+2
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+
+This paper draws comparisons between school bullying and sexual harassment on two
+fronts. First, we study the incidence of each in a sample of over five hundred American middle
+and high school students. We ask: Which (bullying or harassment) is the more common
+experience? And, does one occur more frequently for some students (e.g., boys) than for others
+(e.g., girls and sexual minorities)? Second, we contrast the impact of each type of victimization
+on five health outcomes (self esteem, mental and physical health, trauma symptoms, and
+substance abuse). We ask: Is one type of victimization more harmful than the other? And, do
+the negative health outcomes of bullying and sexual harassment differ among boys, girls, and
+sexual minorities? At first glance, these analyses might seem straightforward and unremarkable
+given the large volume of research on school bullying and sexual harassment that has been
+published in the United States and Europe over the last decade. In reality, such comparisons
+have been and remain problematic for reasons both theoretical and methodological. And the
+need for a study of this kind has become more urgent because of the scholarly and public
+popularity of one topic over the other. Not only is attention to school sexual harassment waning
+but it is in danger of being subsumed under the rubric of bullying, namely, “sexual bullying,”
+thereby obscuring the pernicious effects of gender and sexual stereotypes. As we will show
+later, our paper is unique in two respects. First, we directly compare bullying and sexual
+harassment. Only a handful of studies include measures of both types of victimization. Second,
+
+3
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+our measures of bullying and sexual harassment use the same formats (i.e., structure of questions
+and response categories, time frames), which, to the best of our knowledge, is without precedent.
+School bullying and sexual harassment prevention programs have been competing for
+resources and media attention for more than a decade. In the aftermath of Columbine-type school
+shootings, many educators have embraced zero tolerance policies to stem school violence (Stein,
+2003). Identifying school violence and safety as primary concerns has contributed to the creation
+of a link between safe schools and bullying prevention, which, unfortunately, has diminished
+attention to the harms of sexual harassment. The growing emphasis on bullying is best
+illustrated by an online literature search which reveals that the volume of studies, papers and
+prevention programs addressing bullying far exceeds that on sexual harassment. Moreover,
+sexual harassment is currently viewed by some researchers as a subset or variation of bullying
+rather than as a distinct phenomenon sui generis. As a result, educators and social researchers
+today are in the difficult position of trying to understand two frequently occurring problems in
+school without being able to accurately compare the incidence and impact of each. Different
+avenues of research—one on bullying, the other on sexual harassment—suggest that they may
+share some similar impacts: anxiety, depression, low self esteem, loneliness, and feeling afraid
+(e.g., Nansel, Overpeck, Pilla, Ruan, Scheidt, & Simons-Morton, 2001; American Association of
+University Women [AAUW], 1993, 2001). In actuality, it is difficult to compare them directly.
+Background of Two Paradigms
+Studies of bullying and sexual harassment have two different historical and theoretical
+roots. The problem of bullying was brought to international attention most prominently by
+Olweus, a Norwegian researcher in the 1970’s. Nansel et al. (2001) have recently defined
+
+4
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+bullying in a manner that reflects the perspective developed and subsequently modified over the
+years by Olweus: “a specific type of aggression in which (1) the behavior is intended to harm or
+disturb, (2) the behavior occurs repeatedly over time, and (3) there is an imbalance of power,
+with a more powerful person or group attacking a less powerful one. This asymmetry of power
+may be physical or psychological, and the aggressive behavior may be verbal (e.g. name calling,
+threats), physical (e.g. hitting), or psychological (e.g. rumors, shunning/exclusion)" (p.2094).
+School bullies have been described as children who use physical or relational aggression in a
+systematic and calculated way with a group of weaker peers (Crick, 1996; Olweus, 1993;
+Pellegrini, 2001; Schwartz, Dodge, Pettit, & Bates, 1997).
+Theories and definitions of sexual harassment originated in the United States in the
+1970’s beginning with the work of MacKinnon, who defined it as a form of sex discrimination
+used by men to subordinate women (1979). While bullying has often been characterized as
+inappropriate or aggressive interpersonal behavior (between individuals or between a group and
+an individual (‘mobbing’), sexual harassment was originally formulated as behavior by males
+who used organizational power or cultural privilege to coerce sexual favors from women (quid
+quo pro). This initial formulation has expanded both theoretically and legally over the decades to
+include gender- or sexually-focused behaviors by men that make it exceedingly difficult for
+women to work (hostile environment), and more recently, same-sex harassment involving the use
+of sexual threats, taunts, or attacks (e.g., Oncale v. Sundowners, 1998). The definition of sexual
+harassment by the U.S Department of Education parallels that of other state and local
+governments and government agencies insofar as it includes both unwelcome interpersonal
+
+5
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+behavior (e.g., date pressures, sexual contact) “that is sufficiently severe, persistent, or
+pervasive…” and hostile environment (U.S. Department of Education 1997, p. 12038).
+The primary distinction between bullying and sexual harassment is not simply that the
+latter is about gender and sexuality. Rather, sexual harassment is more directly and clearly
+related to hegemonic masculinity and therefore taps into potent structural and culturallysanctioned roles and meanings (masculine-feminine, heterosexual-homosexual) that are central
+components of social stratification. In contrast, research and theory on bullying tends to focus on
+the personal or psychological characteristics of bullies (e.g., severe adjustment problems),
+situational factors that prompt bullying or the reciprocity of bullying behaviors (a number of
+adolescents are characterized as “bully/victims”). One of the strengths of sexual harassment
+theory is that it prioritizes gender- and sexually-based experiences as key factors in stabilizing
+differences in power and privilege. Specifically, some people (females and sexual minorities)
+experience greater victimization and more harm (physical, psychological, and emotional) than
+others because of gender and sexual stereotypes. The term "sexual bullying" has surfaced
+recently and has muddled the definition of both sexual harassment and bullying. Some
+researchers (Craig et al., 2001; Pellegrini, 2001) view school sexual harassment as an adolescent
+form of bullying. This is an unfortunate development for two reasons. First of all, bullying is not
+illegal but sexual harassment is. Consequently, many students and their parents who perceive
+sexual harassment as a form of bullying may not exercise their rights to have schools address the
+issue as they are legally mandated to do. Also, when sexually-based experiences are viewed as
+bullying and not identified specifically as sexual harassment, problems of victimization that
+stem from gender or sexuality may be interpreted as private or interpersonal troubles experienced
+
+6
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+by unfortunate students who are caught up in difficult situations. The fact that most bullies are
+male, that girls experience more harm than boys from sexual harassment, and that homophobic
+comments are used routinely (mostly by boys) to humiliate and control others (primarily other
+boys) loses it critical edge (AAUW, 2001; McGuffey & Rich, 1999; Kimmel & Mahler, 2003).
+Two recent studies by Jessie Klein (2006a, 2006b) have highlighted the role that gender and
+sexual stereotyping played in school shootings—a fact that has escaped public scrutiny because
+of a focus on “bullying”: Most of the school shooters targeted girls primarily; and, the shooters,
+who fell well outside the range of acceptable masculine body types, had weathered attacks on
+their masculinity, including homophobic taunts, for months—and in some cases, years.
+Bullying and Sexual Harassment Incidence
+To date, there have been two national studies of bullying and two of sexual harassment
+that provide the broadest statistics regarding these behaviors in U.S. schools. The United States
+Department of Education School Crime Supplement to the National Crime Victimization Survey
+(2003) reported that in 2001 8% of middle and high school students were bullied (9% males, 7%
+females) up 3% from 1999. An earlier study on bullying, conducted by the 1998 National
+Institute of Child Health and Human Development (Nansel et al, 2001) found that one third of
+children in grades 6 through 10 were directly involved in bullying, with 10 % as bullies, 13% as
+victims and 6% as both. Two national studies on sexual harassment conducted in 1993 and 2001
+by The American Association of University Women (AAUW) found similar results for both
+years: 81% of students experienced some form of sexual harassment during their school years.
+Fifty-nine percent of students were harassed occasionally and 27% were targeted often (AAUW,
+2001). In addition, 54% of students said they sexually harassed someone during their school
+
+7
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+years. In a fashion similar to bullying, grade level makes a difference in sexual harassment
+frequency; but in contrast to bullying, it increases with grade level: 55 % of 8-9th graders and 61
+% of 10-11th graders reported that they had been physically sexually harassed at school (Hand &
+Sanchez, 2000).
+When the results of these four national studies are compared it is striking that over eighty
+percent of students said they had experienced sexual harassment while less than 1 of 6 reported
+being bullied. Also, more than half of students said they perpetrated sexual harassment while
+only 10% reported bullying others. Students who reported being both harasser and harassed
+constituted 55% (AAUW, 1993) while those who were bullied or who bullied others were about
+a quarter of that figure (NICHHD: Nansel et al, 2001). These differences result most likely not
+from students’ differential experiences (i.e., that sexual harassment is much more common than
+bullying), but rather from substantial differences in measurement. It is difficult to understand
+which behaviors are more common in schools—and which have more adverse effects—because
+researchers use different measures of bullying and sexual harassment and construct different time
+frames. For example, the AAUW studies of sexual harassment used a 14-item scale that asked
+students to indicate the frequency of each experience. In contrast, research based on Olweus
+(1993) uses a single questionnaire item which contains the word “bullying” along with a
+definition (e.g., Elsea, Memesini, Moore, & Morita, 2003; Nansel et al., 2001; Williams,
+Connolly, Pepler, & Craig, 2005). It is likely that this procedure—asking a single question that
+refers to “bullying”—underestimates the number of respondents who have been victims of
+aggressive behavior from their peers. Lessons from sexual harassment research are instructive in
+this regard. By the mid-1980’s the protocol for survey development was to use multiple survey
+
+8
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+items to tap different dimensions of sexual harassment (e.g., Fitzgerald and her colleagues
+identified three forms of sexual harassment—gender harassment, unwanted sexual attention, and
+sexual coercion) and to not use the words “sexual harassment” because doing so lead to
+significantly lower estimates of experiences that could otherwise be deemed “sexual harassment”
+according to theoretical or legal definitions (Fitzgerald & Shullman, 1993; Gruber, 1990).
+Consequently, most harassment surveys over the last two decades have asked respondents if they
+experienced “uninvited and unwanted sexual attention” (e.g., United States Merit System
+Protection Board [USMSPB], 1988, 1995). In this regard, the AAUW surveys ask adolescents
+“How often has anyone done the following things to you when you did not want them to?”
+Additionally, the time frames presented to respondents so that they could determine whether or
+not they were harassed or bullied vary from study to study. While the AAUW studies asked
+students if they had ever had one or more sexual harassment experiences “during your school
+years,” the National Crime Victimization Survey asked about bullying experiences that occurred
+“during the last 6 months.” Different time frames are used in victimization studies even when
+both phenomena are studied together. DeSouza and Ribiero (2005) used “last 30 days” for
+bullying and “last 12 months” for sexual harassment. Similarly, Williams et al. (2005) framed
+bullying as experiences that occurred “during the last 2 months” and sexual harassment as
+“during the last 6 months.” Holt and Espelage (2007), using AAUW (2001) questions with a
+one-year time frame (“during the last twelve months”) along with their own bullying scale items
+and time frame (“last 30 days”) found that 70% of the students had been harassed while a little
+more than half (54%) had been bullied. So, it is not surprising, then, that sexual harassment
+
+9
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+seems to be rampant in schools compared to bullying when the question and response formats
+and the times frames differ substantially.
+Bullying and Sexual Harassment Victimization: Mental and Physical Health Outcomes
+A perusal of the separate research veins on bullying and sexual harassment seems to
+indicate that there are adverse health outcomes common to both. Research conducted by the
+National Institute of Child Health and Human Development (1998) found that bullied students
+experienced greater difficulty making friends, had poorer relationships with classmates, and were
+lonelier. Other studies of bullying have found consistently that "youth who are bullied generally
+show higher levels of insecurity, anxiety, depression, loneliness, unhappiness, physical and
+mental symptoms, and low self esteem" (Nansel et al., 2001, p.2095). Espelage and Holt (2001)
+found that 20% of middle school victims scored within the clinical range on a standard
+depression and anxiety measure. Similarly, Hawker and Boulton (2000) showed that bullied kids
+were five times more likely to be depressed than non-bullied children. According to Hazler,
+Hoover and Oliver (1992) and Kochenderfer and Ladd (1996) bullying affects academic
+behavior as well: The former found that 90% of bullied students experienced a drop in school
+grades, while the latter reported that victimization was related to school absenteeism and
+attrition.
+Some of these adverse effects appear in sexual harassment studies as well. According to
+the AAUW studies (1993, 2001), students who experienced sexual harassment reported negative
+psychosocial effects such as depression, loss of appetite, nightmares or disturbed sleep, low self
+esteem and feelings of being sad, afraid, scared, or embarrassed (Hand & Sanchez, 2000; Lee,
+Cronnger, Linn, & Chen, 1996). Students also reported a loss of interest in regular activities and
+
+10
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+isolation from friends and family. In addition, school performance difficulties included
+absenteeism, decreased quality of schoolwork, skipping or dropping classes, poor grades,
+tardiness, and truancy (AAUW, 1993, 2001; Corbett, Gentry, & Pearson, 1993; Hand & Sanchez,
+2000; Lee et al., 1996)
+Bullying and Sexual Harassment: Gender and Sexual Orientation
+Research suggests that girls are sexually harassed more frequently than boys (e.g.,
+AAUW, 1993, 2001; Fineran & Bennett, 1999), but boys are bullied more often than girls
+(Nansel et al. 2001). Boys are the primary perpetrators of both sexual harassment and bullying
+(AAUW, 1993, 2001; Fineran & Bennett, 1999; Hand & Sanchez, 2000; Lee et al., 1996;
+McMaster, Connolly, Pepler & Craig, 2002). According to Nansel et al. (2001) and others the
+forms of bullying vary by sex: Girls are bullied more frequently than boys through the use of
+rumors and sexual comments (sexual harassment?) while boys more often report being hit,
+slapped or pushed. These gender differences also point to a difference in impact. Apparently,
+victimization has greater impact on girls. Girls experience more negative psychological effects
+from sexual harassment than boys—feeling afraid, self conscious, or embarrassed (Duffy,
+Wareham & Walsh, 2004). And, based on a meta-analysis (Hawker and Boulton, 2000) of peer
+victimization research published over a 20 year time period , bullied girls reported more severe
+health problems (e.g., suicidal behavior) than boys.
+There is limited research on sexual orientation but it is compelling. The Massachusetts
+Youth Risk Behavior Survey (Massachusetts Department of Education, 2007) compared gay,
+lesbian and bisexual students to their peers and found that sexual minority students had higher
+suicidality, were more apt to skip school because they felt unsafe, had been threatened with or
+
+11
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+injured by a weapon at school, and experienced more dating violence and non-conconsensual
+sex. A study of 712 high school students conducted by Fineran (2002) found that sexual
+minority students were physically assaulted and sexually harassed more frequently than
+heterosexual students and they and heterosexual girls reported being significantly more upset and
+threatened by peer sexual harassment than their heterosexual male peers. According to Williams
+et al. (2005), gay and lesbian students also experienced both bullying and sexual harassment at
+higher levels than their heterosexual counterparts; and, according to Poteat and Espelage (2007)
+being the target of homophobic victimization had significant psychological and social
+consequences for students. A recent report (2005) by the Gay, Lesbian and Straight Education
+Network (GLSEN) on Michigan schools revealed that two-thirds of students in their sample were
+harassed because they were, or appeared to be gay or lesbian. More than 80% of these students
+reported hearing derogatory homophobic comments. According to Thurlow (2001), however,
+most adolescents rate homophobic slurs as both more common and less serious than racial slurs.
+It appears, then, that homophobia may be a “normalized” means of categorizing and victimizing
+peers during adolescence that has devastating consequences for some teens, in particular, sexual
+minorities.
+Purpose of the Study
+This study addresses the need for school sexual harassment and bullying to be studied
+together in the same research project. Specifically, we addressed the “How much?” and “With
+what impact?” questions by using survey items that had the same format for both bullying and
+sexual harassment items--e.g., asking students if they have experienced a particular form of
+behavior (without using the words bullying or harassment) “Never,” “A few times” or “Many
+
+12
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+times”)--and the same time frame (“Since the beginning of the school year”). We also utilized
+standardized measures of health outcomes evident in most child and adolescent research that are
+often missing from current sexual harassment and bullying research.
+Research Issues for this Study
+1) The research literature suggests that sexual harassment is more common than bullying.
+This assumption has not been tested meaningfully because of the use of different
+measures and time frames. Since bullying involves both sexes as targets and as
+perpetrators more frequently than sexual harassment does, we expect to find a higher
+incidence of bullying than sexual harassment. Also, a perusal of the research suggests
+that bullying is a common experience for boys while girls and sexual minority students
+are more frequently targets of sexual harassment. The fact that sexual harassment is
+substantially higher among working women and sexual minorities is clearly documented
+(e.g., USMSPB, 1995; Fitzgerald et al., 1999) leads us to expect similar results in our
+sample of students.
+2) We argued earlier that sexual harassment is more closely linked than bullying is to
+cultural constructions of gender and sexuality, and to subsequent differences in power
+and privilege. Therefore, we expect that sexual harassment will be a stronger predictor
+than bullying of a greater number of health outcomes. In particular, we predict that the
+adverse health outcomes of sexual harassment will be especially acute for girls and
+sexual minorities. Testing this hypothesis involves three steps. First, we study whether
+there are health outcome differences that vary by gender and sexual orientation. This will
+provide general information on the health and well-being of the students in the sample.
+
+13
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Second, we compare health outcomes separately for bullying and sexual harassment to
+determine the degree of impact that each has. This step is unique since our study uses
+measures of bullying and sexual harassment that are more comparable to each other than
+previous studies have. Finally, we take a final step of doing a “head—to-head”
+comparison of both forms of victimization by including them together in the same
+regression equations. This is the first study to conduct such a comparison. In order to
+isolate the effects of bullying and sexual harassment on health outcomes we employ
+control variables that capture some of the aspects of adolescent life that adversely affect
+health, namely stressful life events and school stress.
+
+Method
+Sample
+Data were drawn from American students at a middle school and a high school in a
+suburban New England community who completed paper and pencil surveys during classes that
+drew a wide range of students (health or English). Parental consent forms were sent home with
+the students. The parents were told that the survey covered a range of topics including bullying
+and sexual harassment, attitudes toward school, and health and well-being. Students who
+received parental consent were given an assent form along with the survey during class. Both
+parental consent and student assent forms followed Institutional Review Board procedures which
+specified that the survey was voluntary and that information given by the students was
+
+14
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+confidential. The final sample consisted of 154 girls and 142 boys in middle school (grades 7-9),
+and 70 girls and 156 boys in high school (grades 10-12). The middle school response rate (53%)
+was higher than that of the high school students (48%). The demographic characteristics of the
+samples were quite similar to the student body at each school. For example, non-whites
+represented 11% of middle school and 15% of high school students. Our sample consisted of
+12% and 16%, respectively.
+Measures
+Predictor variables.
+
+Gender and sexual orientation were dichotomous variables coded 0
+
+and 1. The latter value was assigned to girls or to self-identified sexual minorities (gay, lesbian,
+bisexual) as well as questioning students. Girls comprised approximately forty-three percent of
+the sample. Ninety-one percent of the students described themselves as heterosexual. We
+included questioning students (i.e., students who indicated that they were not sure about their
+sexual orientation) in the sexual minorities category based on research by Williams et al. (2005).
+They found that questioning students had similar victimization experiences, social support, and
+psychological adjustment problems as those who self-identified as gay, lesbian, or bisexual.
+Bullying and Sexual Harassment. Ten survey items developed by Espelage and Holt
+(2001) and fourteen items from the AAUW survey (2001) were used to measure bullying and
+sexual harassment, respectively. Students were asked how often they had experienced each
+behavior (Never, A few times, Many times) during the school year, who the perpetrators were,
+and their reaction (See Appendix for survey items). The individual items were summed to create
+the respective scales. Each scale had high reliability: Bullying (Cronbach’s alpha=.89); sexual
+harassment (alpha=.92). In order to conform to formal and literal definitions of these behaviors
+
+15
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+we operationalized “bullying” or “sexual harassment” as repeated behavior. Additionally, we
+considered the complexity of these experiences—i.e., that different forms of verbal behavior
+(teasing as well as threatening) or a combination of physical and verbal behavior are typically
+aspects of bullying or harassment experiences. Consequently, we defined a student as being
+bullied or harassed if he/she had three or more different experiences at least “A few times” (e.g.,
+a student was “bullied” if he/she was teased, was pushed or shoved, and was excluded from
+friends). This operationalization both acknowledges and extends the study of bullying published
+by Peskin and her colleagues who defined a victim of bullying as a person who has experienced
+at least one type of bullying behavior at least three times in the last 30 days (Peskin, Tortolero, &
+Markham, 2006).
+Based on our operationalizations, a little more than half (52.3%) of our sample had been
+bullied, while slightly more than a third (35.3%) were sexually harassed. Our measures of
+bullying and sexual harassment are correlated (r=.56, p<.01) indicating that both experiences
+were common to a number of students. Specifically, 32% of students had been both bullied and
+harassed; 28% had experienced one but not both; and 40% had experienced neither.
+Health Outcomes. Five outcome variables were used in this analysis that tapped different
+dimensions of overall health and well being. (See Appendix for survey items). Self Esteem was
+measured by four items from Bowen and Richman (1995) for use with adolescents. The items
+were summed to produce a scale with a range of 4-12 where M=6.26, SD=2.2 (alpha=.90 ). We
+also used items from Bowen and Richman to measure mental and physical health. The Mental
+Health scale (alpha=.81) consisted of six items which tapped evaluations such as feeling
+successful, being pleased with self, or feeling lonely or fearful during the last week.. A scale was
+
+16
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+created by combining these items (range=1-11; M=5.61; SD=2,7). A Physical Health scale was
+developed from a factor analysis of twelve items. Seven items that formed a factor (alpha=.83)
+were used to create a scale (range=1-12; M=5.81; SD=3.4) These items asked students how
+often they had experienced such problems as trouble going to sleep, upset stomach/stomach
+ache, headache, or dizziness in the last seven days. Impact of Events Scale (Trauma Symptoms)
+was based on eight items (alpha=.91) developed by Dyregrov and Yule (1995) to use with
+children. The respondents were asked how frequently each item applied to them regarding their
+most upsetting bullying or sexual harassment experience (e.g., I thought about it when I didn't
+mean to, I had waves of strong feelings about it). The combined items resulted in a scale with 110 range where M=5.19 and SD=3.2. Substance Abuse was based on a single item from Hanisch
+and Hulin (1991) where “Drank alcohol or used drugs because of things that happened at school”
+was one of several responses to the query “During this school year did you do any of these things
+to deal with stress at school?” where the response categories ranged from 1 (Never) to 4 (Many
+times). Sixty-one percent (61%) of students responded “Never” to this survey item.
+Control Variables. As we discussed earlier, a considerable range of health outcomes are
+associated with bullying and sexual harassment. However, this victimization is part of a larger
+social context that includes positive, health-affirming events as well as other negative
+experiences. Relationships with parents and siblings, academic performance, interactions with
+teachers and other adults are all part of this context, and they all have implications for students’
+health and well-being. Parental divorce, residential upheaval, and conflict with parents are
+significantly related to a number of health outcomes, including depression, physical ailments,
+and social adjustment (Newman et al., 2007; Waaktaar et al. 2004; Windle & Mason, 2004).
+
+17
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Similarly, students’ connectedness to school and teachers, as well as academic achievement are
+related to health and well-being (Prelow, Bowman, &Weaver, 2007; Filozof et al., 1998;
+Needham, Crosnoe, & Muller, 2004). In order to more clearly isolate the effects of bullying and
+sexual harassment on health outcomes we chose two control variables for our regression analyses
+that focused on either social or family life or school or academic life: Stressful Life Events Scale
+for Adolescents (SLESA: Newcomb, Huba, & Bentley, 1981) and School Stress (Bowen &
+Richman, 1995). SLESA asks respondents to gauge the impact (from extremely positive to
+extremely negative) of events that may have occurred in the last year (e.g., parents divorced, they
+changed schools, broke up with boyfriend/girlfriend). The items were added and then converted
+to a 1-10 scale (alpha=.90) where 1=Very positive impact, 5=No Impact, and 10=Very negative
+impact. School Stress (alpha=.81) is based on 6 items that asked students “What is school like
+for you most of the time?” with 5-point Likert scales (“Not at all like me” to “Very much like
+me”). Items included “I find school hectic” and “I find school exciting.” (See Appendix for
+survey items). The items were combined and converted to a 1-10 scale where M=5.27 and
+SD=2.5. All health outcomes were significantly correlated with Stressful Life Events and School
+Stress with correlations ranging from r=.125 (p<.05) for Substance Abuse and Stressful Life
+Events to r=.386 (p<.01) for School Stress and Physical Health. We opted not to use either age
+or grade level (middle or high school) as control variables since correlational analyses revealed
+that neither was significantly related to bullying or sexual harassment. For example, Pearson’s r
+for age and bullying was .024 (p=.51), and .072 (p=.10) for age and sexual harassment.
+Furthermore, the correlations with age were not significant for either girls or boys. A higher
+
+18
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+incidence of both bullying (55% versus 50%) and sexual harassment (38% versus 33%) occurred
+in high school compared to middle school, but these differences were not statistically significant.
+Results
+Our first research question addresses the issue of frequency. Which is more frequent—
+bullying or sexual harassment? And, are there gender and sexual orientation differences in
+bullying and sexual harassment? Answers can be found in Table I. Using the same time frame
+and the same benchmark for determining whether or not victimization has occurred, bullying is
+revealed as a much more common experience than sexual harassment. More than half (52%) of
+students had experienced bullying during the current school year while approximately one-third
+(34%) were sexually harassed. There were no significant gender differences in this regard: Boys
+experienced slightly more bullying than girls (53% vs. 51%), and girls were harassed a little
+more often than boys (36% vs. 34%). Large differences were found, however, for sexual
+orientation. GLBQ students experienced more bullying (79 vs. 50%) and sexual harassment
+____________________________________________
+Table I about here
+____________________________________________
+(71% vs. 32%), and the corresponding regression coefficients were significant for both (b=.217
+and b=.280, respectively). GLBQ students were bullied more often than were harassed (79% vs
+71%) but this difference was not statistically significant.
+The second research issue we explore in this paper is the impact of bullying and sexual
+harassment on health outcomes. We begin first by analyzing differences in health outcomes
+between the subgroups that are the focus of this paper—girls and boys, and GLBQ and
+
+19
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+heterosexuals. The research cited earlier found that girls and sexual minorities generally have
+poorer health functioning than other students. We determine the extent to which this is true for
+the students in our sample and proceed with the next matter of the impact of bullying and sexual
+harassment on health. The results of t-tests show that girls have significantly poorer
+_____________________________________
+Table II about here
+______________________________________
+health than boys for four outcomes: The former have poorer self esteem, mental and physical
+health, more trauma symptoms but similar levels of substance abuse.. Except for substance
+abuse, GLBQ students have poorer health outcomes than their heterosexual peers. Heterosexuals
+report greater use of substances than GLBQ students.
+Given the poorer health outcomes among girls and GLBQ students, the next task is to
+determine the impact of bullying and sexual harassment individually on each outcome by t-tests
+and through regression analyses which include Life Events and School Stress as control
+variables. The analyses reveal significant relationships between health outcomes and both
+bullying and sexual harassment. All five t-tests and regression equations for bullying as well as
+those for sexual harassment are statistically significant. Bullying and sexual harassment have
+____________________________________________
+Table III about here
+_____________________________________________
+particularly large effects on physical health (b=.296 and b=.335, respectively) and trauma
+symptoms (b=.269 and b=.389). In contrast, the effects of bullying and harassment are smaller
+
+20
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+on self esteem (b=.148 and b=.146) and substance abuse (b=.135 and b=.127). A perusual of the
+coefficient sizes suggests that comparable measures of bullying and sexual harassment
+individually predict health outcomes in fairly similar ways. However, since the predictors are
+correlated, the relative impact of each on the outcomes is not demonstrated by these
+comparisons.
+The third and final step of the analyses of health outcomes is comparing the predictive
+strength of bullying and sexual harassment simultaneously on each outcome. Specifically,
+bullying and sexual harassment were entered together into each regression equation using the
+control variables that we described earlier.
+
+Separate analyses were conducted for girls, boys,
+
+and GLBQ students. Since bullying and sexual harassment were correlated (r=.56, p<.01)
+collinearity diagnostics that are available on SPSS 14.0 were conducted for each outcome and
+each group An examination of Tolerance and Condition Index figures for the twenty regression
+equations revealed that multicollinearity was not a problem since the lowest levels of the former
+were .65 and, figures for the latter did not exceed 11.0. Tolerance levels that are less than .10
+(Norusis, 2003) or Condition Index levels over 30 (Belsley, Kuh, & Welsch, 1980) indicate
+significant multicollinearity problems. The results for the entire sample of students (1st column)
+_________________________________________
+Table IV about here
+__________________________________________
+show that the regression coefficient for sexual harassment is larger than the corresponding one
+for bullying for all five outcomes. Also, while all five outcome-harassment coefficents are
+significant, two for bullying (trauma symptoms and substance abuse) are not. As we saw earlier
+
+21
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+(Table III), bullying predicted each outcome, as did sexual harassment. It is only when they are
+placed in the same equation for each outcome that their differences in predictive power emerge.
+These results lend support to our hypothesis that sexual harassment has more adverse impact
+than bullying because of the former’s stronger basis in cultural stereotypes about gender and
+sexuality.
+The pattern of differences between bullying and sexual harassment and the outcomes
+extends to sub-group analyses with a few exceptions. For girls, eight of a possible ten
+relationships (5 bully-outcome and 5 harassment-outcome relationships) are significant. All five
+harassment-outcome coefficients are significant and three bullying-outcome coefficients are (self
+esteem, mental health, and physical health) are. The harassment coefficient is larger than the one
+for bullying for four outcomes. For physical health, the coefficient for bullying is larger (b=.300
+versus b=.204). Only four of a possible ten coefficients are significant among boys. Neither
+bullying nor sexual harassment predicts boys’ self esteem or substance abuse. Among the four
+significant relationships, three are with sexual harassment—mental health (b=.227), physical
+health (b=.286), and trauma symptoms (b=.355). The lone significant coefficient for bullying is
+with mental health (b=.191). Based on the number of significant coefficients, it is apparent that
+girls experience a broader range of adverse health effects from bullying and sexual harassment
+than boys do. For both sexes, however, sexual harassment causes more harm than bullying.
+Among GLBQ students, four of ten coefficients are significant, and all four involve
+sexual harassment. Sexual harassment predicts mental health (b=.393), physical health (b=.606),
+trauma symptoms (b=.403), and substance abuse (b=.372). The strength of sexual harassment
+over bullying on health outcomes follows a similar pattern as found for girls and boys.
+
+22
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Discussion.
+This study provides new insight on sexual harassment and bullying victimization in
+school. Both types of victimization were measured in similar ways with the same time format.
+And this lead to the finding that bullying was a more common experience than sexual
+harassment. This was expected since bullying behavior is more reciprocal (i.e., a significant
+number of students in other research are described as “bully/victims”) and involves same-sex as
+well as opposite-sex behaviors. There were no significant gender differences with regard to
+either; but GLBQ students experience significantly higher rates than other students. Research on
+adults, by contrast, has found very marked differences in the harassment rates of female and
+male workers (e.g., USMSPB, 1995). As research has shown for both groups—adolescents and
+adults—males are much more likely to be perpetrators than females. It appears, then, that
+adolescence is a key point in male development when issues of male dominance and privilege
+are played out, not only in terms of boy-girl relationships but also in terms of boy-boy
+hierarchies as well.
+We found that life during middle and high school takes a heavier toll on the health and
+well-being of girls and GLBQ students than on boys (Table II). At the same, we showed that
+bullying and sexual harassment have pervasive effects on health (Table III): Each was
+significantly related (t-tests as well as regression coefficients) to all five outcomes. These results
+suggested two interpretations: The pervasiveness of the impacts on health meant that bullying
+and sexual harassment affected a large number of students, including boys; but, the adverse
+outcomes were especially felt by girls and sexual minority students. Our subsequent analysis
+(Table IV) confirmed these arguments.
+
+23
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+We expected that boys would be more negatively impacted by bullying while girls and
+sexual minorities would suffer more from sexual harassment. We were partially correct in that
+sexual harassment was linked to poor health outcomes for girls and GLBQ students. However,
+we found that boys, too, were more affected by sexual harassment than by bullying.
+Our study, the first of its kind to compare bullying and sexual harassment victimization
+using equivalent measurements and time frames has found that the less frequent form of
+victimization (sexual harassment) plays a greater role in poor health outcomes than the more
+pervasive one (bullying). These results demonstrate the power of sexuality and sexual
+stereotypes in drawing the “gender transgression zone”(McGuffey & Rich, 1999). While namecalling, teasing, and physical aggression (bullying) negatively impact adolescents as this study
+and a host of other studies have shown, this paper revealed the harm that is done when words and
+deeds have a sexual element to them. While sexual harassment is typically a cross-sex
+phenomenon, research on adolescents reveals that same-sex harassment is harmful as well.
+When asked to describe how upsetting specific bullying or harassment experiences were (see
+Appendix), girls cited sexual rumors and boys listed being called gay as the most upsetting of all
+items. And they listed members of their own sex as the perpetrators.
+The impact of sexual harassment compared to bullying is also notable among sexual
+minorities. Their mean scores on health outcomes were higher (poorer) than girls or boys on
+four health outcomes (Table 2). Subsequent analyses (Table 4) revealed that sexual harassment
+had a stronger role than bullying in creating adverse health outcomes. Also, GLBQ sexual
+harassment coefficients were considerably larger than those for either boys or girls for the same
+outcomes. These results suggest that adolescents whose sexual identity is marginalized (gay or
+
+24
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+lesbian) or in a flux (questioning) are particularly harmed by words and deeds that are frequently
+used in adolescent culture to draw gender and sexual boundaries. As others have suggested, the
+adverse effects of harassment can be exacerbated by a lack of social support from peers and
+adults (Williams et al., 2005), or as a result of bystander harassment where they witness others
+being disparaged by the use of homophobic language (Poteat & Espelage, 2007). Not only is the
+development of support systems at school important to safeguard the well-being of gay, lesbian,
+and questioning adolescents, it is also crucial to develop or reinforce policies to control the use
+of sexually derogatory language. In general, our analysis should alert educators, parents, and
+researchers about the role that sexual harassment plays vis-à-vis bullying, and that the current
+trend of focusing on the latter problem, or else subsuming harassment under bullying, draws
+attention away from a significant health risk.
+Limitations
+Our study has several limitations. First, our sample consists mostly of white students that
+were drawn from one school district. A more racially and ethnically diverse sample may have
+produced somewhat different results because of differences in perceptions of, and reactions to
+bullying or sexual harassment (Buchanan, 2005; Shupe et al., 2002). Also, because we had a
+small number of sexual minority students we were not able to compare differences in
+experiences and health outcomes between girls and boys. Given the stigma of being labeled gay
+in male culture, it would have been interesting to see if gay boys have significantly poorer health
+than lesbian girls as a result of victimization. Because of our operationalizations a number of
+students who had a small number of bullying and sexual harassment experiences were not
+defined as having been “bullied” or “sexually harassed.” Since even low levels of sexual
+
+25
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+harassment—at least among adults—adversely affects health outcomes (Schneider, Swan &
+Fitzgerald, 1998), it is possible that we underestimated the harm resulting from bullying or
+sexual harassment among the adolescents in our study. Finally, it is possible that some of the
+adolescents in our study were bullied or harassed because of significant health deficits. Our
+analysis assumed that adverse health outcomes were the result of victimization. A recent study
+by Fekkes et al. (2006) found that depressed and anxious children had a higher probability of
+being bullied than did their peers; and these experiences further compromised their mental
+health. The cross-sectional design of our survey did not allow us to explore this issue.
+Conclusion
+A significant amount of time and energy has been dedicated to bullying prevention with
+the assumption that this will create a safer environment for students. This study raises the
+question as to whether victimization at school can be addressed successfully by focusing on only
+one of the two significant problems in this regard. We are not suggesting that bullying
+prevention programs be curtailed; rather, we would argue that sexual harassment prevention
+receive attention as a distinct focus. All students need to benefit from a safe school environment
+and the mental and physical health implications from sexual harassment and bullying behaviors
+need to be considered. Keeping schools safe in the 21st century is a worthy goal but continuing
+to focus on boys’ behavior and bullying violence in schools, rather than on all students’ negative
+experiences with sexual harassment detracts from our ability to provide a healthy environment
+for all children.
+
+26
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+
+Bibliography
+American Association of University Women Educational Foundation. (2001). Hostile
+hallways: Bullying, teasing and sexual harassment in school. Washington, D.C.: Author.
+American Association of University Women Educational Foundation. (1993). Hostile
+hallways: The AAUW survey on sexual harassment in American schools (Research Rep.
+No. 923012). Washington, D.C.: Harris/Scholastic Research.
+Belsey, D., Kuh, E., & Welsch, R. (1980). Regression diagnostics: Identifying influential data
+and sources of collinearity. Cambridge, Mass.: MIT Press.
+Boulton, M., & Hawker, D. (2000). Twenty years' research on peer victimization and
+psychosocial maladjustment: A meta-analytic review of cross-sectional studies. Journal
+of Child Psychology and Psychiatry and Allied Disciplines, 41, 441-55.
+Bowen, G., & Richman, J. (1995). The school success profile. Chapel Hill, NC.: University of
+North Carolina.
+
+27
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Buchanan, N. (2005). The nexus of race and gender domination: Racialized sexual harassment
+of African American women. In J. Gruber, and P. Morgan, (Eds.), In the company of
+men: Male dominance and sexual harassment, 294-320. Boston: Northeastern
+University Press.
+Chen, X., Croninger, R., Lee, V., & Linn, E. (1996). The culture of sexual harassment in
+secondary schools. American Educational Research Journal, 33, 383-417.
+Connolly, J., Craig, W., Henderson, K., & Pepler. D. (2002). My friends made me do it: Peer
+influence on alcohol and substance use in adolescence. In A. Wall, and C. Wekerle,
+(Eds.) The violence and addiction equation: Theoretical and clinical issues in substance
+abuse and relationship violence. Philadelphia: Brunner/Mazel.
+Connolly, J., Craig, W., McMaster, L., & Pepler, D. (2002). Peer to peer sexual harassment in
+early adolescence: A developmental perspective. Development and Psychopathology, 14,
+91-105.
+Corbett, K., Gentry, C., & Pearson, W. (1993). Sexual harassment in high school. Youth &
+Society, 25, 93-103.
+Crick, N. (1996). The role of overt, relational aggression, and prosocial behavior in the
+prediction of children's future social adjustment. Child Development, 67, 2317-27.
+DeSouza, E., & Ribeiros, J. (2005). Bullying and sexual harassment among Brazilian high
+school students. Journal of Interpersonal Violence, 20, 1018-38.
+Dyregrov, A., & Yule, W. (1995). Screening measures: The development of the UNICEF
+screening battery. Presented at the annual meeting of the International Society of
+Traumatic Stress Studies, Boston, Massachusetts.
+
+28
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Duffy, J., Walsh, M., & S. Wareham, S. (2004). Psychological consequences for high school
+students of having been sexually harassed. Sex Roles, 50, 811-21.
+Eslea, M., Menesini, M., Moore, A., & Morita, Y. (2004). Friendship and loneliness among
+bullies and victims: data from seven countries. Aggressive Behavior, 30, 71-83.
+Espelage, D., & Holt, M. (2001). Bullying and victimization during early adolescence: Peer
+influences and psychosocial correlates. In R. Geffner, and M. Loring, (Eds.), Bullying
+Behavior: Current Issues, Research, and Interventions. Binghamton, N.Y.: Haworth
+Press Inc.
+Fekkes, M., Pijpers, F., Fredriks, T., Vogels, T., & Verloove-Vanhorick, S. (2006). Do bullied
+children get ill, or do ill children get bullied? A prospective cohort study on the
+relationship between bullying and health-related symptoms. Pediatrics, 117, 15681575.
+Fineran, S. (2002). Sexual minority students and peer sexual harassment in high school. Journal
+of School Social Work, 11, 50-69.
+Fineran, S., & Bennett, L. (1999). Gender and power issues of peer sexual harassment among
+teenagers. Journal of Interpersonal Violence, 14, 626-641.
+Fitzgerald, L., & Shullman, S. (1993). Sexual harassment: A research analysis and agenda for
+the 1990’s. Journal of Vocational Behavior, 42, 5-27.
+Fitzgerald, L., Magley, V., Drasgow, F., & Waldo, C. (1999). Measuring sexual harassment in
+the military: The Sexual Experiences Questionnaire. Military Psychology, 11, 243-263.
+Filozof, E., Albertin, H., Jones, C., & Steme, S. (1998). Relationship of adolescent self-esteen
+to selected academic variables. The Journal of School Health, 68, 68-72.
+
+29
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Gruber, J. (1990). Methodological problems and policy implications in sexual harassment
+research. Population Research and Policy Review, 9, 235-254.
+Hand, J., & Sanchez, L. (2000). Badgering or bantering? Gender differences in experience of,
+and reactions to, sexual harassment among U.S. high school students. Gender & Society,
+14, 718-46.
+Hanisch, K., & Hulin, C. (1991). General attitudes and organizational withdrawal: An
+evaluation of a causal model. Journal of Vocational Behavior, 39, 110-28.
+Kimmel, M., & Mahler, M. (2003). Adolescent masculinity, homophobia, and violence:
+Random school shootings, 1982-2000. American Behavioral Scientist, 46, 1439-1458.
+Klein, J. (2006a). An invisible problem: Everyday violence against girls in schools. Theoretical
+Criminology, 10, 147-177.
+Klein, J. (2006b). Sexuality and school shootings: What role does teasing play in school
+massacres? Journal of Homosexuality, 51, 39-62.
+Lee, V., Croninger, R., Linn, E., & Chen, X. (1996). The culture of sexual harassment in
+secondary schools. American Educational Research Journal, 33, 383-417.
+MacKinnon, C. (1979). Sexual harassment of working women. New Haven, CT: Yale
+University Press.
+McGuffey, C., & Rich, M. (1999). Playing in the gender transgression zone: race, class, and
+hegemonic masculinity in middle school. Gender & Society, 13, 608-627.
+McMaster, L., Connolly, J., Pepler D., & Craig, W. (2002). Peer to peer sexual harassment in
+early adolescence: A developmental perspective. Development and Psychopathology, 14,
+91-105.
+
+30
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Markham, C., Peskin, M., & Tortolero, S. (2006). Bullying and victimization among black and
+Hispanic adolescents. Adolescence 41, 467-84.
+Massachusetts Department of Education. (2007). 2005 Youth risk behavior survey. Malden,
+MA: Author.
+Massachusetts Department of Education. (1998). 1998 Massachusetts youth risk
+behavior survey results. Boston, author.
+Nansel, T., Overpeck, R., Pilla, W., Ruan, P., Scheidt, K., & Simons-Morton, B. (2001).
+Bullying behaviors among US youth: Prevalence and association with psychological
+adjustment. Journal of the American Medical Association, 285, 2094-2100.
+Needham, B., Crosnoe, R., & Muller, C. (2004). Academic failure in secondary school: The
+inter-related role of health problems and educational context. Social Problems, 51, 569586
+Newcomb, M.D., Huba, G., & Bentley, P.M. (1981). A multidimensional Assessment of
+stressful life events among adolescents: Derivation and correlates. Journal of Health and
+Social Behavior, 22, 400-415.
+Norusis, M. (2004). SPSS 13.0 Advanced statistical procedures companion. Upper Saddle
+River, NJ: Prentice Hall.
+Olweus, D. (1978). Aggression in the school: Bullies and whipping boys. Chichester, U.K:
+Wiley.
+Olweus, D. (1993). Bullying at school. Oxford, U.K: Basil Blackwell.
+Oncale v. Sundowner Offshore Services, Inc. (1998). 523 U.S. 75.
+Pellegrini, A. (2001). A longitudinal study of heterosexual relationships, aggression and sexual
+
+31
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+harassment during transition from primary school through middle school. Applied
+Developmental Psychology 22, 119-33.
+Permanent Commission (CT) on the Status of Women. (1995). In our own backyard: Sexual
+harassment in Connecticut’s public high schools. Hartford, CT: Author.
+Peskin, M., Tortolero, S., & Markham, C. (2006). Bullying and victimization among black and
+Hispanic adolescents. Adolescence, 41, 467-484.
+Poteat, V., & Espelage, D. (2007). Predicting psychosocial consequences of homophobic
+victimization in middle school students. Journal of Early Adolescence, 27, 175-191.
+Prelow, H., Bowman, G., &Weaver, S. (2007). Predictors of psychosocial well-being in urban
+African American and European American youth: The role of ecological factors. Journal
+of Youth and Adolescence, 36, 543-553
+Schneider, K., Swan, S., & Fitzgerald, L. (1998). Job-related and psychological effects of sexual
+harassment in the workplace. Journal of Applied Psychology, 82, 401-15.
+Stein, N. (2003). Bullying or sexual harassment? The missing discourse of rights in an era of
+zero tolerance. The Arizona Law Review, 45, 783-799.
+Shupe, E., Cortina, L., Ramos, A., Fitzgerald, L., & Salisbury, J. (2002). The incidence and
+outcomes of sexual harassment among Hispanic and non-Hispanic white women: A
+comparison across levels of cultural affiliation. Psychology of Women Quarterly, 26,
+298-308.
+Schwartz, D., Dodge, K., Pettit, G., & Bates, J. (1997). The early socialization of aggressive
+victims of bullying. Child Development, 68, 665-675.
+
+32
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Thurlow, C. (2004). Naming the ‘outsider within’: homophobic pejoratives and the verbal abuse
+of lesbian, gay and bisexual high-school students. Journal of Adolescence, 24, 25-38.
+United States Department of Education, Office for Civil Rights. (1997). Sexual harassment
+guidance: Harassment of students by school employees, other students, or third parties.
+Federal Register 62, 12034-51.
+United States Department of Education, Office for Civil Rights. (2003). School crime
+supplement to the National Crime Victimization Survey. Washington: Author.
+United States Merit Systems Protection Board (USMSPB). (1995). Sexual harassment in the
+Federal workplace: Trends, progress, and continuing challenges. Washington, D.C.:
+U.S. Government Printing Office.
+United States Merit Systems Protection Board. (1988). Sexual harassment in the Federal
+workplace: An update. Washington, D.C.: U.S. Government Printing Office.
+Waaktaar, T., Borge, A., Fundingsrud, H., Johnsen, H., & Torgersen, S. (2004). The role of
+stressful life events in the development of depressive symptoms in adolescence--A
+longitudinal community study. Journal of Adolescence, 27, 153-166.
+Wilburn, V., & Smith, D. (2005). Stress, self-esteem, and suicidal ideation in late adolesents.
+Adolescence, 40, 33-4.
+Williams, T., Connolly, J., Pepler, D., & Craig, W. (2005). Peer victimization, social support,
+and psychosocial adjustment of sexual minority adolescents. Journal of Youth and
+Adolescence, 34, 471-482.
+
+33
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+
+Table I. Predictors of Bullying and Sexual Harassment
+% Bullied a
+(rounded)
+
+Beta b
+
+(n=)
+Overall
+Gender
+Boys
+Girls
+
+52%
+
+% Sexually
+Harassed
+(rounded)
+35%
+
+Beta
+
+Difference:
+Bully vs. SH c
+<.01
+
+.016 (.024)
+(298)
+(224)
+
+53
+51
+
+.021
+(.26)
+
+34
+36
+
+34
+
+<.01
+<.01
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Sexual
+Orientation
+Hetero
+GLBQ
+a
+
+.280 (.43) **
+(470)
+( 46)
+
+50 **
+79
+
+.217 **
+(.47)
+
+32 **
+71
+
+<.01
+NS
+
+Percentages are derived from cross-tabulation. Students who had three or more
+
+experiences were considered either bullied or sexually harassed. Significance levels are based on
+chi square.
+b
+
+This is the only analyses where bullying and sexual harassment are dependent
+
+variables. Rather than dichotomous variables (see Predictor variables above) we used scales
+with the full range of values (0-20 and 0-24 for bullying and sexual harassment, respectively.
+Betas are standardized regression coefficients. Standard errors are presented in parentheses.
+c
+
+Differences of proportions tests were conducted to compare the percentage of bullying
+
+and sexual harassment for each category (e.g., percentage of boys bullied compared to
+percentage of boys sexually harassed).
+* p<.05 ** p<.01
+
+Table II. Gender, Sexual Orientation, and Health Outcomes
+Health Outcomes a
+Scale Range
+
+Gender
+Girls
+Mean/SD
+
+Boys
+Mean/SD b
+
+Self Esteem
+
+6.65 (2.3)
+
+5.98 (2.1) **
+
+4-12
+
+Mental Health
+
+6.46 (2.6)
+
+5.01 (2.5) **
+
+1-11
+
+35
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+
+Physical Health
+
+6.52 (3.4)
+
+5.32 (3.3) **
+
+1-12
+
+Trauma Symptoms
+
+5.94 (3.1)
+
+4.61 (3.2) **
+
+1-10
+
+Substance Abuse
+
+1.40 (.87)
+
+1.52 (1.1)
+
+1-4
+
+Sexual Orientation
+GLBQ
+
+Heterosexuals
+
+Self Esteem
+
+7.32 (2.5)
+
+6.18 (2.1) **
+
+4-12
+
+Mental Health
+
+7.76 (2.5)
+
+5.44 (2.6) **
+
+1-11
+
+Physical Health
+
+7.08 (3.3)
+
+5.76 (3.4) **
+
+1-12
+
+Trauma Symptoms
+
+6.68 (2.8)
+
+5.06 (3.2) **
+
+1-10
+
+Substance Abuse
+
+1.41 (.98)
+
+1.98 (1.2) **
+
+1-4
+
+a
+
+Higher scores are associated with poorer outcomes: lower self esteem, poorer health,
+
+more trauma symptoms, and greater substance abuse.
+b
+
+Significance levels are based on t-tests.
+
+* p<.05 **p<.01
+
+Table III. Bullying, Sexual Harassment, and Health Outcomes
+Health Outcomes a
+
+Bullying
+Bullied
+
+Not Bullied
+
+36
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Mean/SD
+
+Mean/SD b
+
+Beta/SD c
+
+Self Esteem
+
+6.65 (2.2)
+
+5.79 (2.1) **
+
+.148 (.20) **
+
+Mental Health
+
+6.33 (2.7)
+
+4.77 (2.5) **
+
+.214 (.23) **
+
+Physical Health
+
+6.87 (3.3)
+
+4.67 (3.2) **
+
+.296 (,27) **
+
+Trauma Symptoms
+
+5.94 (3.2)
+
+4.21 (3.0) **
+
+.269 (.24) **
+
+Substance Abuse
+
+1.59 (1.1)
+
+1.26 (.78) **
+
+.135 (.09) *
+
+Sexual Harassment
+Harassed
+
+Not Harassed
+
+Self Esteem
+
+6.71 (2.3)
+
+5.84 (2.1) **
+
+.146 (.20) **
+
+Mental Health
+
+6.59 (2.6)
+
+4.76 (2.5) **
+
+.262 (.23) **
+
+Physical Health
+
+7.17 (3.2)
+
+4.63 (3.1) **
+
+.335 (.30) **
+
+Trauma Symptoms
+
+6.53 (2.9)
+
+3.94 (2.9) **
+
+.389 (.27) **
+
+Substance Abuse
+
+1.73 (1.1)
+
+1.28 (.86) **
+
+.127 (.09) *
+
+a
+
+Higher scores are associated with poorer outcomes: lower self esteem, poorer health, more
+
+trauma symptoms, and greater substance abuse.
+b
+
+Significance levels are based on t-tests.
+
+c
+
+Standard regression coefficients and standard errors are presented. Regressions for each health
+
+outcome used bullying or sexual harassment as predictors and controlled for gender, sexual orientation,
+life events, and school stress.
+
+Table IV. Bullying, Sexual Harassment, Gender, Sexual Orientation and Health Outcomes
+Total
+
+Girls
+
+b
+
+Boys
+
+37
+
+GLBQ
+
+d
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Sample
+
+a
+
+c
+
+Outcomes
+
+Self Esteem
+.
+Bullying
+
+.109 (.23)*
+
+.170 (30) *
+
+.087 (1.2)
+
+.247 (1.5)
+
+SexHar
+
+.128 (.24) **
+
+.201 (.24) **
+
+.089 (.25)
+
+.261 (1.6)
+
+Bullying
+
+.151 (.22)**
+
+.163 (.34) *
+
+.191 (.35)**
+
+.168 (1.0)
+
+SexHar
+
+.246 (.20)**
+
+.270 (.30) **
+
+.227 (30) **
+
+.393 (.86)**
+
+Bullying
+
+.163 (35)**
+
+.300 (.42) **
+
+.082 (.45)
+
+.042 (1.2)
+
+SexHar
+
+.236 (.30)**
+
+.204 (.38) **
+
+.286 (.39) **
+
+.606 (1.4)**
+
+Bullying
+
+.074 (.31)
+
+.055 (.43 )
+
+.123 (.43)
+
+.085 (1.1)
+
+SexHar
+
+.358 (.33)**
+
+.350 (.35) **
+
+.355 (.36) **
+
+.403 (1.3)**
+
+Bullying
+
+.085 (.10)
+
+.076 (.11)
+
+.033 (.10)
+
+.152 (.64)
+
+SexHar
+
+.121 (.09)*
+
+.181 (.12)**
+
+.099 (.64)
+
+.372 (.56)**
+
+Mental Health
+
+Physical Health
+
+Trauma Symptoms
+
+Substance Abuse
+
+a
+
+Bullying and sexual harassment were regressed on each outcome with gender, sexual
+
+orientation, stressful life events, and school stress as controls.
+b
+
+Regressions were conducted separately for girls and boys. Each outcome was regressed with
+
+bullying and sexual harassment, controlling for sexual orientation, life events, and school stress.
+c
+
+Positive regression coefficients denote being bullied or harassed and having poor health
+
+outcomes.
+
+38
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+d
+
+Regressions were conducted separately for GLBQ students. Each outcome was regressed with
+
+bullying and sexual harassment, controlling for gender, life events, and school stress.
+** p<.01
+
+*p<.05
+
+39
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+
+Appendix
+Variable Measurement
+Bullying
+During this school year, have one or more students at school… (Never, A few times, Many
+times)
+Upset you for the fun of it.
+Scared you.
+Teased you
+Picked on you.
+Made fun of you.
+Called you names.
+Got in a physical fight with you.
+Pushed, shoved, slapped, or kicked you.
+Threatened to hurt or hit you.
+Excluded you from your group of friends.
+Sexual Harassment
+During this school year, have one or more students at school done any of these things that you
+did not want them to do. (Never, A few times, Many times)
+Touched, grabbed or pinched you in a sexual way.
+Cornered you in a sexual way.
+Spread sexual rumors about you.
+
+40
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Made sexual jokes about you.
+Made sexual gestures or looks at you.
+Showed, gave, or left you sexual pictures, messages, or notes
+Wrote sexual messages about you on bathroom walls, locker rooms, or classroom
+blackboards.
+Called you gay or lesbian or a name like fag or dyke.
+Spied on you as you showered or dressed at school.
+Flashed or mooned you.
+Pressured you for a date.
+Pulled your clothing off or down.
+Kissed or hugged you when you did not want it.
+Listed you in a “slam book” with sexual remarks about you.
+Sexual Orientation
+What is your sexual orientation?
+Heterosexual or straight
+Gay or lesbian
+Bisexual
+Not sure
+Self Esteem
+How well does each statement describe you? (A lot, A little, Not at all)
+I feel positive about myself.
+I am satisfied with myself.
+
+41
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+I have a number of good qualities.
+I am able to do things as well as most other people.
+Mental Health
+During the past week, how often did you feel the following? (Never, Sometimes, Often)
+Successful
+
+Lonely
+
+Pleased with yourself
+
+Sad
+
+Confident
+
+Felt like crying
+
+Physical Health
+How often during the past 7 days have you experienced any of the problems listed below?
+(None, 1-2 days, 3 days or more)
+Loss of appetite
+
+Upset stomach or stomach ache
+
+Headache
+
+Vomiting of feeling sick to your stomach
+
+Dizziness or fainting
+
+Trouble with nerves
+
+Trouble going to sleep
+
+Trauma Symptoms
+Below is a list of comments made by people in response to stressful experiences. Please check
+each item, indicating how frequently these comments were true for the experience [Respondent’s
+description of bullying or sexual harassment experience that was the most upsetting] you
+described above. (Not at all, Rarely, Sometimes, Often)
+I thought about it when I didn’t mean to.
+I tried to remove it from my memory.
+
+42
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+I had waves of strong feelings about it.
+I stayed away from reminders of it.
+I tried not to talk about it.
+Pictures of it popped into my mind.
+Other things kept making me think of it.
+I tried not to think about it.
+Stressful Life Events
+Please tell us a little bit about your life during the past year. Listed below are a number of life
+events, both positive and negative…If you experienced an event in the last 12 months, rate the
+event in terms of the impact it had on you. (Extremely negative, Very negative, Slightly
+negative, No impact, Slightly positive, Very positive, Extremely positive.
+Parents divorced
+
+Had a serious accident or illness
+
+Found a new group of friends
+
+Got in trouble with the law
+
+Stole something valuable
+
+Increase in size of household
+
+Given medication by physician
+
+Fell in love
+
+Family member died
+
+Started seeing a therapist
+
+Changed schools
+
+Started dating regularly
+
+Decided about college
+
+Family had money problems
+
+Broke up with girl/boy friend
+
+Got in trouble in school
+
+Thought about suicide
+
+Started making own money
+
+Was victim of a crime
+
+Ran away from home
+
+Got poor grades in school
+
+Got pregnant or made someone pregnant
+
+43
+
+Gruber, J.E , & Fineran, S. (2008). Comparing the Impact of Bullying and
+Sexual Harassment Victimization on the Mental and Physical Health of Adolescents
+Sex Roles, 59, (1-2), 1-13.
+Family moved
+
+Parents argued or fought
+
+Parents remarried
+
+Gained or lost a lot of weight
+
+School Stress
+What is school like for you most of the time? (Not at all, A little bit, Moderately, Quite a bit,
+Extremely)
+I find school hectic.
+I find school tense.
+I find school fun.
+I find school relaxing.
+I find school exciting.
+I find school stressful.
+
+44
+
+

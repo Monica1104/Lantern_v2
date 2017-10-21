@@ -1,0 +1,1550 @@
+Psychology of Women Quarterly, 32 (2008), 113–125. Blackwell Publishing, Inc. Printed in the USA.
+C 2008 Division 35, American Psychological Association. 0361-6843/08
+Copyright 
+
+CRITICAL CLIMATE: RELATIONS AMONG SEXUAL
+HARASSMENT, CLIMATE, AND OUTCOMES
+FOR HIGH SCHOOL GIRLS AND BOYS
+Alayne J. Ormerod
+University of Illinois at Urbana-Champaign
+
+Linda L. Collinsworth
+Millikin University
+
+Leigh Ann Perry
+University of Illinois at Urbana-Champaign
+
+This study examined the relationships among peer-to-peer sexual harassment, school climate, adult-to-student harassment, and outcomes (psychological and physical well-being; school withdrawal and safety) for high school girls (n = 310)
+and boys (n = 259) recruited from seven public high schools in a Midwestern state. More frequent, severe peer harassment was associated with being female; holding climate perceptions that one’s school is tolerant of the harassment of
+girls; and experiencing more frequent, severe harassment by school personnel. The correlates associated with outcomes
+varied by outcome, with climate exerting a consistent influence on boys’ outcomes. Girls’ outcomes were associated
+with climate, harassment, or both. Findings suggest that more frequent, severe experiences of sexual harassment in the
+schools are associated with direct, negative effects on girls and indirect, negative effects on boys and girls through a
+school climate that tolerates the harassment of girls.
+
+The reality of sexual harassment in the schools was brought
+to national attention by two groundbreaking studies conducted by the American Association of University Women
+(AAUW, 1993, 2001) in which an alarmingly high number
+of female and male students reported harassment while
+in school with detriment to their psychological and educational well-being. A majority of studies that followed used
+the AAUW survey, either replicating the original study (e.g.,
+Stratton & Backes, 1997), adapting the questionnaire to
+make it stronger methodologically (e.g., Duffy, Wareham,
+& Walsh, 2004), or reanalyzing the data using more sophisticated techniques (e.g., Hand & Sanchez, 2000; Lee,
+
+Alayne J. Ormerod and Leigh Ann Perry, Department of Psychology, University of Illinois at Urbana-Champaign; Linda L.
+Collinsworth, Department of Psychology, Millikin University.
+This research was supported in part by National Institute of
+Mental Health grant # MH50791-08. The opinions in this article
+are those of the authors. Portions of this article were presented at
+the annual conference of the American Psychological Association,
+Washington, DC, August 2005.
+Thanks to our anonymous reviewers and to members of the
+Work Experiences Lab at the University of Illinois.
+Address correspondence and reprint requests to: Alayne J.
+Ormerod, Department of Psychology, University of Illinois at
+Urbana-Champaign, 603 East Daniel St., Champaign, IL, 61820.
+E-mail: aormerod@cyrus.psych.uiuc.edu
+
+Croninger, Linn, & Chen, 1996). These efforts have contributed to our understanding of harassment in schools, particularly the educational and psychological consequences
+of sexual harassment and the importance of appraisal when
+considering the link between harassment and outcome.
+However, findings that uniformly high numbers of
+students report sexual harassment raise questions about
+whether boys and girls have similar experiences of harassment, the meaningfulness of describing rates, and whether
+current measurement of harassment has adequately described gender experiences with harassment. The purpose
+of the present study is to better understand high school
+students’ experiences with sexual harassment using a survey instrument that provides methodological advances over
+previous measures. Specifically, we investigated the contributions of school climate, peer-to-peer sexual harassment,
+and adult-to-student sexual harassment to psychological,
+health, and school outcomes for girls and boys and the role
+of gender in predicting peer harassment.
+Extent and Appraisal of High School Harassment: Why
+Do We Need New Methods for Measuring
+Sexual Harassment?
+Despite contributions of large-scale studies such as the
+AAUW surveys, research on high school harassment has
+been plagued with many of the same problems that faced
+113
+
+114
+early research of sexual harassment in work organizations.
+For example, research in this area has relied on measures that lack a theoretical framework for conceptualizing harassing behaviors, with results typically reported
+item by item or by grouping items rationally into types
+of behaviors, such as physical and nonphysical (e.g.,
+AAUW, 1993, 2001; Duffy et al., 2004). Although logical, such methods of categorization may not accurately
+reflect psychological or institutional definitions of sexual
+harassment and do not describe an underlying structure
+of harassment (e.g., gender harassment, unwanted sexual attention, and sexual coercion; Fitzgerald, Gelfand, &
+Drasgow, 1995; Gelfand, Fitzgerald, & Drasgow, 1995).
+Using a list of behaviors, rather than a reliable instrument, also runs the risk of assessing the construct incompletely, thereby underestimating actual incidence and underrepresenting the array of experiences an individual can
+encounter.
+Further, various researchers have used differing definitions of harassment or relied on participants supplying their
+own definitions rather than asking about behaviors (e.g.,
+“said offensive things about your body”) that are consistent
+with theoretically driven definitions of harassment. For example, in one study, participants were asked “if they had
+been the target of sexually inappropriate behavior in high
+school” (Corbett, Gentry, & Pearson, 1993, p. 97). Such
+methods of assessing sexual harassment require individuals
+to label their experiences as inappropriate, which is problematic because far fewer women label their experiences as
+sexual harassment than experience unwanted sex-related
+behavior at school or work (e.g., Fitzgerald et al., 1988;
+Magley, Hulin, Fitzgerald, & DeNardo, 1999; Schneider,
+Swan, & Fitzgerald, 1997).
+In those studies modeled after the AAUW survey, students were given a definition of sexual harassment before
+assessing whether they experienced any of 14 harassing behaviors. Providing a definition of harassment at the outset
+cues students to label their experiences as harassment before being asked about behavioral experiences, which can
+introduce error into the data. Research demonstrates that
+not only do substantial differences exist in perceptions of
+what constitutes sexual harassment, but also many respondents are reluctant to use the label (Koss, 1990). Findings
+support that labeling has limited value in predicting outcomes beyond that of incidence rates (Magley et al., 1999;
+Munson, Miner, & Hulin, 2001).
+Current research also varies as to the length of time during which the harassment is assessed, from 2 weeks (Duffy
+et al., 2004) to the entire length of high school attendance
+(Houston & Hwang, 1996), with some researchers measuring harassment retrospectively by asking college students
+about their high school experiences (e.g., Corbett et al.,
+1993). Although not all methods of assessing harassment
+have inherent problems, the use of various methods can
+make comparisons difficult across studies because the rates
+of harassment are not directly comparable. Thus, we argue
+
+ORMEROD ET AL.
+that it is important to assess sexual harassment with a behavioral measure that conforms to current theory and definition.
+Whereas reporting rates of harassment provides information about the frequency of occurrence and helps to
+establish the extent of such behavior, reporting the target’s
+appraisal communicates whether the target found the harassing behaviors distressing and can provide information
+about whether the behavior was meaningful. Assessing subjective appraisal along with frequency is important because
+it can distinguish extant behavior that is inconsequential to
+the target from that which is considered harmful. With rates
+so high, some have suggested that sexual interactions among
+teens in schools are an accepted (if not welcomed) component of adolescents’ lives. Contrary to such suggestions,
+research indicates that both boys and girls are distressed by
+harassing behaviors, but that girls are far more likely to find
+harassment upsetting than boys (AAUW, 2001; Duffy et al.,
+2004; Fineran & Bennett, 1999).
+Interestingly, in some of the studies reviewed, students
+were not asked to appraise their own experiences but rather
+whether they would find such experiences upsetting if they
+were to happen to them (e.g., Hand & Sanchez, 2000; Lee
+et al., 1996); thus, appraisal did not directly assess personal harassment experiences. This method of measuring
+appraisal raises the question of how closely the appraisal
+of hypothesized behavior corresponds to appraisal of actual
+experiences. A potentially more reliable method of assessing the degree to which harassment is distressing to a target
+is to measure appraisals of experienced behavior.
+Considering Gender
+Although rates of sexual harassment are exceptionally high
+for both girls and boys, rates for girls exceed those of boys
+(88% of girls and 83% of boys report peer harassment,
+and 41% of girls and 36% of boys report harassment by
+school personnel; AAUW, 2001). Girls also perceive harassing experiences as more harmful and upsetting than do boys
+(Hand & Sanchez, 2000; Lee et al., 1996) and receive “qualitatively more severe, physically intrusive, and intimidating
+forms of harassment” (Hand & Sanchez, 2000, p. 740). Further, girls have worse outcomes (Hand & Sanchez, 2000),
+and although not a focus of this study, boys harass more than
+girls (Hand & Sanchez, 2000). Thus, harassment cannot
+be conceptualized as gender neutral; rather, gender must
+be a critical aspect of understanding and addressing this
+problem.
+Gender is particularly important to consider when looking at high school harassment given the context of the developmental stage of high school students and gender-role
+socialization. It is important to note that victimization experiences of adolescents in high school may be different from
+those of adults in the workplace. One factor that is blatantly
+different between the two groups is that of developmental
+stage. Both biological and social changes in development
+
+High School Sexual Harassment
+may affect experiences of peer sexual harassment. Among
+these changes are puberty, maturation, and changes in the
+peer group. The rate at which adolescents physically mature, either earlier or later than their peers, may also leave
+them vulnerable to victimization. A study by Craig, Pepler,
+Connolly, and Henderson (2001) found a relationship between puberty and sexual harassment: Adolescents who had
+matured early were found to be at increased risk for sexual
+harassment.
+Gender-role socialization is also being reinforced by
+peers within the school setting. Although an overt power
+differential does not exist between male and female peers
+as it does between teachers, administrations, and students,
+power differentials between males and females in the outside world carry into the classroom (Grube & Lens, 2003),
+creating a hierarchy of power in which male students are in
+a dominant position over female students.
+We argue that it is necessary to assess whether there
+are gender differences in experiences of sexual harassment
+given the context within which harassment is taking place
+and that girls report more harassment and related distress.
+In the current study, we hypothesize that girls will report
+more peer harassment and appraise it as more upsetting
+than boys.
+School Climate
+School climate is defined variously in the literature on high
+school harassment. One perspective describes it as teachers’ recognition of, and attention to, inappropriate behaviors in school. Under this rubric, some have suggested that
+students perceive teachers as generally unresponsive to student complaints about sexual harassment and that teachers
+typically ignore harassment that occurs in front of them
+in public areas such as hallways and the cafeteria (AAUW,
+1993; Dupper & Meyer-Adams, 2002; Hand & Sanchez,
+2000; Lee et al., 1996).1 Lee and colleagues (1996) examined various theoretical positions for their ability to explain
+sexual harassment in the schools, conceptualizing school
+personnel harassment of students as an “abuse of organizational power.” They found that such harassment was related
+to increases in the overall occurrence and severity of sexual
+harassment in the school, particularly for girls. Presumably,
+when such power abuse occurs it sends a message that harassing behavior is tolerated. Given that targets of sexual
+harassment by school personnel are most often girls, this
+message contains a gendered element about who is an acceptable target.
+The research on school climate has elements in common with studies of organizational climate in the workplace, which demonstrate that a climate supportive of sexual
+harassment is directly associated with increases in harassment and negative psychological, work, and health outcomes (e.g., Fitzgerald, Hulin, & Drasgow, 1995; Pryor,
+Giedd, & Williams, 1995; Pryor & Whalen, 1997; Williams,
+Fitzgerald, & Drasgow, 1999). Some researchers define organizational climate as shared perceptions about contingen-
+
+115
+cies between sexually harassing behaviors and subsequent
+outcomes and operationalize climate as the risk of complaining about harassment, the likelihood that a complaint
+would be taken seriously by one’s superiors, and the probability that the perpetrator would be sanctioned (Hulin,
+Fitzgerald, & Drasgow, 1996). As such, this method assesses perceptions about how those in authority respond
+to sexually harassing behavior (Sims, 2005).
+Hulin and colleagues’ (1996) conceptualization of organizational climate has been adapted to a high school context
+(Chesire, 2004). Perceptions that one’s school is tolerant
+of sexual harassment were related to more frequent experiences of sexual harassment for girls and lowered social
+support for boys and girls (Chesire, 2004). In this research,
+Chesire tested a model of workplace harassment adapted
+to the school context and concluded that using a workplace
+framework can be valuable for understanding the nature of
+harassment in the schools. Given that there has been less
+systematic research on high school harassment than harassment in the workplace, applying frameworks and methods
+from one context to the other can help to advance those
+areas with less research and establish the generalizability of
+harassment-related experiences across contexts.2
+Consistent with an organizational approach and Lee
+et al.’s (1996) “abuse of power” conceptualization, we examined the contributions of school climate and adult-tostudent harassment to peer harassment. We hypothesize
+that, as school climate becomes more accepting of sexual harassment and as students report more harassment by school
+personnel, peer harassment will increase.
+Outcomes
+Research links experiences of sexual harassment in adults
+to an array of negative psychological, health, and educational outcomes, including lowered self-esteem (Gutek &
+Koss, 1993; Harned & Fitzgerald, 2002) and psychological distress (Harned & Fitzgerald, 2002; Huerta, Cortina,
+Pang, Torges, & Magley, 2006). Additionally, there is evidence that the consequences of harassment may persist over
+time (Duffy et al., 2004; vanRoosmalen & McDaniel, 1998).
+Psychological consequences thought to be associated with
+peer harassment include negative self-evaluations, such as
+self-consciousness, embarrassment, fear, feeling less confident, doubts about one’s ability to succeed in graduate
+school or have a happy relationship, confusion about oneself, and feeling less popular, along with symptoms similar
+to posttraumatic stress disorder (AAUW, 1993, 2001; Duffy
+et al., 2004; Grube & Lens, 2003; Hand & Sanchez, 2000;
+Lee et al., 1996; Sabella, 2001; Strauss, 2003). Although the
+relationship between self-esteem and harassment has not
+been examined with adolescents, given that harassment is
+related to adolescents’ self-evaluations, self-esteem may be
+affected as well.
+Negative health outcomes of adolescent sexual harassment comprise a range of physical symptoms (e.g.,
+
+116
+headaches, problems sleeping, nervousness) including
+those related to eating, such as nausea, loss of appetite,
+and loss of interest in eating (Duffy et al., 2004; Grube &
+Lens, 2003; Hand & Sanchez, 2000; Lee et al., 1996; Timmerman, 2004). Research with female college students and
+working women finds direct and indirect (e.g., mediated
+through psychological distress) relationships between experiences of sexual harassment and negative body image
+and disturbed eating (Harned, 2000; Harned & Fitzgerald,
+2002; Huerta et al., 2006). The impact of sexual harassment
+on body image has not been established in high school students, but is important to consider given that harassment
+can be directed at one’s appearance and is associated with
+psychological distress and changes in eating behavior in high
+school students.
+Negative educational outcomes for adolescents include
+those associated with school withdrawal such as talking less
+in class, receiving lower grades, not wanting to go to school,
+skipping classes, thoughts of changing schools, getting in
+trouble with school authorities, paying less attention in class,
+and finding it more difficult to study. Related behavioral
+consequences have been described as attempts to manage
+the harassment or avoid the harasser(s) by altering routes to
+and from school, changing one’s seat in class to get farther
+away from someone, avoiding the harasser, getting someone
+else to serve as one’s protector, changing one’s friends, quitting particular activities or sports, other attempts at avoiding
+school locales or individuals, and other acts that either harm
+or limit one’s self (AAUW, 1993, 2001; Duffy et al., 2004;
+Hand & Sanchez, 2000; Lee et al., 1996; Strauss, 2003).
+Such behaviors appear to reflect issues of safety for those
+students who have been harassed, as they could serve as
+methods to assist harassed students in feeling safer while at
+school.
+The AAUW studies (1993, 2001) found that girls are
+more likely to experience negative psychological and educational consequences from harassment than boys, which
+raises the question of whether sexual harassment is qualitatively different for boys and girls. Hand and Sanchez
+(2000) suggest that there is a difference and that it may
+be due to students’ perceptions of harmfulness as well as
+the frequency and severity of the harassment experienced.
+Duffy et al. (2004) report that the link between sexual harassment and negative psychological and educational consequences is indeed mediated by how upset the student
+was by the behavior(s). Such findings are consistent with
+research on workplace harassment in which the subjective
+appraisal of harassing experiences has been found to mediate the relationship between harassment frequency and
+outcomes (Langhout et al., 2005; Reed, 2004). Lazarus and
+Folkman’s (1984) cognitive stress framework offers an explanation for this relationship, suggesting that it is the appraisal of the event as stressful or upsetting, in combination
+with the event itself, that is thought to determine outcome
+rather than the event alone (Fitzgerald, Swan, & Fischer,
+1995; Fitzgerald, Swan, & Magley, 1997).
+
+ORMEROD ET AL.
+Hand and Sanchez’s (2000) analyses of the AAUW (1993)
+data used hypothetical appraisal ratings (termed perceived
+harmfulness) of how upset the student would be if they experienced sexually harassing behaviors. Their findings suggest that girls perceive greater harm from harassment than
+boys and that girls report higher frequencies of physical, invasive forms of sexual harassment. Hand and Sanchez created weighted scores by multiplying the perceived harmfulness ratings by frequency scores to assess what they term
+severity of harassing experiences and found that girls experience greater severity. Similarly, Lee et al. (1996), also using
+AAUW data, created a severity score from three factors (hypothetical appraisal ratings, frequency of harassment, and
+the number of types of harassment) and found that girls experience greater severity of harassment. Severity predicted
+outcomes such that the more severely a student was harassed, the greater the chance for experiencing negative
+psychological, educational, and behavioral outcomes.
+However, some research on the consequences of high
+school harassment has been criticized because only those
+students who have been harassed are directed to answer
+questions about outcomes (Duffy et al., 2004). Additionally, on some surveys’ questions about outcomes have been
+placed after those about harassment, and students are asked
+whether the harassment “caused” them to experience the
+particular outcome (e.g., AAUW, 2001). Such practices are
+problematic because they curtail meaningful comparisons
+of outcomes for harassed and nonharassed students and
+allow for response bias. A more neutral method of measuring outcomes is to ask all students about psychological and
+health status and school outcomes prior to any mention of
+sexual harassment.
+In this study, we hypothesize that outcomes (self-esteem,
+negative body image, psychological distress, health satisfaction, sense of safety at school, and withdrawal from school)
+will be a function of harassment by school personnel, student perceptions of school climate, and peer harassment.
+We tested these relationships separately by gender to examine whether this set of variables was meaningful for both
+girls and boys.
+METHOD
+Participants
+High school seniors, 310 girls and 268 boys (N = 578),
+were surveyed from seven public high schools in a Midwestern state. Participants ranged in age from 16 to 20
+years (M = 17.36, SD = 0.54). Participants identified their
+race or ethnicity as African American/Black (20.3%, n =
+117), Asian (0.5%, n = 3), Spanish/Hispanic/Latino (3.6%,
+n = 21), Native American (1.0%, n = 6), Other/Multiracial
+(4.0%, n = 23), and White (75.3%, n = 434). Percentages
+sum to more than 100 because participants were able to
+check more than one racial or ethnic category. Self-reported
+grades were in the “B” range (M = 5.73, SD = 1.62), and
+more than half of the participants (56.3%, n = 324) were
+
+High School Sexual Harassment
+
+117
+Table 1
+
+Descriptive and Psychometric Information for the Major Variables
+Girls (n = 310)
+Scale (number of items)
+Climate (15)
+Adult SHab (19)
+Peer SHab (23)
+Self-esteem (10)
+Negative body image (10)
+Psychological distress (14)
+Health satisfaction (7)
+Sense of safety at school (4)
+Withdrawal from school (4)c
+
+Boys (n = 259)
+
+Range
+
+M
+
+SD
+
+α
+
+Range
+
+M
+
+SD
+
+α
+
+15-75
+19-180
+23-232
+12-40
+10-60
+0-53
+7-21
+4-20
+4-19
+
+35.07
+30.54
+70.06
+31.07
+29.82
+10.32
+16.69
+15.37
+9.18
+
+10.86
+25.91
+44.45
+5.94
+15.20
+9.66
+3.19
+4.16
+3.66
+
+.88
+.93
+.92
+.89
+.97
+.89
+.74
+.78
+.59
+
+15-73
+19-77
+23-148
+15-40
+10-60
+0-56
+8-21
+4-20
+4-20
+
+32.30
+22.82
+44.56
+32.42
+17.92
+9.04
+18.16
+16.31
+10.26
+
+10.86
+8.90
+22.18
+5.43
+10.68
+9.59
+2.90
+3.84
+3.56
+
+.88
+.80
+.86
+.87
+.95
+.89
+.74
+.77
+.56
+
+SH = sexual harassment.
+Adult school personnel or staff-to-student SH and peer-to-peer SH were weighted by appraisal.
+c
+The low alpha coefficients for this scale were likely due to a small number of items attempting to tap a wide range of
+withdrawal behaviors.
+a
+
+b
+
+in college preparatory classes, with 71.3% reporting that
+they planned to attend college following high school. The
+seven high schools included five from small to midsize rural towns with little racial and ethnic diversity (i.e., of the
+289 students in these five schools, 95% were White) and
+two midsize towns in which 69% and 34% of students were
+White, respectively.
+Procedure
+Public schools were recruited from a Midwestern state
+based on their likelihood to cooperate, thus constituting a
+convenience sample of schools. In five of the schools, a near
+census of the senior class was taken by having all seniors in
+school on the day of the survey take it in a central location
+(e.g., cafeteria) or by having the researchers survey students
+in a required senior class (e.g., senior English) throughout
+the day. In two schools, the administrator selected senior
+classes and allowed the research team to collect data during
+those classes throughout the day.
+Permission was gained from students and parents or
+guardians. Approximately 2 weeks prior to data collection,
+all parents of seniors received a permission letter via U.S.
+mail or carried home by their child that provided a description of the purpose of the study, contact information for
+the principal investigator and the university Institutional
+Review Board, and information about how to refuse their
+child’s participation. At the beginning of each administration, students were provided with an informed consent letter that provided information about the purpose of the
+study, their rights as a human subject, and contact information for the researchers and the university Institutional
+Review Board. Participating students signed and returned
+the informed consent prior to the survey being distributed.
+Two criteria were used to exclude surveys from analyses.
+Surveys were examined during data entry and any survey
+that appeared to be completed in a random or nonserious
+
+manner was flagged. These surveys were examined independently by two members of the research team, one of
+whom was the principal investigator. When both team members agreed that the responses were nonserious, the survey
+was excluded. Second, surveys that had a large amount of
+missing data (approximately 50% or more of eligible responses) were excluded. In all, nine surveys were excluded,
+all from boys, which resulted in a final sample of 310 girls
+(54.5%) and 259 boys.
+Instrumentation
+Information was gathered via a paper-and-pencil survey designed to reduce response bias. Methodological limitations
+present in earlier survey research on high school harassment
+were addressed by placing questions about outcomes at the
+beginning of the survey, independent from questions about
+harassment experiences; using theoretically grounded, behavioral, multi-item measures of peer and adult harassment
+experiences; asking participants to appraise actual harassment experiences; and assessing two aspects of school climate: perceptions of tolerance for sexual harassment and
+experiences with harassment by adult personnel. Descriptive statistics for all scales are presented in Table 1 and the
+intercorrelations among the major variables can be seen in
+Table 2.
+Demographic variables. Demographic variables were
+recoded to facilitate analyses. We were unable to conduct
+analyses separately by racial or ethnic group because, other
+than White, there were too few students in each group.
+We formed two dichotomous, nonoverlapping racial/ethnic
+groups, coded as Minority = 1 (n = 149, 26.3%) and
+White = 2 (n = 418, 73.7%). Self-reported grades were
+coded as 1 = mostly F’s (0.4% of the sample), 2 = mostly
+D’s (1.2%), 3 = more C’s than D’s (8.6%), 4 = mostly C’s
+(13.8%), 5 = more B’s than C’s (20.6%), 6 = mostly B’s
+
+118
+
+ORMEROD ET AL.
+Table 2
+Intercorrelations Among the Major Variables
+Scale
+
+1
+
+2
+
+3
+
+1 Climate
+–
+.23∗∗
+.17∗
+ab
+∗
+2 Adult SH
+.16
+–
+.57∗∗
+ab
+∗∗
+∗∗
+.21
+.60
+–
+3 Peer SH
+4 Self-esteem
+−.21∗∗ −.21∗∗ −.27∗∗
+5 Negative body image
+.03
+.23∗∗
+.24∗∗
+6 Psychological distress
+.17∗∗
+.14∗
+.37∗∗
+∗∗
+∗
+7 Health satisfaction
+−.18
+−.13
+−.25∗∗
+∗∗
+∗∗
+8 Sense of safety at school −.32
+−.24
+−.37∗∗
+9 Withdrawal from school
+.22∗∗
+.14∗
+.17∗∗
+
+4
+−.27∗∗
+−.08
+−.14
+–
+−.49∗∗
+−.53∗∗
+.47∗∗
+.35∗∗
+−.28∗∗
+
+5
+
+6
+
+.08
+.35∗∗
+−.01
+.25∗∗
+∗
+.18
+.26∗∗
+∗∗
+−.48
+−.54∗∗
+–
+.41∗∗
+.33∗∗
+–
+−.27∗∗ −.48∗∗
+−.14∗ −.34∗∗
+.12
+.25∗∗
+
+7
+−.32∗∗
+−.09
+−.15∗
+.43∗∗
+−.31∗∗
+−.50∗∗
+–
+.35∗∗
+−.28∗∗
+
+8
+
+9
+
+−.26∗∗
+.31∗∗
+∗∗
+−.19
+.10
+−.21∗∗
+.11
+.25∗∗ −.29∗∗
+−.09
+.14
+−.35∗∗
+.29∗∗
+∗∗
+.34
+−.29∗∗
+–
+−.23∗∗
+−.25∗∗
+–
+
+Note: Correlations for girls (n = 252) appear below the diagonal; correlations for boys (n = 202) are above the diagonal.
+a
+SH = sexual harassment.
+b
+Adult school personnel or staff-to-student SH and peer-to-peer SH were weighted by appraisal.
+∗
+p < .05. ∗∗ p < .01.
+
+(18.5%), 7 = more A’s than B’s (19.9%), and 8 = mostly
+A’s (16.7%). Length of time at high school was coded for
+years attending one’s high school from 1 to 6, with 87% of
+students having attended for 4 or more years. School attended was dummy coded from 1 to 7, with school 7, the
+largest school, as the comparison school in the regression
+equations.
+Sexual harassment from peers and appraisal. Experiences of peer-to-peer harassment were assessed using a 23item version of the Sexual Experiences Questionnaire–High
+School scale (SEQ-HS; Collinsworth, 2000). Items reflect
+a range of unwanted, sexually inappropriate behavior from
+high school peers along three dimensions of sexual harassment (i.e., gender harassment, 7 items; unwanted sexual
+attention, 7 items; and sexual coercion, 3 items); six additional questions ask about experiences with sexual assault.
+Respondents indicated how often each behavior happened
+to them while at their current high school (coded such that
+1 = never, 2 = once, 3 = twice or more). For items endorsed once or more, respondents were asked to appraise
+their level of distress along a 4-point scale coded 1 (not upset) to 4 (very upset). The appraisal ratings were used to
+weight each item by multiplying the appraisal score by the
+frequency score. Weighted items were summed to create a
+scale score for the 23 items, with higher scores reflecting
+more frequent and distressing peer-to-peer harassment.3
+The current measure had alpha coefficients of .92 for girls
+and .86 for boys.
+The SEQ-HS was based on the Sexual Experiences
+Questionnaire (SEQ; Fitzgerald, Gelfand et al., 1995;
+Fitzgerald et al., 1988), a measure of workplace and college
+harassment that has received strong support for its theoretical and psychometric properties (Arvey & Cavanaugh,
+1995). Wording and content were modified for a high
+school context, and additional items were created to reflect behaviors specific to high school experiences (e.g.,
+“hinted or said something bad would happen if you didn’t go
+
+along with something sexual, for example, that you would
+lose friendships or rumors would be spread about you”).
+Collinsworth reported that the SEQ-HS conforms to the
+three theoretically derived dimensions of sexual harassment
+(Gelfand et al., 1995) and reports alpha coefficients of .89
+for girls and .88 for boys.
+Sexual harassment from school personnel and appraisal.
+Harassment of students by teachers, administrators, and
+other adults at the high school was tapped by a 19-item measure (Collinsworth, 2000) adapted from the SEQ (Fitzgerald et al., 1988). Similar in format to the SEQ-HS, this
+measure presented respondents with items that described
+different types of sexual harassment or assault behaviors
+by teachers and other school personnel (e.g., told sexual
+stories or jokes that you didn’t want to hear, made forceful
+attempts to have sex with you). Collinsworth reported alpha
+coefficients of .89 for girls and .95 for boys.
+The response scales for frequency and appraisal were
+identical to those described for the SEQ-HS, and harassment by adults was weighted in the same manner. Weighted
+items were summed, with higher scores reflecting more frequent and distressing harassment by school personnel to
+students (α = .93 for girls and .80 for boys).
+Perceived school climate. Perceptions that one’s school
+is tolerant of sexual harassment were assessed using an
+adapted version of the Organizational Tolerance of Sexual
+Harassment Scale (OTSH; Hulin et al., 1996). The OTSH
+(overall α = .96) measures shared perceptions of whether
+one’s organization tolerates sexual harassment.
+The OTSH was adapted to a school context and students
+were presented with five hypothetical scenarios of different types of sexual harassment directed toward female students4 : gender harassment (GH) by a male peer (e.g., “A
+group of boys stand in the hallways or cafeteria and make
+sexual comments or noises when girls walk by. The girls
+are offended by the boys’ behavior.”), GH by a peer whose
+
+High School Sexual Harassment
+gender is not specified, GH by a teacher whose gender is not
+specified, unwanted sexual attention (USA) by a male peer,
+and USA by a male teacher. Following each scenario, respondents were asked if the target(s) of the harassment were
+to complain to a school authority, to rate whether she/they
+would incur risk, her/their complaint would be taken seriously, and the offender(s) would be disciplined. Each question was rated along a 5-point response scale ranging from 1
+(strongly disagree) to 5 (strongly agree). The 15 items (five
+scenarios, each with three questions) were then summed,
+with higher scores reflecting perceptions that the school
+climate is more tolerant of sexual harassment (α = .88 for
+girls and for boys).
+Self-esteem. The 10-item Rosenberg Self-Esteem Scale
+(Rosenberg, 1965), a widely used measure of global selfesteem (Harned & Fitzgerald, 2002, report an alpha coefficient of .89 in a sample of adult women), was used to assess
+respondents’ sense of self and abilities (e.g., “On the whole,
+I am satisfied with myself”). Respondents rated the items
+along a 4-point scale ranging from 1 (strongly disagree) to
+4 (strongly agree). The scale was scored by reversing five
+items that were worded in a negative direction and summing the items such that higher scores indicated greater
+self-esteem (α = .89 for girls and .87 for boys).
+Psychological distress. An abbreviated version of the
+Brief Symptom Inventory (BSI; Derogatis & Spencer,
+1982), a self-report symptom scale designed to measure
+symptoms of psychopathology, was used to measure psychological distress. The BSI consists of items describing a
+variety of problems and complaints; Derogatis and Spencer
+report adequate convergent and predictive validity in clinical and nonclinical samples. In the present study, three
+dimensions of the BSI were tapped: depression (5 items;
+e.g., “Feeling blue”), anxiety (7 items; e.g., “Feeling fearful”), and phobic anxiety (2 items; e.g., “Feeling afraid you
+will faint in public”). Respondents were asked whether they
+had experienced symptoms during the past week, and items
+were rated on a 5-point scale from 0 (not at all) to 4 (extremely). The psychological distress scale was formed by
+summing the 14 items such that higher scores reflected
+greater distress (α = .89 for girls and for boys).
+Health satisfaction. Health satisfaction was assessed via
+a subscale of the Retirement Descriptive Index (Smith,
+Kendall, & Hulin, 1969), which contains nine short descriptive phrases or adjectives reflecting respondents’ evaluation
+of their own health (e.g., “Never felt better”). This subscale
+has been found to be reliable and stable across a 2-year period (Smith et al., 1969), with a reported coefficient alpha
+of .70 (Hanisch & Hulin, 1990). This scale has been used
+reliably with individuals of various ages. For example, Lim
+and Cortina (2005) reported an alpha coefficient of .74 with
+women circuit court employees, ages 21–78 (mean age approximately 40 years), and Harned and Fitzgerald (2002)
+reported an alpha coefficient of .82 with adult women.
+
+119
+Responses to these items were provided on a 3-point
+scale from 1 (no) to 3 (yes). Following reverse scoring of
+five items that indicated poor health, this scale was scored
+by summing the nine items so that higher scores indicated
+greater health satisfaction. Two items were dropped following psychometric analysis because of poor performance in
+relation to the total scale; thus, health satisfaction was measured by a 7-item scale with alpha coefficients of .74 for
+both girls and boys.
+Negative body image. Preoccupation with body image
+was assessed by a 10-item version of the Body Shape Questionnaire (BSQ-R-10; Mazzeo, 1999). The BSQ-R-10 assesses intensity of preoccupation with body image (e.g.,
+“Have you felt ashamed of your body?”) during the past
+4 weeks along a 6-point scale from 1 (never) to 6 (always). Mazzeo provided evidence for strong reliability and
+criterion and construct validity when used with female
+undergraduates. The average age in Mazzeo’s studies was
+19.5 years, which suggests that the BSQ-R-10 would be
+adequate for use with high school senior women. A slight
+wording change was made to one item (changing “women”
+to “people”) to adapt the scale for use with women and men.
+The resulting strong alpha coefficients (α = .97 for girls
+and .95 for boys) and the pattern of correlations between
+the BSQ-R-10 and other measures of outcome (e.g., selfesteem and psychological distress; see Table 2) is strikingly
+similar for both young women and men, which suggests that
+the BSQ-R-10 can be adapted for use with young men. The
+10 items were summed to form a scale score with higher
+scores reflecting a negative preoccupation with body image.
+Safety. Students’ perceptions of personal safety at
+school were measured using four items (e.g., “I feel I can
+walk down any hall of the high school and be safe”) from
+the Student Safety Scale (α = .83; Collinsworth, 2000) that
+were rated along a 5-point scale (1 = disagree to 5 = agree).
+Scores on the items were summed to create a scale score
+with high scores reflecting perceptions of safety at school
+(α = .78 for girls and .77 for boys).
+Withdrawal. Student withdrawal from school and class
+activities was measured along a 5-point scale (1 = disagree
+to 5 = agree) using four researcher-developed items (e.g.,
+“I stay home from school a couple of times a month even
+though I am not sick”). After reversing an item, scores on the
+four items were summed to create a scale score with high
+scores reflecting withdrawal from school (α = .59 for girls
+and .56 for boys). This scale attempted to tap a wide range of
+withdrawal behavior (e.g., thoughts of dropping out, skipping school, disinterest in school, and poor academic effort) with a limited number of items (correlations among
+the items ranged from .21 to .37 for girls and .17 to .31 for
+boys), thus producing a lower alpha coefficient. Although
+correlations between withdrawal and other variables are as
+expected (see Table 2), given the lower-than-desirable alpha
+coefficients, results using this scale should be interpreted
+cautiously.
+
+120
+
+ORMEROD ET AL.
+RESULTS
+
+Experiences of Harassment
+Looking solely at frequencies, nearly all students reported
+one or more experiences of peer harassment (95.5% of
+girls and 88.4% of boys). However, the difference in mean
+scores (see Table 1) for peer harassment (d = .71) indicates that there was a moderately large difference, with
+girls having more frequent, upsetting experiences of peer
+harassment. Approximately 53% of girls and 38% of boys
+reported harassment from school adults with a difference in
+mean scores of .38, indicating that the girls reported more
+frequent, upsetting harassment from school personnel, but
+the difference is smaller than in the case of peers (Cohen,
+1988).
+We conducted a hierarchical linear regression analysis
+in SPSS to identify factors that contribute to peer harassment. We were interested in whether gender, perceived
+tolerance for sexual harassment by school personnel, and
+harassment by school personnel were significantly associated with experiences of peer harassment. Control variables
+included length of time at school (to control for potential
+differences in students’ experiences of harassment), school
+attended, ethnicity (research is mixed about the relationship between ethnicity and harassment; e.g., Chesire, 2004;
+Hand & Sanchez, 2000; Lee et al., 1996), and school grades
+(likewise, research on the relationship between grades and
+harassment has been mixed; e.g., Lee et al., 1996; Cardwell,
+2000). Ethnicity and length of time at school were found
+to be nonsignificant in these and subsequent analyses and
+were dropped.
+Variables were entered into the regression equation in
+five blocks in the following order: high school, self-reported
+grades, gender, school climate or tolerance for sexual harassment, and sexual harassment by school personnel. Missing
+data were deleted listwise. We set R2 ≥ 1% of the variance explained as an additional criterion for determining
+the significance of each variable. Table 3 summarizes the
+results.
+The regression model accounted for a significant 45.1%
+of the variance in peer sexual harassment. As predicted,
+more frequent, distressing peer harassment was associated
+with perceptions that one’s school climate is tolerant of sexual harassment, more frequent, distressing harassment by
+adult school personnel, and gender, with girls experiencing
+more harassment, F(10, 478) = 39.23, p < .001.
+Outcome Correlates for Adult Harassment, School
+Climate, and Peer Harassment
+We conducted hierarchical multiple linear regression analyses separately for girls and boys because it is unclear in the
+literature whether the phenomenon of sexual harassment
+is the same for women and men. Early research hypothesized that sexual harassment is a fundamentally different
+experience for men than it is for women, with different
+
+Table 3
+Summary of Hierarchical Regression Analysis With Peer
+Harassment as the Criterion
+Step
+
+Variable
+
+1
+2
+3
+4
+5
+
+Schoola
+Grades
+Gender
+Climate
+Adult SHb
+
+β
+−.084
+−.223
+.090
+.548
+
+R2
+.031∗
+.009
+.118∗∗
+.027∗∗
+.266∗∗
+
+a
+Schools were dummy coded. β’s for schools are not shown to preserve
+space and are available from the first author.
+b
+SH = sexual harassment. Adult school personnel or staff-to-student SH
+and peer-to-peer SH were weighted by appraisal. Gender was coded such
+that girls = 1 and boys = 2. N = 489.
+∗
+p < .05. ∗∗ p < .01.
+
+frequencies for types of harassing behavior and men attributing different meanings and reactions to such experiences (Berdahl, Magley, & Waldo, 1996; Cochran, Frazier,
+& Olson, 1997; Waldo, Berdahl, & Fitzgerald, 1998). Waldo
+et al. (1998), in particular, noted that research should examine experiences of harassment to clarify the meaning of
+harassment for male targets. In support of this, research
+demonstrates that behaviors women consider sexually harassing are not similarly perceived by men (see, e.g., Rotundo, Nguyen, & Sackett, 2001, for a meta-analytic review
+of gender differences in perceptions of harassment).
+We examined whether harassment by school personnel,
+students’ perceptions of school personnel’s tolerance for
+sexual harassment (school climate), and peer harassment
+were negatively associated with educational, psychological,
+and health outcomes after controlling for the potential effects of school and grades. School and grades were entered
+into the first step followed by sexual harassment by school
+personnel in step 2, tolerance of harassment in step 3, and
+peer harassment in step 4. We conducted a total of six regressions, regressing each outcome onto the variables described above. A p value of ≤ .008 (Bonferroni correction)
+was utilized to control for Type I error. The standardized
+beta coefficients and R2 for each outcome are presented
+in Tables 4 and 5.
+Psychological and physical well-being. In the model
+predicting self-esteem for 12th-grade girls, 18.5% percent
+of the variance was accounted for, F(10, 254) = 5.78, p <
+.001. For boys, the model predicted 17.3% of the variance
+for self-esteem, F(10, 200) = 4.20, p < .001. After controlling for school and grades and entering harassment by
+school adults, school climate contributed a significant 3.6%
+change in R2 in the model for girls and 6.1% in the boys’
+model. Thus, as predicted, perceptions that one’s school is
+tolerant of sexual harassment were associated with lower
+self-esteem.
+The regression models predicting negative body image accounted for a significant 12.3% of the variance for
+
+High School Sexual Harassment
+
+121
+Table 4
+
+Summary of Hierarchical Regression Analyses by Gender for Variables Predicting Self-Esteem, Negative Body Image,
+Psychological Distress, Health Satisfaction
+Self-Esteem
+
+Step
+
+Negative Body Image
+
+Psychological Distress
+
+Health Satisfaction
+
+Girls
+(n = 265)
+
+Boys
+(n = 211)
+
+Girls
+(n = 266)
+
+Boys
+(n = 218)
+
+Girls
+(n = 262)
+
+Boys
+(n = 214)
+
+Girls
+(n = 267)
+
+Boys
+(n = 217)
+
+β
+
+R2
+
+β
+
+R2
+
+β
+
+β
+
+β
+
+β
+
+R2
+
+β
+
+R2
+
+β
+
+.115∗
+
+.122
+
+.080†
+
+.025
+
+.069† −.086
+
+.072† −.128
+
+.071† −.069
+
+.060†
+
+.185
+
+.140∗
+
+.149
+
+.085†
+
+.006†
+.062
+.061∗ −.023
+.026†
+.209
+
+.028∗ −.233
+.000†
+.067
+.026∗
+.349
+
+.001† −.176
+.004†
+.085
+.078∗
+.407
+
+.007†
+.017†
+.096∗
+
+.030†
+.067
+.087∗ −.125
+.018† −.169
+
+.003†
+.112
+.020† −.285
+.017† −.151
+
+.000†
+.076∗
+.015†
+
+1 Schoola
+.234
+grades
+2 Adult SHb
+.015
+3 Climate
+−.169
+4 Peer SHb −.187
+
+.014†
+.079
+.036∗ −.249
+.020† −.202
+
+R2
+
+R2
+
+R2
+
+.037
+.309
+.169
+
+R2
+
+Schools were dummy coded. β’s for schools are not shown to preserve space and are available from the first author.
+SH = sexual harassment. Adult school personnel or staff-to-student SH and peer-to-peer SH were weighted by appraisal.
+∗
+p < .008. † ns.
+a
+
+b
+
+Table 5
+Summary of Hierarchical Regression Analyses by Gender for Variables Predicting Perceptions of
+Safety at School and School Withdrawal
+School Safety
+Girls
+(n = 270)
+Step
+1 Schoola grades
+2 Adult SHb
+3 Climate
+4 Peer SHb
+
+School Withdrawal
+
+Boys
+(n = 215)
+
+Girls
+(n = 268)
+
+Boys
+(n = 215)
+
+β
+
+R2
+
+β
+
+R2
+
+β
+
+R2
+
+β
+
+.250
+.070
+−.238
+−.242
+
+.195∗
+.012†
+.068∗
+.034∗
+
+.199
+.023
+−.190
+−.126
+
+.128∗
+.006†
+.033∗
+.010†
+
+−.381
+−.002
+.192
+.091
+
+.222∗
+.007†
+.039∗
+.005†
+
+−.275
+−.038
+.192
+.079
+
+R2
+.170∗
+.001†
+.034∗
+.004†
+
+Schools were dummy coded. β’s for schools are not shown to preserve space and are available from the first author.
+SH = sexual harassment. Adult school personnel or staff-to-student SH and peer-to-peer SH were weighted by appraisal.
+∗
+p < .008. † ns.
+a
+
+b
+
+girls, F(10, 255) = 3.59, p < .001, and 15.5% for boys,
+F(10, 207) = 3.80, p < .001. For girls, adult harassment significantly contributed 2.8% of the variance beyond school and grades. Peer-to-peer harassment significantly accounted for 2.6% of the variance beyond that
+predicted by all other variables for girls and 7.8% of the variance for boys. These findings were also supportive of our
+predictions.
+The regression models accounted for a significant 19.2%
+of the variance in psychological distress for 12th-grade girls,
+F(10, 251) = 5.95, p < .001, and 19.5% of the variance in
+psychological distress for boys, F(10, 203) = 4.93, p < .001.
+According to the R2 for girls in Table 4, peer harassment was the sole significant predictor and accounted for
+9.6% of the variance in psychological distress after all other
+variables were entered into the model. School climate was
+the sole significant predictor for boys, accounting for 8.7%
+of the variance beyond that of school, grades, and harassment by school personnel. Thus, as expected, climate was
+significantly associated with reports of negative psychological well-being for boys and peer harassment with negative
+well-being for girls.
+
+The regression model examining health satisfaction in
+12th-grade girls accounted for a significant 18.0% of the
+variance, F(10, 256) = 5.63, p < .001; however, beyond
+school, no variables met the significance criteria of .008.
+For senior boys, the regression models accounted for a significant 17.5% of the variance in health satisfaction, F(10,
+206) = 4.38, p < .001, with school climate as the only significant predictor.
+School outcomes. The regression model accounted for
+a significant 31% of the variance in feelings of safety at
+school for 12th-grade girls, F(10, 259) = 11.65, p < .001,
+and 17.7% for boys, F(10, 204) = 4.40, p < .001. As shown
+in Table 5, school climate significantly predicted 6.8% of
+the variance for girls and 3.3% for boys, but peer harassment was significant for girls alone (3.4% of the variance).
+For both girls and boys, a school climate that is tolerant
+of harassment was associated with feeling unsafe while at
+school. For girls, peer harassment was also associated with
+feeling unsafe.
+For girls, the regression model accounted for a significant 27.2% of the variance in withdrawal from school,
+
+122
+
+ORMEROD ET AL.
+
+F(10, 257) = 9.61, p < .001. For boys, the regression
+model accounted for a significant 20.9% of the variance,
+F(10, 204) = 5.40, p < .001. After controlling for school
+and grades, school climate significantly contributed 3.9%
+of the variance for girls and 3.4% for boys, as expected.
+DISCUSSION
+Results of our study support earlier findings that students
+report high rates of peer sexual harassment in high school.
+However, the meaning of such behavior appears to be somewhat different for boys and girls; to better understand the
+nature of these experiences, it is important to look beyond
+simple incident rates to those variables that are linked with
+harassment. In the first regression equation, gender was
+strongly associated with peer harassment, with girls experiencing more peer harassment than boys. In the following
+set of regression models, experiences of sexual harassment
+were directly and negatively associated with three of six outcomes for girls but only one for boys. Further, when looking
+at the difference in mean scores for harassment, girls experienced more harassment by peers and adult school personnel than did boys. Taken together, these findings support
+that sexual harassment in the schools is not a uniform experience, however widespread; rather, it appears to be a
+gendered phenomenon that is directly and negatively associated with outcomes for girls.
+Current findings support the importance of including a
+measure of cognitive appraisal when assessing harassment.
+Our measure weighted distressing experiences more heavily, reflecting a range of experiences from the nondisturbing
+to those that were threatening or stressful. Consistent with
+Lazarus and Folkman’s (1984) theory and findings from the
+literature (Duffy et al., 2004; Langhout et al., 2005; Reed,
+2004), the association between harassment and outcome
+was likely influenced by the strength of the cognitive appraisals. Senior male students reported fewer, less upsetting
+experiences of harassment and in turn had far fewer stressrelated consequences directly associated with harassment.
+That girls had more frequent, distressing experiences of
+sexual harassment is in line with theories of power differentials discussed in the introduction. Although peer-to-peer
+harassment occurs between teenagers of relatively the same
+age and position within the school (i.e., students), a structural power differential between males and females can be
+conceptualized as playing out in the schools as it does in
+the outside world. Given this imbalance, girls may experience harassment as more threatening because they have
+been socialized within a larger cultural context in which
+women are more vulnerable to victimization and viewed as
+less powerful than men.
+A key finding was that the damaging effects of harassment extended beyond those who were directly harmed by
+it to others in the environment. For example, school climate was associated with experiences of sexual harassment
+and school quality of life. For girls and boys, climate was
+
+related to feeling unsafe while at school, withdrawal from
+school, and feelings of lowered self-esteem. For boys, a
+negative climate, that is, a climate that tolerates the harassment of girls, was the only major variable associated with
+negative psychological, health, and educational outcomes
+with the exception of body image. Given that boys are harassed less frequently and appraise their experiences as less
+upsetting, these findings suggest that boys may suffer negative consequences regardless of whether they are targets
+of harassment. Supportive of this possibility, Dupper and
+Meyer-Adams (2002) have argued that those who witness
+peer harassment (and those who commit such acts) can be
+at risk for negative outcomes. It is reasonable that school
+climate plays such an important role because high school
+students are at a developmental period when their peers
+are an important part of their everyday lives as well as influential in the formation of their self and group identities.
+Considering this developmental position, it is logical that a
+climate that tolerates the harassment of peers would have
+a negative impact on teenagers, regardless of whether they
+are direct victims.
+In line with an organizational perspective on climate for
+harassment, the shared perceptions that those who harass
+girls will not be disciplined, that girls’ complaints will not
+be taken seriously, and that it would be risky for a girl to
+complain was strongly associated with negative outcomes.
+For both boys and girls, it is plausible that observing those
+with little recourse being victimized while authorities tacitly
+sanction the behavior by ignoring it may send a larger message about justice that has a negative influence on their wellbeing. Findings from the workplace support that observing
+harassment and incivility toward women (coworkers) is associated with poorer psychological and work outcomes for
+men and women (Miner-Rubino & Cortina, 2007). Studies
+of ambient harassment (exposure to the harassment of others) find that the effects of sexual harassment in the workplace go beyond the target. For example, perceptions that
+one’s organization tolerates sexual harassment were found
+to predict increased ambient harassment, and ambient harassment was associated with less job satisfaction and more
+psychological distress (Glomb et al., 1997). Indeed, the harassment occurring to women targets in a work environment
+has been linked to detrimental effects for male coworkers
+(Richman-Hirsch & Glomb, 2002).
+Similar to Lee et al. (1996), we conceptualized harassment by adult school personnel as an index of school climate such that school personnel harassing students is an
+abuse of power capable of sending a message that harassment will go unpunished and is thus acceptable. This message is considered gendered because the harassment of
+students by adults was more likely for female students.
+Surprisingly, and contrary to our predictions, harassment
+by adults was not related to outcomes, with the exception of body image for girls. Future research might examine the relationships among harassment by school personnel, school climate, peer harassment, and outcomes more
+
+High School Sexual Harassment
+closely to better understand those processes that inhibit
+such behavior and facilitate a school climate that does not
+tolerate sexual harassment. Recent work by Sims (2005)
+offers an explicit definition of climate as leader behavior,
+and although her definition is limited to perceptions about
+leader responses to harassment in the environment, an extension is to consider the effect of leaders-who-harass (e.g.,
+school authorities) on the behavior of their subordinates
+(e.g., students). This is especially important to consider in a
+school context where the difference between a peer and a
+person with supervisory authority is far greater than in the
+workplace.
+We expected that health satisfaction would be related to
+sexual harassment given that a recent study of young women
+found a direct relationship (e.g., Huerta et al., 2006). However, other research finds that the relationship between
+health perceptions and harassment is mediated by psychological status (e.g., Fitzgerald, Drasgow, Hulin, Gelfand, &
+Magley, 1997), which may be why harassment did not directly predict health satisfaction in our regression models.
+It was surprising that the relationship between harassment
+and self-esteem was not significant given that previous research links the two for adult women and finds harassment
+associated with drops in confidence for adolescents. Recent
+research suggests that self-esteem may have a more complex relationship to harassment and appraisal than simply
+that of an outcome (Wright & Fitzgerald, 2007). Future research might examine the role of self-esteem in relation to
+vulnerability to harm from harassment, particularly using
+longitudinal data, so that directionality can be considered.
+Limitations
+It is important to consider the findings in the context of the
+study’s limitations. The sample was one of convenience and
+may not generalize to other school settings; in addition, the
+sample was exclusively seniors and may not describe harassment experiences of students in earlier grades. Some of
+our measures were adapted from those used with adults in
+the workplace. In particular, we could not find any studies
+in which our measure of health satisfaction was used with
+high school seniors. On the other hand, this measure has
+been used with adults of all ages, and its pattern of correlations with other variables were as expected, suggesting that
+it functions adequately with this age group. However, results related to this measure should not be overstated, and
+its use with high school seniors should be validated in an
+unrelated sample. Our measure of withdrawal from school
+did not have adequate reliability, likely due to its being brief
+and including a wide range of withdrawal behaviors. Findings related to withdrawal should be viewed cautiously and
+future studies should include additional items to strengthen
+the scale.
+Despite conceptualizing some variables as predictors
+and others as outcomes, our findings are correlational and
+cross-sectional, and we cannot say for certain whether these
+
+123
+findings would hold in a longitudinal study of the same variables. Indeed, prospective designs are a particularly rich
+area for future research. Our data were collected via selfreport and were single source, which could lead to common
+method variance and response set bias. As noted above,
+we attempted to minimize bias by placing those measures
+thought of as outcomes prior to, and independent of, harassment and climate. If mono-method bias were present, one
+would expect correlations among harassment, climate, and
+outcomes to be fairly uniform; however, the correlations in
+Table 2 display a range and include those near zero.
+Finally, there is some research that suggests that sexual
+harassment is a fundamentally different experience for men
+and women (e.g., Waldo et al., 1998). For this reason, we approached this research cautiously and examined outcomes
+separately for boys and girls. However, given that this is an
+unresolved issue in the literature, our measure of sexual harassment may not have adequately tapped those behaviors
+that boys find harassing. Certainly, this is an area in which
+future research would be valuable.
+Implications and Conclusions
+This study attempted to address methodological limitations
+in previous research using multi-item measures of harassment that are behavioral, as well as theoretically grounded,
+and that link cognitive appraisal to actual experiences. Our
+findings advance the study of sexual harassment in the
+schools and take us a step closer to understanding students’
+experiences. Both boys and girls suffer when in an environment where peer harassment is allowed to flourish. An
+implication of our research is that those who work in and
+attend secondary schools need to address those factors that
+can create a positive climate where harassment is not tolerated. Given previous research that students perceive teachers and staff as ignoring harassment (AAUW, 1993; Dupper & Meyer-Adams, 2002; Hand & Sanchez, 2000; Lee
+et al., 1996) and our findings that when students perceive
+that teachers and administrators tolerate sexual harassment,
+there is a corresponding increase in peer harassment, this
+issue obviously needs to be addressed. We also argue that
+school personnel not lose sight of sexual harassment as a
+gendered phenomenon when planning prevention and intervention strategies. Girls are particularly targeted with
+sexual harassment, appraise it as more distressing, and experience a wider array of negative outcomes directly associated with harassment. It is essential that policies and programs designed to intervene include an understanding of
+the gendered nature of harassment. Further, we encourage
+researchers and school administrators to partner together
+to develop and test interventions for the purpose of reducing harassment and addressing the direct and indirect harm
+that results from such behavior.
+Initial submission: February 5, 2007
+Initial acceptance: November 11, 2007
+Final acceptance: December 18, 2007
+
+124
+
+ORMEROD ET AL.
+
+NOTES
+1. In contrast, an analog study of teacher perceptions found that
+teachers were able to identify peer harassing behaviors, were
+intolerant of such behaviors, and were willing to take appropriate action to stop harassment (Stone & Couch, 2004).
+2. Thank you to a reviewer for suggesting this sentence.
+3. We weighted the frequency ratings of harassment by appraisal
+ratings as described in the Method section. All of our analyses
+utilize these weighted scores except when examining the mean
+difference scores for harassment. For brevity’s sake, we often
+refer to our findings using these weighted scores as simply “harassment.” However, to remind the reader that our findings
+include both frequency and appraisal, we sometimes refer to
+both components (e.g., “frequent, upsetting harassment,” “frequency and appraisal”).
+4. There is a small body of research on ambient sexual harassment that finds an association between women’s experiences
+with harassment and negative effects on men in their same environment. For example, Richman-Hirsch and Glomb (2002)
+examined whether the general level of the sexual harassment
+of women in a workgroup has an effect on the men in the
+workgroup and found that ambient sexual harassment (indirect exposure to sexual harassment) can be harmful to men.
+
+REFERENCES
+American Association of University Women Educational Foundation. (1993). Hostile hallways: The AAUW survey on sexual
+harassment in America’s schools. Washington, DC: Author.
+American Association of University Women Educational Foundation. (2001). Hostile hallways: Bullying, teasing, and sexual
+harassment in school. Washington, DC: Author.
+Arvey, R. D., & Cavanaugh, M. A. (1995). Using surveys to assess
+the prevalence of sexual harassment: Some methodological
+problems. Journal of Social Issues, 57, 117–138.
+Berdahl, J. L., Magley, V. J., & Waldo, C. R. (1996). The sexual
+harassment of men? Psychology of Women Quarterly, 20,
+527–547.
+Cardwell, T. R. (2000). The effects of peer sexual harassment on
+high school girls and the moderating effects of mother attachment, father attachment, and school climate on grades,
+career decision-making self-efficacy, career aspirations, and
+a composite of negative school indicators. Dissertation Abstracts International, 61, 8B (UMI No. 9984938).
+Chesire, D. J. (2004). Test of an integrated model for high school
+sexual harassment. Dissertation Abstracts International, 66,
+11B (UMI No. 3196663).
+Cochran, C. C., Frazier, P. A., & Olson, A. M. (1997). Predictors
+of responses to unwanted sexual attention. Psychology of
+Women Quarterly, 21, 207–226.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale, NJ: Erlbaum.
+Collinsworth, L. L. (2000). Sexual harassment in high school. Unpublished master’s thesis, University of Illinois at UrbanaChampaign.
+Corbett, K., Gentry, C. S., & Pearson, W. (1993). Sexual harassment in high school. Youth and Society, 25, 93–103.
+Craig, W. M., Pepler, D., Connolly, J., & Henderson, K. (2001).
+Developmental context of peer harassment in early adoles-
+
+cence: The role of puberty and the peer group. In J. Juvonen
+& S. Graham (Eds.), Peer harassment in school: The plight
+of the vulnerable and victimized (pp. 242–261). New York:
+Guilford.
+Derogatis, L. R., & Spencer, P. M. (1982). The Brief Symptom Inventory: Administration, scoring, and procedures manual–
+I. Baltimore: Clinical Psychometric Research.
+Duffy, J., Wareham, S., & Walsh, M. (2004). Psychological consequences for high school students of having been sexually
+harassed. Sex Roles, 50, 811–821.
+Dupper, D. R., & Meyer-Adams, N. (2002). Low-level violence:
+A neglected aspect of school culture. Urban Education, 37,
+350–364.
+Fineran, S., & Bennett, L. (1999). Gender and power issues of
+peer sexual harassment among teenagers. Journal of Interpersonal Violence, 14, 626–641.
+Fitzgerald, L. F., Drasgow, F., Hulin, C. L., Gelfand, M. J., & Magley, V. J. (1997). Antecedents and consequences of sexual
+harassment in organizations: A test of an integrated model.
+Journal of Applied Psychology, 82, 578–589.
+Fitzgerald, L. F., Gelfand, M. J., & Drasgow, F. (1995). Measuring
+sexual harassment: Theoretical and psychometric advances.
+Basic and Applied Social Psychology, 17, 425–445.
+Fitzgerald, L. F., Hulin, C. L., & Drasgow, F. (1995). The antecedents and consequences of sexual harassment in organizations: An integrated model. In G. P. Keita & J. J. Hurrell,
+Jr. (Eds.). Job stress in a changing workforce: Investigating
+gender, diversity, and family issues (pp. 55–74). Washington, DC: American Psychological Association.
+Fitzgerald, L. F., Shullman, S., Bailey, N., Richards, M., Swecker,
+J., Gold, Y., et al. (1988). The incidence and dimensions of
+sexual harassment in academia and the workplace. Journal
+of Vocational Behavior, 32, 152–175.
+Fitzgerald, L. F., Swan, S., & Fischer, K. (1995). Why didn’t she
+just report him? The psychological and legal implications of
+women’s responses to sexual harassment. Journal of Social
+Issues, 51, 117–138.
+Fitzgerald, L. F., Swan, S., & Magley, V. J. (1997). But was it really sexual harassment? Legal, behavioral, and psychological
+definitions of the workplace victimization of women. In W.
+O’Donohue (Eds.), Sexual harassment: Theory, research,
+and treatment (pp. 5–28). Boston: Allyn & Bacon.
+Gelfand, M. J., Fitzgerald, L. F., & Drasgow, F. (1995). The structure of sexual harassment: A confirmatory analysis across
+cultures and settings. Journal of Vocational Behavior, 47,
+164–177.
+Glomb, T. M., Richman, W. L., Hulin, C. L., Drasgow, F., Schneider, K. T., & Fitzgerald, L. F. (1997). Ambient sexual harassment: An integrated model of antecedents and consequences. Organizational Behavior & Human Decision Processes, 71, 309–328.
+Grube, B., & Lens, V. (2003). Student to student harassment: The
+impact of Davis v. Monroe. Children & Schools, 25, 173–
+185.
+Gutek, B. A., & Koss, M. P. (1993). Changed women and changed
+organizations: Consequences of and coping with sexual harassment. Journal of Vocational Behavior, 42, 28–48.
+Hand, J. Z., & Sanchez, L. (2000). Badgering or bantering? Gender differences in experience of, and reactions to, sexual
+harassment among U.S. high school students. Gender &
+Society, 14, 718–746.
+
+High School Sexual Harassment
+Hanisch, K. A., & Hulin, C. L. (1990). Job attitudes and organizational withdrawal: An examination of retirement and other
+voluntary withdrawal behaviors. Journal of Vocational Behavior, 37, 60–78.
+Harned, M. S. (2000). Harassed bodies: An examination of the
+relationships among women’s experiences of sexual harassment, body image, and eating disturbances. Psychology of
+Women Quarterly, 24, 336–348.
+Harned, M. S., & Fitzgerald, L. F. (2002). Understanding the link
+between sexual harassment and eating disorder symptoms:
+A mediational analysis. Journal of Consulting and Clinical
+Psychology, 70, 1170–1181.
+Houston, S., & Hwang, N. (1996). Correlates of the objective and
+subjective experiences of sexual harassment in high school.
+Sex Roles, 34, 189–204.
+Huerta, M., Cortina, L. M., Pang, J. S., Torges, C. M., & Magley,
+M. J. (2006). Sex and power in the academy: Modeling sexual harassment in the lives of college women. Personality
+and Social Psychology Bulletin, 32, 616–628.
+Hulin, C., Fitzgerald, L. F., & Drasgow, F. (1996). Organizational
+influences on sexual harassment. In M. S. Stockdale (Ed.),
+Sexual harassment in the workplace: Perspectives, frontiers,
+and response strategies (pp. 127–150). London: Sage.
+Koss, M. P. (1990). Changed lives: The psychological impact of
+sexual harassment. In M. A. Paludi (Ed.), Ivory power: Sexual harassment on campus (pp. 73–92). Albany, NY: State
+University of New York Press.
+Langhout, R. D., Bergman, M. E., Cortina, L. M., Fitzgerald, L. F.,
+Drasgow, F., & Williams, J. H. (2005). Sexual harassment
+severity: Assessing situational and personal determinants
+and outcomes. Journal of Applied Social Psychology, 35,
+975–1007.
+Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping.
+New York: Springer.
+Lee, V. E., Croninger, R. G., Linn, E., & Chen, X. (1996). The culture of sexual harassment in secondary schools. American
+Educational Research Journal, 33, 383–417.
+Lim, S., & Cortina, L. M. (2005). Interpersonal mistreatment in
+the workplace: The interface and impact of general incivility
+and sexual harassment. Journal of Applied Psychology, 90,
+483–496.
+Magley, V. J., Hulin, C. L., Fitzgerald, L. F., & DeNardo, M.
+(1999). Outcomes of self-labeling sexual harassment. Journal of Applied Psychology, 84, 390–402.
+Mazzeo, S. E. (1999). Modification of an existing measure of body
+image preoccupation and its relationship to disordered eating in female college students. Journal of Counseling Psychology, 46, 42–50.
+Miner-Rubino, K., & Cortina, L. M. (2007). Beyond targets: Consequences of vicarious exposure to misogyny at work. Journal of Applied Psychology, 92, 1254–1269.
+Munson, L. J., Miner, A. G., & Hulin, C. (2001). Labeling sexual
+harassment in the military: An extension and replication.
+Journal of Applied Psychology, 86, 293–303.
+Pryor, J. B., Giedd, J. L., & Williams, K. B. (1995). A social psychological model for predicting sexual harassment. Journal
+of Social Issues, 51, 69–84.
+Pryor, J. B., & Whalen, N. J. (1997). A typology of sexual harassment: Characteristics of harassers and the social cir-
+
+125
+cumstances under which sexual harassment occurs. In W.
+O’Donohue (Ed.), Sexual harassment: Theory, research,
+and treatment (pp. 129–151). Boston: Allyn & Bacon.
+Reed, M. E. (2004). The psychological impact of sexual harassment
+and previous sexual victimization in a sample of class action litigants. Dissertation Abstracts International, 65, 11B
+(UMI No. 3153410).
+Richman-Hirsch, W. L., & Glomb, T. M. (2002). Are men affected
+by the sexual harassment of women? Effects of ambient sexual harassment on men. In J. M. Brett & F. Drasgow (Eds.),
+The psychology of work: Theoretically based empirical research (pp. 121–140). Mahwah, NJ: Erlbaum.
+Rosenberg, M. (1965). Society and the adolescent self image.
+Princeton, NJ: Princeton University Press.
+Rotundo, M., Nguyen, D., & Sackett, P. R. (2001). A metaanalytic review of gender differences in perceptions of sexual harassment. Journal of Applied Psychology, 86, 914–
+922.
+Sabella, R. A. (2001). Faces of sexual harassment in schools. In
+D. S. Sandhu (Ed.), Faces of violence: Psychological correlates, concepts, and intervention strategies (pp. 251–267).
+Hauppauge, NY: Nova Science Publishers, Inc.
+Schneider, K. T., Swan, S., & Fitzgerald, L. F. (1997). Job-related
+and psychological effects of sexual harassment in the workplace: Empirical evidence from two organizations. Journal
+of Applied Psychology, 82, 401–415.
+Sims, C. S. (2005). Reconceptualizing the role of climate in sexual harassment. Dissertation Abstracts International, 67,
+1B (UMI No. 3202171).
+Smith, P. C., Kendall, L., & Hulin, C. L. (1969). The measurement of satisfaction in work and retirement. Chicago: Rand
+McNally.
+Stone, M., & Couch, S. (2004). Peer sexual harassment among
+high school students: Teachers’ attitudes, perceptions, and
+responses. The High School Journal, 88, 1–13.
+Stratton, S. D., & Backes, J. S. (1997). Sexual harassment in North
+Dakota public schools: A study of eight high schools. High
+School Journal, 80, 163–172.
+Strauss, S. (2003). Sexual harassment in K-12. In M. Paludi & C. A.
+Paludi, Jr. (Eds.), Academic and workplace sexual harassment: A handbook of cultural, social science, management,
+and legal perspectives (pp. 105–145). Westport, CT: Greenwood.
+Timmerman, G. (2004). Adolescents’ psychological health and experiences with unwanted sexual behavior at school. Adolescence, 39, 817–825.
+vanRoosmalen, E., & McDaniel, S. A. (1998). Sexual harassment in
+academia: A hazard to women’s health. Women and Health,
+28, 33–54.
+Waldo, C. R., Berdahl, J. L., & Fitzgerald, L. F. (1998). Are men
+sexually harassed? If so, by whom? Law and Human Behavior, 22, 59–79.
+Williams, J. H., Fitzgerald, L. F., & Drasgow, F. (1999). The effects of organizational practices on sexual harassment and
+individual outcomes in the military. Military Psychology,
+11, 303–328.
+Wright, C. V., & Fitzgerald, L. F. (2007). Angry and afraid:
+Women’s appraisal of sexual harassment during litigation.
+Psychology of Women Quarterly, 31, 73–84.
+
+
